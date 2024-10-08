@@ -1,0 +1,654 @@
+{
+    "LittleBigPlanet": {
+        "title_ids": ["BCUS98148", "BCES00141", "NPEA00241", "NPUA80472", "BCAS20058", "BCJS30018", "BCES00611", "BCUS98208", "BCAS20078"],
+        "comm_ids": ["NPWR00160"]
+    },
+    "LittleBigPlanet 2": {
+        "title_ids": ["BCUS98245", "BCES00850", "BCES01086", "BCJS30058", "BCAS20113", "BCKS10150", "NPEA00324", "NPUA80662", "NPEA00437", "BCES01693", "BCES01694", "BCUS98372", "BCUS98249", "BCET70035", "BCET70023", "NPUA70117", "NPUA07128", "NPUA70127", "NPEA90077", "NPEA90098", "NPUA70174", "NPHA80163"],
+        "comm_ids": ["NPWR01210"]
+    },
+    "LittleBigPlanet 3": {
+        "title_ids": ["BCES01663", "BCES02068", "BCUS98362", "BCUS81138", "BCJS30095", "BCAS20322", "NPEA00515", "NPJA00123", "NPHA80277", "NPUA81116"],
+        "comm_ids": ["NPWR03509"]
+    },
+    "LittleBigPlanet Karting": {
+        "title_ids": ["BCUS98254", "BCES01422", "NPUA80848", "NPEA00421", "BCES01423", "BCJS30085", "BCUS99141", "BCAS20205", "BCET70048", "NPUA70208"],
+        "comm_ids": ["NPWR02312"]
+    },
+    "LittleBigPlanet HUB": {
+        "title_ids": ["BCET70055"],
+        "comm_ids": [""]
+    },
+    "Uncharted 2: Among Thieves": {
+        "title_ids": ["BCUS98123"],
+        "comm_ids": ["NPWR00462"]
+    },
+    "Uncharted 3: Drake's Deception": {
+        "title_ids": ["BCES01175", "BCES01176", "BCUS98233", "BCJS37004", "BCAS25009", "BCES01670", "BCES01692", "BCUS99086", "BCAS25014", "NPEA00422", "NPUA80858", "NPUA70183", "BCET70034", "BCET70043", "NPUA70153", "NPUA70180", "NPHA80158"],
+        "comm_ids": ["NPWR01216"]
+    },
+    "Demon's Souls": {
+        "title_ids": ["BLES00932", "BLUS30443", "BCJS30022", "BCAS20071", "NPEB01202", "NPUB30910", "NPJA00102", "BLUD80018"],
+        "comm_ids": ["NPWR01249", "NPWR00881", "NPWR00245"]
+    },
+    "Tekken 6": {
+        "title_ids": ["BLUS30359", "BLES00635", "BLJS10067"],
+        "comm_ids": ["NPWR00482"]
+    },
+    "Tekken 5: Dark Resurrection Online": {
+        "title_ids": ["NPEA00019, NPUB30009, NPJB00001"],
+        "comm_ids": ["NPWR00045"]
+    },
+    "Tekken Tag Tournament 2": {
+        "title_ids": ["BLES01702", "BLUS31002", "BLJS10187", "NPEB01140", "NPUB30899", "NPJB00236", "NPEA00327", "NPUB30591"],
+        "comm_ids": ["NPWR02973"]
+    },
+    "Tekken Tag Tournament 2 Prologue": {
+        "title_ids": ["NPEA00327", "NPUB30591"],
+        "comm_ids": ["NPWR02107"]
+    },
+    "Tekken Tag Tournament HD": {
+        "title_ids": ["NPEA00326", "NPUB30590"],
+        "comm_ids": ["NPWR02108"]
+    },
+    "Tekken Revolution": {
+        "title_ids": ["NPUB31250"],
+        "comm_ids": ["NPWR04645"]
+    },
+    "Skate 2 (EU)": {
+        "title_ids": ["BLES00461"],
+        "comm_ids": ["NPWR00430"]
+    },
+    "Skate 2 (EU 2)": {
+        "title_ids": ["BLES00489"],
+        "comm_ids": ["NPWR00630"]
+    },
+    "Skate 3": {
+        "title_ids": ["BLUS30464", "BLES00760", "BLJM60296"],
+        "comm_ids": ["NPWR01002"]
+    },
+    "Gran Turismo 5": {
+        "title_ids": ["BCES00569", "BCUS98114", "BCAS20108", "BCJS30001"],
+        "comm_ids": ["NPWR00651"]
+    },
+    "Gran Turismo 6": {
+        "title_ids": ["BCAS25018", "BCES01893", "BCES01977", "BCJS37016", "BCUS98296", "NPEA00502", "NPUA81049", "NPHA80269", "NPJA00113", "BCUS99247"],
+        "comm_ids": ["NPWR04712"]
+    },
+    "MLB The Show 16": {
+        "title_ids": ["BCUS01089", "NPUA81353"],
+        "comm_ids": ["NPWR09772"]
+    },
+    "Guitar Hero: Smash Hits": {
+        "title_ids": ["BLUS30290", "BLES00549"],
+        "comm_ids": ["NPWR00677"]
+    },
+    "Guitar Hero: Warriors of Rock": {
+        "title_ids": ["BLUS30487", "BLES00801"],
+        "comm_ids": ["NPWR01107"]
+    },
+    "Guitar Hero Live": {
+        "title_ids": ["BLES02180", "BLUS31556"],
+        "comm_ids": ["NPWR08716"]
+    },
+    "Rayman Legends": {
+        "title_ids": ["BLES01863"],
+        "comm_ids": ["NPWR04537"]
+    },
+    "NHL 14": {
+        "title_ids": ["BLUS31179"],
+        "comm_ids": ["NPWR04578"]
+    },
+    "Minecraft": {
+        "title_ids": ["BLES01976", "BLUS31426", "NPEB01899", "NPUB31419", "NPJB00549"],
+        "comm_ids": ["NPWR05636"]
+    },
+    "Rock Band 3": {
+        "title_ids": ["BLUS30463", "BLES00986"],
+        "comm_ids": ["NPWR00985"]
+    },
+    "Call of Duty Classic": {
+        "title_ids": ["NPUB30065"],
+        "comm_ids": ["NPWR00580"]
+    },
+    "Call of Duty 3 (US)": {
+        "title_ids": ["BLUS30012"],
+        "comm_ids": [""]
+    },
+    "Call of Duty: World At War": {
+        "title_ids": ["BLUS30192, BLES00457"],
+        "comm_ids": ["NPWR00467"]
+    },
+    "Call of Duty 4: Modern Warfare": {
+        "title_ids": ["BLUS30072, NPEB00740"],
+        "comm_ids": ["NPWR00242"]
+    },
+    "Call of Duty: Modern Warfare 2": {
+        "title_ids": ["BLES00683"],
+        "comm_ids": ["NPWR00791"]
+    },
+    "Call of Duty: Modern Warfare 3": {
+        "title_ids": ["BLES01434, BLES01428"],
+        "comm_ids": ["NPWR02322"]
+    },
+    "Call of Duty: Advanced Warfare": {
+        "title_ids": ["BLES02077, BLUS31466"],
+        "comm_ids": ["NPWR07096"]
+    },
+    "Call of Duty: Black Ops": {
+        "title_ids": ["BLES01031", "BLES01032", "BLES01033", "BLES01034", "BLES01035", "BLUS30591", "BLES01105", "BLJM60286", "BLJM60287", "NPEB00756", "NPUB30584", "NPEB00757", "NPEB00758", "NPEB00759", "NPEB00760"],
+        "comm_ids": ["NPWR01247"]
+    },
+    "Call of Duty: Black Ops 2": {
+        "title_ids": ["BLES01717", "BLES01718", "BLES01719", "BLES01720", "BLUS31011", "BLUS31140", "BLJM60548", "BLJM60549", "BLUS31141", "NPEB01204", "NPEB01205", "NPEB01206"],
+        "comm_ids": ["NPWR02059"]
+    },
+    "Call of Duty: Black Ops 3": {
+        "title_ids": ["BLUS31527", "BLES02166", "NPEB02266", "NPUB31665", "BLES02168", "BCJS35003", "NPJA00135"],
+        "comm_ids": ["NPWR08251"]
+    },
+    "Call of Duty: Ghosts": {
+        "title_ids": ["BLES01945, BLUS31270"],
+        "comm_ids": ["NPWR04874"]
+    },
+    "PlayStation Home": {
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010"],
+        "comm_ids": ["NPWR00050", "NPWR00432"]
+    },
+    "Grand Theft Auto V": {
+        "title_ids": ["BLUS31156", "BLES01807", "BLJM61019", "NPEB01283", "NPUB31154", "NPJB00516"],
+        "comm_ids": ["NPWR03885"]
+    },
+    "Midnight Club: Los Angeles": {
+        "title_ids": ["BLUS30442", "BLES00652", "NPEB00546", "NPUB30471", "NPJB00503", "NPHB00411", "BLES00362", "BLUS30190", "BLJS10046", "BLJM60368"],
+        "comm_ids": ["NPWR00180"]
+    },
+    "WWE All Stars": {
+        "title_ids": ["BLES00995", "BLUS30588"],
+        "comm_ids": ["NPWR01520"]
+    },
+    "Supersonic Acrobatic Rocket-Powered Battle-Cars": {
+        "title_ids": ["NPEB00062", "NPUB30035"],
+        "comm_ids": ["NPWR00406"]
+    },
+    "Skylanders Spyro's Adventure": {
+        "title_ids": ["BLUS30779", "BLES01272", "BLJM61044", "BLES01751"],
+        "comm_ids": ["NPWR01756"]
+    },
+    "Armored Core V (EU)": {
+        "title_ids": ["BLES01440"],
+        "comm_ids": ["NPWR03067"]
+    },
+    "Armored Core V (JP)": {
+        "title_ids": ["BLJM60378"],
+        "comm_ids": ["NPWR02037"]
+    },
+    "Armored Core V (US)": {
+        "title_ids": ["BLUS30516"],
+        "comm_ids": ["NPWR03050"]
+    },
+    "Armored Core V (ASIA)": {
+        "title_ids": ["BLAS50448"],
+        "comm_ids": ["NPWR03098"]
+    },
+    "Armored Core: Verdict Day (JP)": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR04352"]
+    },
+    "Armored Core: Verdict Day (EU & US)": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR04749"]
+    },
+    "The Beatles: Rock Band": {
+        "title_ids": ["BLUS30282", "BLES00532"],
+        "comm_ids": ["NPWR00654"]
+    },
+    "God of War: Ascension": {
+        "title_ids": ["BCES01741", "BCES01742", "BCUS98232", "NPEA00445", "NPUA80918", "NPHA80258", "BCJS37008", "BCAS25016", "NPJA00094", "BCET70050", "NPUA70216"],
+        "comm_ids": ["NPWR00802"]
+    },
+    "Mortal Kombat": {
+        "title_ids": ["BLES01132", "BLUS30522", "NPEB00847", "NPUB30668", "BLES01508", "BLUS30902"],
+        "comm_ids": ["NPWR01747"]
+    },
+    "Driver: San Francisco": {
+        "title_ids": ["BLUS30536", "BLES00891", "BLES00951", "NPEB00632", "BLES00892", "BLJM60231", "NPJB00183"],
+        "comm_ids": ["NPWR00331"]
+    },
+    "NCAA Football 14": {
+        "title_ids": ["BLUS31159", "NPUB31137"],
+        "comm_ids": ["NPWR04328"]
+    },
+    "Warhawk": {
+        "title_ids": ["BCUS98117", "BCES00008", "NPUA80077", "NPJA00008", "NPEA00017"],
+        "comm_ids": ["NPWR00163"]
+    },
+    "Plants vs. Zombies: Garden Warfare": {
+        "title_ids": ["BLUS31410", "BLES02021", "BLJM61194", "NPEB01997", "NPUB31457", "NPJB00623"],
+        "comm_ids": ["NPWR06257"]
+    },
+    "Mobile Suit Gundam: Extreme VS Full Boost": {
+        "title_ids": ["BLJS10250", "BLAS50677", "NPJB00512"],
+        "comm_ids": ["NPWR04269"]
+    },
+    "Warhammer 40,000: Space Marine": {
+        "title_ids": ["BLES01347", "BLUS30432", "NPEB00648", "NPUB30576", "BLJM60392", "BLAS50372", "BLKS20317"],
+        "comm_ids": ["NPWR00855"]
+    },
+    "Dragon Ball Z: Battle of Z": {
+        "title_ids": ["BLUS31314", "BLES01941", "NPEB01823", "BLJS10234", "NPJB00448", "NPUB31322"],
+        "comm_ids": ["NPWR04847"]
+    },
+    "Metal Gear Solid: Peace Walker HD Edition": {
+        "title_ids": ["BLJM60351", "NPEB00686", "NPUB30611", "NPJB00123"],
+        "comm_ids": ["NPWR01848"]
+    },
+    "Metal Gear Solid 2: Sons of Liberty HD Edition": {
+        "title_ids": [],
+        "comm_ids": ["NPWR02380"]
+    },
+    "Metal Gear Solid 3: Snake Eater HD Edition": {
+        "title_ids": [],
+        "comm_ids": ["NPWR02381"]
+    },
+    "Metal Gear Solid 4: Guns of the Patriots": {
+        "title_ids": [],
+        "comm_ids": ["NPWR03485"]
+    },
+    "Metal Gear Rising: Revengeance": {
+        "title_ids": [],
+        "comm_ids": ["NPWR04001"]
+    },
+    "Metal Gear Online": {
+        "title_ids": ["BLJM60082"],
+        "comm_ids": [""]
+    },
+    "Metal Gear Solid V: Ground Zeroes": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR04728"]
+    },
+    "Metal Gear Solid V: The Phantom Pain": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR08167"]
+    },
+    "Persona 5 (EU & US)": {
+        "title_ids": ["BLES02247", "BLUS31604", "BLJM61346", "NPEB02436", "NPJB00769", "NPUB31848"],
+        "comm_ids": ["NPWR11866"]
+    },
+    "Persona 5 (JP)": {
+        "title_ids": ["BLJM61346", "NPJB00769"],
+        "comm_ids": ["NPWR08958"]
+    },
+    "Persona 4 Arena": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR02915"]
+    },
+    "Persona 4 Arena Ultimax": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR06200"]
+    },
+    "Virtua Fighter 5: Final Showdown": {
+        "title_ids": ["NPEB00913", "NPUB30625", "NPJB00194", "NPHB00489"],
+        "comm_ids": ["NPWR02868"]
+    },
+    "Virtua Fighter 5": {
+        "title_ids": ["BLES00029", "BLJM60016", "BLUS30020"],
+        "comm_ids": [""]
+    },
+    "Major League Baseball 2K13": {
+        "title_ids": ["BLUS31167"],
+        "comm_ids": ["NPWR04423"]
+    },
+    "Killzone 2": {
+        "title_ids": ["BCUS98116", "BCES00081", "BCAS20066", "BCJS30032"],
+        "comm_ids": ["NPWR00153"]
+    },
+    "Resistance: Fall of Man": {
+        "title_ids": ["BCES00001", "BCUS98107", "BCJS30003", "BCAS20003", "NPEA00430"],
+        "comm_ids": ["NPWR00011"]
+    },
+    "Resistance 2": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00291"]
+    },
+    "Resistance 3": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR01841"]
+    },
+    "Battlefield: Bad Company": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00323"]
+    },
+    "Battlefield: Bad Company 2": {
+        "title_ids": ["BLES00773", "BLES00779", "BLUS30517", "BLUS30458", "BLJM60197", "NPEB00724", "NPUB30583"],
+        "comm_ids": ["NPWR01006"]
+    },
+    "Battlefield 1943": {
+        "title_ids": ["NPEB00092", "NPUB30077", "NPHB00098", "NPJB00027"],
+        "comm_ids": ["NPWR00756"]
+    },
+    "Battlefield 3": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR02011"]
+    },
+    "Battlefield 4": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR04412"]
+    },
+    "Battlefield: Hardline": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR06855"]
+    },
+    "DJ Hero": {
+        "title_ids": ["BLES00602", "BLUS30368"],
+        "comm_ids": ["NPWR00777"]
+    },
+    "DJ Hero 2": {
+        "title_ids": ["BLES00896", "BLUS30526"],
+        "comm_ids": ["NPWR01257"]
+    },
+    "Green Day: Rock Band": {
+        "title_ids": ["BLUS30350", "BLES00787"],
+        "comm_ids": ["NPWR01021"]
+    },
+    "Castlevania: Harmony of Despair": {
+        "title_ids": ["NPUB30505", "NPEB00563"],
+        "comm_ids": ["NPWR01823"]
+    },
+    "Marvel vs Capcom 2": {
+        "title_ids": ["NPUB30068", "NPEB00087"],
+        "comm_ids": ["NPWR00517"]
+    },
+    "Dragon Ball: Raging Blast 2": {
+        "title_ids": ["BLES00978", "BLUS30581", "BLJS10085"],
+        "comm_ids": ["NPWR01286"]
+    },
+    "Resident Evil 5": {
+        "title_ids": ["BLUS30270", "BLES00485", "BLES00816", "BLUS30491", "NPEB00687", "NPUB30564", "BLJM60199"],
+        "comm_ids": ["NPWR00404"]
+    },
+    "Fat Princess": {
+        "title_ids": ["NPUA80139", "NPEA00111", "NPJA00048", "NPHA80066"],
+        "comm_ids": ["NPWR00737"]
+    },
+    "Ragnarok Odyssey Ace": {
+        "title_ids": ["BLUS31386", "NPEB01926", "NPUB31406", "NPJB00531", "NPHB00651"],
+        "comm_ids": ["NPWR04119"]
+    },
+    "JoJo's Bizarre Adventure: All-Star Battle (EU & US)": {
+        "title_ids": ["BLES01986", "BLUS31405", "NPEB01922", "NPUB31391"],
+        "comm_ids": ["NPWR05840"]
+    },
+    "JoJo's Bizarre Adventure: All-Star Battle (JP)": {
+        "title_ids": ["BLJS10217", "NPJB00331"],
+        "comm_ids": ["NPWR03545"]
+    },
+    "JoJo's Bizarre Adventure: Eyes of Heaven": {
+        "title_ids": ["BLJS10318", "NPJB00753"],
+        "comm_ids": ["NPWR09694"]
+    },
+    "Initial D Extreme Stage": {
+        "title_ids": ["BLAS50053", "BLJM60055"],
+        "comm_ids": [""]
+    },
+    "Wangan Midnight": {
+        "title_ids": ["BLJM60028"],
+        "comm_ids": [""]
+    },
+    "Super Street Fighter 2 Turbo HD": {
+        "title_ids": ["NPUB30034", "NPEB00036"],
+        "comm_ids": [""]
+    },
+    "SoulCalibur V": {
+        "title_ids": ["BLUS30736", "BLES01250", "NPEB01363", "BLJS10115", "NPUB31195", "NPJB00381"],
+        "comm_ids": ["NPWR01738"]
+    },
+    "SoulCalibur IV": {
+        "title_ids": ["BLES00296", "BLUS30160", "BLJS10026"],
+        "comm_ids": [""]
+    },
+    "SoulCalibur II HD Online (JP)": {
+        "title_ids": ["NPJB00590"],
+        "comm_ids": ["NPWR05922"]
+    },
+    "SoulCalibur II HD Online (EU & US)": {
+        "title_ids": ["NPEB01828", "NPUB31366"],
+        "comm_ids": ["NPWR05209"]
+    },
+    "Street Fighter x Tekken": {
+        "title_ids": ["BLES01252", "BLUS30722", "BLJM60350", "NPEB01792", "NPUB31172", "NPJB00423"],
+        "comm_ids": ["NPWR01781"]
+    },
+    "Red Dead Redemption": {
+        "title_ids": ["BLES00680"],
+        "comm_ids": ["NPWR00867"]
+    },
+    "Dead Island (EU & US)": {
+        "title_ids": ["BLES01681"],
+        "comm_ids": ["NPWR00956"]
+    },
+    "Dead Island (JP)": {
+        "title_ids": ["BLJS10148"],
+        "comm_ids": ["NPWR02471"]
+    },
+    "Dead Island Riptide (EU & US)": {
+        "title_ids": ["BLES01739"],
+        "comm_ids": ["NPWR03806"]
+    },
+    "Dead Island Riptide (JP)": {
+        "title_ids": ["BLJS10228", "NPJB00413"],
+        "comm_ids": ["NPWR04746"]
+    },
+    "Naruto Shippuden: Ultimate Ninja Storm Revolution": {
+        "title_ids": ["BLES02014"],
+        "comm_ids": ["NPWR06010"]
+    },
+    "Naruto Shippuden: Ultimate Ninja Storm 2": {
+        "title_ids": ["BLES00952"],
+        "comm_ids": ["NPWR00637"]
+    },
+    "Naruto Shippuden: Ultimate Ninja Storm 3": {
+        "title_ids": ["BLES01764"],
+        "comm_ids": ["NPWR03525"]
+    },
+    "Naruto Shippuden: Ultimate Ninja Storm Generations": {
+        "title_ids": ["BLJS10156"],
+        "comm_ids": ["NPWR01886"]
+    },
+    "The Cursed Crusade (US)": {
+        "title_ids": ["NPUB30683"],
+        "comm_ids": ["NPWR01865"]
+    },
+    "The Cursed Crusade (EU)": {
+        "title_ids": ["BLES01299"],
+        "comm_ids": ["NPWR01866"]
+    },
+    "The Cursed Crusade (KOR)": {
+        "title_ids": ["BLKS20320"],
+        "comm_ids": ["NPWR01867"]
+    },
+    "Payday 2": {
+        "title_ids": ["BLES01902"],
+        "comm_ids": ["NPWR05046"]
+    },
+    "Payday: The Heist": {
+        "title_ids": ["NPUA30073"],
+        "comm_ids": ["NPWR02303"]
+    },
+    "Rambo The Video Game": {
+        "title_ids": ["BLES01963"],
+        "comm_ids": ["NPWR05256"]
+    },
+    "Tony Hawk's Pro Skater HD": {
+        "title_ids": ["NPUB30732"],
+        "comm_ids": ["NPWR03236"]
+    },
+    "Moon Diver": {
+        "title_ids": ["NPUB30345"],
+        "comm_ids": ["NPWR01511"]
+    },
+    "Top Spin 4": {
+        "title_ids": ["BLUS30427"],
+        "comm_ids": ["NPWR00807"]
+    },
+    "Blur": {
+        "title_ids": ["BLES00759"],
+        "comm_ids": ["NPWR00567"]
+    },
+    "Street Fighter IV": {
+        "title_ids": ["BLUS30265"],
+        "comm_ids": ["NPWR00434"]
+    },
+    "Super Street Fighter IV": {
+        "title_ids": ["BLUS30453"],
+        "comm_ids": ["NPWR00938"]
+    },
+    "Streets of Rage 2": {
+        "title_ids": ["NPUB30444"],
+        "comm_ids": ["NPWR00585"]
+    },
+    "Daytona USA": {
+        "title_ids": ["NPUB30493"],
+        "comm_ids": ["NPWR01815"]
+    },
+    "Shadows of the Damned (US)": {
+        "title_ids": ["BLUS30653"],
+        "comm_ids": ["NPWR01839"]
+    },
+    "Shadows of the Damned (EU)": {
+        "title_ids": ["BLES01276"],
+        "comm_ids": ["NPWR01840"]
+    },
+    "Sega Rally Online Arcade": {
+        "title_ids": ["NPUB30375"],
+        "comm_ids": ["NPWR01655"]
+    },
+    "Sniper Elite V2": {
+        "title_ids": ["BLES01290"],
+        "comm_ids": ["NPWR01654"]
+    },
+    "Sniper Elite 3": {
+        "title_ids": ["BLES01981"],
+        "comm_ids": ["NPWR05711"]
+    },
+    "MotorStorm: Pacific Rift": {
+        "title_ids": ["BCES00129"],
+        "comm_ids": ["NPWR00214"]
+    },
+    "MotorStorm": {
+        "title_ids": ["BCES00006"],
+        "comm_ids": ["NPWR00012"]
+    },
+    "MotorStorm: Apocalypse": {
+        "title_ids": ["BCES00484"],
+        "comm_ids": ["NPWR00899"]
+    },
+    "Borderlands 2": {
+        "title_ids": ["BLUS30982, BLES01684"],
+        "comm_ids": ["NPWR01537"]
+    },
+    "Borderlands": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00612"]
+    },
+    "Transformers: Revenge of the Fallen": {
+        "title_ids": ["BLES00577, BLUS30297"],
+        "comm_ids": ["NPWR00442"]
+    },
+    "Transformers: War for Cybertron": {
+        "title_ids": ["BLES00833", "BLUS30357"],
+        "comm_ids": ["NPWR00891"]
+    },
+    "SOCOM: U.S Navy SEALs Confrontation": {
+        "title_ids": ["BCES00173", "BCUS98152", "BCUS98183"],
+        "comm_ids": ["NPWR00302"]
+    },
+    "Naughty Bear": {
+        "title_ids": ["BLUS30700"],
+        "comm_ids": ["NPWR00900"]
+    },
+    "Dragon's Crown": {
+        "title_ids": ["BLJM61041"],
+        "comm_ids": ["NPWR03852"]
+    },
+    "WipEout HD": {
+        "title_ids": ["BCES00664", "NPUA80105"],
+        "comm_ids": ["NPWR00187"]
+    },
+    "PlayStation All-Stars Battle Royale": {
+        "title_ids": ["BCES01435", "BCUS98472"],
+        "comm_ids": ["NPWR02621"]
+    },
+    "Dante's Inferno": {
+        "title_ids": ["BLES00713"],
+        "comm_ids": ["NPWR00745"]
+    },
+    "Madden NFL 09": {
+        "title_ids": ["BLUS30146", "BLES00285", "BLJM60088", "BLUS30170", "BLUS30150"],
+        "comm_ids": [""]
+    },
+    "inFamous 2": {
+        "title_ids": ["BCES01143"],
+        "comm_ids": [""]
+    },
+    "Rock Band Blitz": {
+        "title_ids": ["NPUB30749", "NPEB00988"],
+        "comm_ids": ["NPWR03412"]
+    },
+    "Dragon's Dogma: Dark Arisen": {
+        "title_ids": ["BLUS31155"],
+        "comm_ids": [""]
+    },
+    "Sengoku Basara 4: Sumeragi": {
+        "title_ids": ["BLJM61248"],
+        "comm_ids": [""]
+    },
+    "Guitar Hero: Metallica": {
+        "title_ids": ["BLUS30257"],
+        "comm_ids": ["NPWR00478"]
+    },
+    "Modnation Racers": {
+        "title_ids": ["BCUS98167", "BCES00764"],
+        "comm_ids": ["NPWR00300"]
+    },
+    "NBA 2k14": {
+        "title_ids": ["BLUS31204"],
+        "comm_ids": ["NPWR04773"]
+    },
+    "NBA 2k16": {
+        "title_ids": ["BLUS31542"],
+        "comm_ids": ["NPWR08893"]
+    },
+    "2014 FIFA World Cup Brazil": {
+        "title_ids": ["BLUS31389"],
+        "comm_ids": ["NPWR05920"]
+    },
+    "Fight Night Champion": {
+        "title_ids": ["BLUS30608"],
+        "comm_ids": [""]
+    },
+    "Rock Band 2": {
+        "title_ids": ["BLUS30147", "BLES00385"],
+        "comm_ids": ["NPWR00440"]
+    },
+    "Army of TWO": {
+        "title_ids": ["BLUS30057"],
+        "comm_ids": [""]
+    },
+    "Army of TWO The Devil's Cartel": {
+        "title_ids": ["BLES01763"],
+        "comm_ids": ["NPWR03984"]
+    },
+    "Army of TWO: The 40th Day (EU)": {
+        "title_ids": ["BLES00659"],
+        "comm_ids": ["NPWR00685"]
+    },
+    "Army of TWO: The 40th Day (JP)": {
+        "title_ids": ["BLJM60216"],
+        "comm_ids": ["NPWR01118"]
+    },
+    "Operation Flashpoint: Red River": {
+        "title_ids": ["BLES01171"],
+        "comm_ids": ["NPWR01323"]
+    }
+}
