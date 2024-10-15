@@ -99,6 +99,10 @@
         "title_ids": ["BLUS31179"],
         "comm_ids": ["NPWR04578"]
     },
+    "NHL 15": {
+        "title_ids": ["BLUS31436"],
+        "comm_ids": ["NPWR06281"]
+    },
     "Minecraft": {
         "title_ids": ["BLES01976", "BLUS31426", "NPEB01899", "NPUB31419", "NPJB00549"],
         "comm_ids": ["NPWR05636"]
@@ -580,7 +584,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "Dante's Inferno": {
-        "title_ids": ["BLES00713"],
+        "title_ids": ["BLES00713", "BLES00714"],
         "comm_ids": ["NPWR00745"]
     },
     "Madden NFL 09": {
@@ -650,5 +654,65 @@
     "Operation Flashpoint: Red River": {
         "title_ids": ["BLES01171"],
         "comm_ids": ["NPWR01323"]
+    },
+    "FIFA 09": {
+        "title_ids": ["BLES00314"],
+        "comm_ids": ["NPWR00357"]
+    },
+    "FIFA 10": {
+        "title_ids": ["BLES00615"],
+        "comm_ids": ["NPWR00755"]
+    },
+    "FIFA 11": {
+        "title_ids": ["BLES01059"],
+        "comm_ids": ["NPWR01198"]
+    },
+    "FIFA 12": {
+        "title_ids": ["BLES01381"],
+        "comm_ids": ["NPWR02104"]
+    },
+    "FIFA 13": {
+        "title_ids": ["BLES01676", "BLUS30998"],
+        "comm_ids": ["NPWR03612"]
+    },
+    "FIFA 14": {
+        "title_ids": ["BLUS31189"],
+        "comm_ids": ["NPWR04616"]
+    },
+    "FIFA 15": {
+        "title_ids": ["BLUS31443"],
+        "comm_ids": ["NPWR06683"]
+    },
+    "FIFA 16": {
+        "title_ids": ["BLUS31543"],
+        "comm_ids": ["NPWR08725"]
+    },
+    "FIFA 17": {
+        "title_ids": ["BLES02233"],
+        "comm_ids": ["NPWR10869"]
+    },
+    "FIFA 18": {
+        "title_ids": ["BLES02250", "BLUS31610"],
+        "comm_ids": ["NPWR12875"]
+    },
+    "Lost Planet 3": {
+        "title_ids": ["BLUS31020"],
+        "comm_ids": ["NPWR03601"]
+    },
+    "F1 2013": {
+        "title_ids": ["BLES01870"],
+        "comm_ids": ["NPWR04657"]
+    },
+    "Burnout Paradise": {
+        "title_ids": ["BLUS30061"],
+        "comm_ids": [""]
+    },
+    "UFC Undisputed 3": {
+        "title_ids": ["BLES01231"],
+        "comm_ids": ["NPWR01372"]
+    },
+    "Dark Souls": {
+        "title_ids": ["BLJM60517"],
+        "comm_ids": ["NPWR00817"]
     }
 }
