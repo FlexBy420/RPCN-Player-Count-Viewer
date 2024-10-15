@@ -1576,7 +1576,7 @@
         "comm_ids": ["NPWR04072"]
     },
     "Deadstorm Pirates": {
-        "title_ids": ["BCES01070"],
+        "title_ids": [""],
         "comm_ids": ["NPWR01278"]
     },
     "Death Track: Resurrection": {
@@ -1648,15 +1648,15 @@
         "comm_ids": ["NPWR05115"]
     },
     "Devil May Cry 2 HD": {
-        "title_ids": ["BLES01228"],
+        "title_ids": [""],
         "comm_ids": ["NPWR01759"]
     },
     "Devil May Cry 3 HD": {
-        "title_ids": ["BLES01228"],
+        "title_ids": [""],
         "comm_ids": ["NPWR01760"]
     },
     "Devil May Cry HD": {
-        "title_ids": ["BLES01228"],
+        "title_ids": [""],
         "comm_ids": ["NPWR01758"]
     },
     "Diablo III": {
@@ -2372,11 +2372,11 @@
         "comm_ids": ["NPWR05741", "NPWR04731"]
     },
     "FINAL FANTASY X HD Remaster": {
-        "title_ids": ["BLJM61093"],
+        "title_ids": [""],
         "comm_ids": ["NPWR04915"]
     },
     "FINAL FANTASY X-2 HD Remaster": {
-        "title_ids": ["BLJM61093"],
+        "title_ids": [""],
         "comm_ids": ["NPWR05019"]
     },
     "FINAL FANTASY XIII": {
@@ -2596,11 +2596,11 @@
         "comm_ids": ["NPWR00802"]
     },
     "God of War: Chains of Olympus": {
-        "title_ids": ["BCES01278"],
+        "title_ids": [""],
         "comm_ids": ["NPWR02070"]
     },
     "God of War: Ghost of Sparta": {
-        "title_ids": ["BCES01278"],
+        "title_ids": [""],
         "comm_ids": ["NPWR02071"]
     },
     "GODZILLA": {
@@ -2840,7 +2840,7 @@
         "comm_ids": ["NPWR00732"]
     },
     "Hitman 2: Silent Assassin": {
-        "title_ids": ["BLES01517"],
+        "title_ids": [""],
         "comm_ids": ["NPWR03684"]
     },
     "Hitman: Absolution": {
@@ -2848,11 +2848,11 @@
         "comm_ids": ["NPWR01566"]
     },
     "Hitman: Blood Money": {
-        "title_ids": ["BLES01517"],
+        "title_ids": [""],
         "comm_ids": ["NPWR03680"]
     },
     "Hitman: Contracts": {
-        "title_ids": ["BLES01517"],
+        "title_ids": [""],
         "comm_ids": ["NPWR03681"]
     },
     "Hitogata Happa": {
@@ -3316,27 +3316,27 @@
         "comm_ids": ["NPWR07904"]
     },
     "KINGDOM HEARTS 358/2 Days": {
-        "title_ids": ["BLJM60589"],
+        "title_ids": [""],
         "comm_ids": ["NPWR04102"]
     },
     "KINGDOM HEARTS Birth by Sleep FINAL MIX": {
-        "title_ids": ["BLJM61220"],
+        "title_ids": [""],
         "comm_ids": ["NPWR06250"]
     },
     "KINGDOM HEARTS FINAL MIX": {
-        "title_ids": ["BLJM60589"],
+        "title_ids": [""],
         "comm_ids": ["NPWR04063"]
     },
     "KINGDOM HEARTS II FINAL MIX": {
-        "title_ids": ["BLJM61220"],
+        "title_ids": [""],
         "comm_ids": ["NPWR06243"]
     },
     "KINGDOM HEARTS Re:Chain of Memories": {
-        "title_ids": ["BLJM60589"],
+        "title_ids": [""],
         "comm_ids": ["NPWR04101"]
     },
     "KINGDOM HEARTS Re:coded": {
-        "title_ids": ["BLJM61220"],
+        "title_ids": [""],
         "comm_ids": ["NPWR06246"]
     },
     "Kingdoms of Amalur: Reckoning (EU)": {
@@ -3732,7 +3732,7 @@
         "comm_ids": ["NPWR00989", "NPWR01311"]
     },
     "Major League Baseball 2K11": {
-        "title_ids": ["BLES01321", "BLJS10112", "BLUS30592"],
+        "title_ids": ["BLES01321", "BLJS10112"],
         "comm_ids": ["NPWR01894", "NPWR01887", "NPWR01718"]
     },
     "Major League Baseball 2K12": {
@@ -4043,8 +4043,8 @@
         "title_ids": ["BLES01191"],
         "comm_ids": ["NPWR01656"]
     },
-    "Monkey Island 2 Special EditionLeChuck's Revenge": {
-        "title_ids": ["BLES01413"],
+    "Monkey Island 2 Special Edition LeChuck's Revenge": {
+        "title_ids": [""],
         "comm_ids": ["NPWR01192"]
     },
     "MONOPOLY DEAL": {
@@ -4692,7 +4692,7 @@
         "comm_ids": ["NPWR06200"]
     },
     "Persona 5 (EU & US)": {
-        "title_ids": ["BLES02247", "BLUS31604", "BLJM61346", "NPEB02436", "NPJB00769", "NPUB31848"],
+        "title_ids": ["BLES02247", "BLUS31604", "NPEB02436", "NPUB31848"],
         "comm_ids": ["NPWR11866"]
     },
     "Persona 5 (JP)": {
@@ -4775,15 +4775,15 @@
         "title_ids": ["BCES01435"],
         "comm_ids": ["NPWR02621"]
     },
-    "PlayStationHome": {
-        "title_ids": ["NPIA00005"],
-        "comm_ids": ["NPWR00050"]
+    "PlayStation Home": {
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010"],
+        "comm_ids": ["NPWR00050", "NPWR00432"]
     },
-    "PlayStationMove Fitness": {
+    "PlayStation Move Fitness": {
         "title_ids": ["NPUA80823"],
         "comm_ids": ["NPWR04306"]
     },
-    "PlayStationMove Heroes": {
+    "PlayStation Move Heroes": {
         "title_ids": ["BCES00956"],
         "comm_ids": ["NPWR01570"]
     },
@@ -4848,60 +4848,100 @@
         "comm_ids": ["NPWR01112"]
     },
     "Prince of Persia: The Sands of Time": {
-        "title_ids": ["BLES01092"],
+        "title_ids": [""],
         "comm_ids": ["NPWR01506"]
     },
     "Prince of Persia: The Two Thrones": {
-        "title_ids": ["BLES01092"],
+        "title_ids": [""],
         "comm_ids": ["NPWR01551"]
     },
     "Prince of Persia: Warrior Within": {
-        "title_ids": ["BLES01092"],
+        "title_ids": [""],
         "comm_ids": ["NPWR01526"]
     },
     "Prison Break": {
         "title_ids": ["BLES00765"],
         "comm_ids": ["NPWR00949"]
     },
-    "Pro Evolution Soccer 2010": {
-        "title_ids": ["BLES00688", "BLUS30404"],
-        "comm_ids": ["NPWR00673", "NPWR00862"]
+    "Pro Evolution Soccer 2010 (EU)": {
+        "title_ids": ["BLES00688"],
+        "comm_ids": ["NPWR00673"]
     },
-    "Pro Evolution Soccer 2011": {
-        "title_ids": ["BLUS30610", "BLES01020"],
-        "comm_ids": ["NPWR01450", "NPWR01405"]
+    "Pro Evolution Soccer 2010 (US)": {
+        "title_ids": ["BLUS30404"],
+        "comm_ids": ["NPWR00862"]
     },
-    "Pro Evolution Soccer 2012": {
-        "title_ids": ["BLUS30805", "BLES01408"],
-        "comm_ids": ["NPWR02490", "NPWR02300"]
+    "Pro Evolution Soccer 2011 (EU)": {
+        "title_ids": ["BLES01020"],
+        "comm_ids": ["NPWR01405"]
     },
-    "Pro Evolution Soccer 2013": {
-        "title_ids": ["BLES01709", "BLUS31029"],
-        "comm_ids": ["NPWR03692", "NPWR03760"]
+    "Pro Evolution Soccer 2011 (US)": {
+        "title_ids": ["BLUS30610"],
+        "comm_ids": ["NPWR01450"]
     },
-    "Pro Evolution Soccer 2014": {
-        "title_ids": ["BLES01930", "BLUS31322"],
-        "comm_ids": ["NPWR05005", "NPWR05076"]
+    "Pro Evolution Soccer 2012 (EU)": {
+        "title_ids": ["BLES01408"],
+        "comm_ids": ["NPWR02300"]
     },
-    "Pro Evolution Soccer 2015": {
-        "title_ids": ["BLUS31480", "BLES02088"],
-        "comm_ids": ["NPWR07335", "NPWR07334"]
+    "Pro Evolution Soccer 2012 (US)": {
+        "title_ids": ["BLUS30805"],
+        "comm_ids": ["NPWR02490"]
     },
-    "Pro Evolution Soccer 2016": {
-        "title_ids": ["BLUS31564", "BLES02187"],
-        "comm_ids": ["NPWR09147", "NPWR09148"]
+    "Pro Evolution Soccer 2013 (EU)": {
+        "title_ids": ["BLES01709"],
+        "comm_ids": ["NPWR03692"]
     },
-    "Pro Evolution Soccer 2017": {
-        "title_ids": ["BLES02237", "BLUS31598"],
-        "comm_ids": ["NPWR11024", "NPWR11023"]
+    "Pro Evolution Soccer 2013 (US)": {
+        "title_ids": ["BLUS31029"],
+        "comm_ids": ["NPWR03760"]
     },
-    "PRO EVOLUTION SOCCER 2018": {
-        "title_ids": ["BLES02252", "BLUS31612"],
-        "comm_ids": ["NPWR13117", "NPWR13116"]
+    "Pro Evolution Soccer 2014 (EU)": {
+        "title_ids": ["BLES01930"],
+        "comm_ids": ["NPWR05005"]
     },
-    "Pro Foosball": {
-        "title_ids": ["NPUB31238", "NPEA00396"],
-        "comm_ids": ["NPWR04670", "NPWR03641"]
+    "Pro Evolution Soccer 2014 (US)": {
+        "title_ids": ["BLUS31322"],
+        "comm_ids": ["NPWR05076"]
+    },
+    "Pro Evolution Soccer 2015 (EU)": {
+        "title_ids": ["BLES02088"],
+        "comm_ids": ["NPWR07334"]
+    },
+    "Pro Evolution Soccer 2015 (US)": {
+        "title_ids": ["BLUS31480"],
+        "comm_ids": ["NPWR07335"]
+    },
+    "Pro Evolution Soccer 2016 (EU)": {
+        "title_ids": ["BLES02187"],
+        "comm_ids": ["NPWR09148"]
+    },
+    "Pro Evolution Soccer 2016 (US)": {
+        "title_ids": ["BLUS31564"],
+        "comm_ids": ["NPWR09147"]
+    },
+    "Pro Evolution Soccer 2017 (EU)": {
+        "title_ids": ["BLES02237"],
+        "comm_ids": ["NPWR11024"]
+    },
+    "Pro Evolution Soccer 2017 (US)": {
+        "title_ids": ["BLUS31598"],
+        "comm_ids": ["NPWR11023"]
+    },
+    "PRO EVOLUTION SOCCER 2018 (EU)": {
+        "title_ids": ["BLES02252"],
+        "comm_ids": ["NPWR13117"]
+    },
+    "PRO EVOLUTION SOCCER 2018 (US)": {
+        "title_ids": ["BLUS31612"],
+        "comm_ids": ["NPWR13116"]
+    },
+    "Pro Foosball (EU)": {
+        "title_ids": ["NPEA00396"],
+        "comm_ids": ["NPWR03641"]
+    },
+    "Pro Foosball (US)": {
+        "title_ids": ["NPUB31238"],
+        "comm_ids": ["NPWR04670"]
     },
     "Professional Baseball Spirits 2012": {
         "title_ids": ["BLAS50422"],
@@ -5100,11 +5140,11 @@
         "comm_ids": ["NPWR02335"]
     },
     "Ratchet & Clank 2": {
-        "title_ids": ["BCUS98282"],
+        "title_ids": [""],
         "comm_ids": ["NPWR02346"]
     },
     "Ratchet & Clank 3: Up Your Arsenal": {
-        "title_ids": ["BCUS98282"],
+        "title_ids": [""],
         "comm_ids": ["NPWR02347"]
     },
     "Ratchet & Clank: A Crack in Time": {
@@ -5736,8 +5776,8 @@
         "comm_ids": ["NPWR01503"]
     },
     "Shadows of the Damned (EU)": {
-        "title_ids": ["BLES01276", "BLUS30653"],
-        "comm_ids": ["NPWR01840", "NPWR01839"]
+        "title_ids": ["BLES01276"],
+        "comm_ids": ["NPWR01840"]
     },
     "Shadows of the Damned (US)": {
         "title_ids": ["BLUS30653"],
@@ -6108,8 +6148,8 @@
         "comm_ids": ["NPWR08464"]
     },
     "Space Hulk (US)": {
-        "title_ids": ["NPUB31662", "NPEB02244"],
-        "comm_ids": ["NPWR08994", "NPWR08464"]
+        "title_ids": ["NPUB31662"],
+        "comm_ids": ["NPWR08994"]
     },
     "SPACE INVADERS INFINITY GENE": {
         "title_ids": ["NPUB30305"],
@@ -6148,8 +6188,8 @@
         "comm_ids": ["NPWR00409"]
     },
     "SPELUNKER HD (US)": {
-        "title_ids": ["NPJB00187"],
-        "comm_ids": ["NPWR00409"]
+        "title_ids": ["NPUB30152"],
+        "comm_ids": ["NPWR01403"]
     },
     "Spelunky": {
         "title_ids": ["NPUB31288"],
@@ -6468,11 +6508,11 @@
         "comm_ids": ["NPWR01331"]
     },
     "Tales of Symphonia": {
-        "title_ids": ["BLUS31172"],
+        "title_ids": [""],
         "comm_ids": ["NPWR05415"]
     },
     "Tales of Symphonia Dawn of the New World": {
-        "title_ids": ["BLUS31172"],
+        "title_ids": [""],
         "comm_ids": ["NPWR05416"]
     },
     "Tales of Xillia": {
@@ -6520,7 +6560,7 @@
         "comm_ids": ["NPWR04645"]
     },
     "Tekken Tag Tournament 2": {
-        "title_ids": ["BLES01702", "BLUS31002", "BLJS10187", "NPEB01140", "NPUB30899", "NPJB00236", "NPEA00327", "NPUB30591"],
+        "title_ids": ["BLES01702", "BLUS31002", "BLJS10187", "NPEB01140", "NPUB30899", "NPJB00236"],
         "comm_ids": ["NPWR02973"]
     },
     "Tekken Tag Tournament 2 Prologue": {
@@ -6804,7 +6844,7 @@
         "comm_ids": ["NPWR00825"]
     },
     "The Secret of Monkey Island: Special Edition": {
-        "title_ids": ["BLES01413"],
+        "title_ids": [""],
         "comm_ids": ["NPWR01189"]
     },
     "The Shoot": {
@@ -7048,15 +7088,15 @@
         "comm_ids": ["NPWR02569"]
     },
     "Tomb Raider: Anniversary": {
-        "title_ids": ["BLES01195"],
+        "title_ids": [""],
         "comm_ids": ["NPWR01651"]
     },
     "Tomb Raider: Legend": {
-        "title_ids": ["BLES01195"],
+        "title_ids": [""],
         "comm_ids": ["NPWR01608"]
     },
     "Tomb Raider: Underworld": {
-        "title_ids": ["BLES01195"],
+        "title_ids": [""],
         "comm_ids": ["NPWR00716"]
     },
     "Tony Hawk's Pro Skater 5": {
@@ -7456,11 +7496,11 @@
         "comm_ids": ["NPWR04527"]
     },
     "Watchmen": {
-        "title_ids": ["BLES00605"],
+        "title_ids": [""],
         "comm_ids": ["NPWR00521"]
     },
     "Watchmen: The End Is Nigh Part 2": {
-        "title_ids": ["BLES00605"],
+        "title_ids": [""],
         "comm_ids": ["NPWR00686"]
     },
     "Way of the Samurai 3": {
@@ -7936,11 +7976,11 @@
         "comm_ids": ["NPWR05520", "NPWR03664"]
     },
     "Zone of the Enders HD Edition": {
-        "title_ids": ["BLES01756"],
+        "title_ids": [""],
         "comm_ids": ["NPWR03196"]
     },
     "Zone of the Enders: The 2nd Runner HD Edition": {
-        "title_ids": ["BLES01756"],
+        "title_ids": [""],
         "comm_ids": ["NPWR03197"]
     },
     "Zuma": {
@@ -8163,10 +8203,6 @@
         "title_ids": ["BLJS10060"],
         "comm_ids": ["NPWR00793"]
     },
-    "ジョジョの奇妙な冒険　オールスターバトル": {
-        "title_ids": ["BLJS10217"],
-        "comm_ids": ["NPWR03545"]
-    },
     "スロッター超マニアアントニオ猪木が元気にするパチスロ機": {
         "title_ids": ["BLJM60326"],
         "comm_ids": ["NPWR01777"]
@@ -8279,10 +8315,6 @@
         "title_ids": ["NPJB00627"],
         "comm_ids": ["NPWR04029"]
     },
-    "ドラゴンボール　レイジングブラスト２　トロフィーセット": {
-        "title_ids": ["BLES00978"],
-        "comm_ids": ["NPWR01286"]
-    },
     "ドリームクラブComplete Edipyon!": {
         "title_ids": ["BLJS10203"],
         "comm_ids": ["NPWR03598"]
@@ -8370,10 +8402,6 @@
     "ベルセルク無双": {
         "title_ids": ["NPJB00818"],
         "comm_ids": ["NPWR11535"]
-    },
-    "ペルソナ５": {
-        "title_ids": ["BLJM61346"],
-        "comm_ids": ["NPWR08958"]
     },
     "マクロス30～銀河を繋ぐ歌声～": {
         "title_ids": ["BLJS10184"],
@@ -8672,7 +8700,7 @@
         "comm_ids": ["NPWR07446"]
     },
     "戦国BASARA HD": {
-        "title_ids": ["BLJM60488"],
+        "title_ids": [""],
         "comm_ids": ["NPWR03489"]
     },
     "戦国BASARA 真田幸村伝": {
@@ -8680,11 +8708,11 @@
         "comm_ids": ["NPWR10638"]
     },
     "戦国BASARA2 HD": {
-        "title_ids": ["BLJM60488"],
+        "title_ids": [""],
         "comm_ids": ["NPWR03490"]
     },
     "戦国BASARA2 英雄外伝 HD": {
-        "title_ids": ["BLJM60488"],
+        "title_ids": [""],
         "comm_ids": ["NPWR03491"]
     },
     "戦国BASARA3 宴": {
@@ -8708,11 +8736,11 @@
         "comm_ids": ["NPWR09401"]
     },
     "戦国無双２ Empires HD Version": {
-        "title_ids": ["BLJM61092"],
+        "title_ids": [""],
         "comm_ids": ["NPWR05109"]
     },
     "戦国無双２ with 猛将伝 HD Version": {
-        "title_ids": ["BLJM61092"],
+        "title_ids": [""],
         "comm_ids": ["NPWR05110"]
     },
     "戦国無双３ Empires": {
