@@ -54,7 +54,7 @@ arsort($title_player_counts);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Game Player Counts</title>
+    <title>RPCN Player Counts</title>
 </head>
 <body>
     <h1>Current Players in Games</h1>
