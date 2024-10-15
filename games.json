@@ -35,13 +35,13 @@
         "title_ids": ["BLES00875"],
         "comm_ids": ["NPWR01180"]
     },
-    "3D Dot Game Heroes (US)": {
-        "title_ids": ["BLUS30490"],
-        "comm_ids": ["NPWR01097"]
-    },
     "3D Dot Game Heroes (JP)": {
         "title_ids": ["BLJM60180"],
         "comm_ids": ["NPWR00947"]
+    },
+    "3D Dot Game Heroes (US)": {
+        "title_ids": ["BLUS30490"],
+        "comm_ids": ["NPWR01097"]
     },
     "3D Ultra MiniGolf Adventures 2": {
         "title_ids": ["NPEB00287"],
@@ -107,14 +107,6 @@
         "title_ids": ["NPUB31397"],
         "comm_ids": ["NPWR05628"]
     },
-    "Assassin's Creed: Brotherhood": {
-        "title_ids": ["BLES00910"],
-        "comm_ids": ["NPWR01254"]
-    },
-    "Assassin's Creed: Revelations": {
-        "title_ids": ["NPUB30707"],
-        "comm_ids": ["NPWR02350"]
-    },
     "Acceleration of Suguri X Edition": {
         "title_ids": ["NPUA30034"],
         "comm_ids": ["NPWR01100"]
@@ -147,13 +139,13 @@
         "title_ids": ["BLUS31450"],
         "comm_ids": ["NPWR06596"]
     },
-    "Aegis of Earth: Protonovus Assault (US)": {
-        "title_ids": ["NPUB31805"],
-        "comm_ids": ["NPWR10310"]
-    },
     "Aegis of Earth: Protonovus Assault (EU)": {
         "title_ids": ["NPEB02396"],
         "comm_ids": ["NPWR10459"]
+    },
+    "Aegis of Earth: Protonovus Assault (US)": {
+        "title_ids": ["NPUB31805"],
+        "comm_ids": ["NPWR10310"]
     },
     "AFL Live": {
         "title_ids": ["BLES01038"],
@@ -186,6 +178,10 @@
     "Air Conflicts: Vietnam": {
         "title_ids": ["BLES01858"],
         "comm_ids": ["NPWR04870"]
+    },
+    "Akatsuki no Goei Trinity": {
+        "title_ids": ["BLJM60521"],
+        "comm_ids": ["NPWR03613"]
     },
     "AKB1/149 恋愛総選挙": {
         "title_ids": ["BLJS10241"],
@@ -235,13 +231,13 @@
         "title_ids": ["NPEB01088"],
         "comm_ids": ["NPWR03983"]
     },
-    "Alien Shooter (US)": {
-        "title_ids": ["NPUB31773"],
-        "comm_ids": ["NPWR10044"]
-    },
     "Alien Shooter (EU)": {
         "title_ids": ["NPEB02017"],
         "comm_ids": ["NPWR08355"]
+    },
+    "Alien Shooter (US)": {
+        "title_ids": ["NPUB31773"],
+        "comm_ids": ["NPWR10044"]
     },
     "Alien Spidy": {
         "title_ids": ["NPEB01022"],
@@ -463,6 +459,14 @@
         "title_ids": ["BLUS31465"],
         "comm_ids": ["NPWR07220"]
     },
+    "Assassin's Creed: Brotherhood": {
+        "title_ids": ["BLES00910"],
+        "comm_ids": ["NPWR01254"]
+    },
+    "Assassin's Creed: Revelations": {
+        "title_ids": ["NPUB30707"],
+        "comm_ids": ["NPWR02350"]
+    },
     "Assault Heroes": {
         "title_ids": ["NPUB30028"],
         "comm_ids": ["NPWR00425"]
@@ -527,13 +531,13 @@
         "title_ids": ["NPUB30536"],
         "comm_ids": ["NPWR02123"]
     },
-    "Back to Bed (US)": {
-        "title_ids": ["NPUB31732"],
-        "comm_ids": ["NPWR08986"]
-    },
     "Back to Bed (JP)": {
         "title_ids": ["NPJB00830"],
         "comm_ids": ["NPWR12608"]
+    },
+    "Back to Bed (US)": {
+        "title_ids": ["NPUB31732"],
+        "comm_ids": ["NPWR08986"]
     },
     "Back to the Future - Episode 1: It's About Time": {
         "title_ids": ["NPUB30401"],
@@ -611,17 +615,13 @@
         "title_ids": ["NPEB02428"],
         "comm_ids": ["NPWR05988"]
     },
-    "Batman: The Telltale Series": {
-        "title_ids": ["NPUB31845"],
-        "comm_ids": ["NPWR11244"]
+    "Batman: Arkham Asylum (EU)": {
+        "title_ids": ["BLES00503"],
+        "comm_ids": ["NPWR00626"]
     },
     "Batman: Arkham Asylum (JP)": {
         "title_ids": ["BLJM60193"],
         "comm_ids": ["NPWR01012"]
-    },
-    "Batman: Arkham Asylum (EU)": {
-        "title_ids": ["BLES00503"],
-        "comm_ids": ["NPWR00626"]
     },
     "Batman: Arkham City": {
         "title_ids": ["NPUB30754"],
@@ -634,6 +634,10 @@
     "Batman: Arkham Origins Blackgate - Deluxe Edition": {
         "title_ids": ["NPEB01968"],
         "comm_ids": ["NPWR05907"]
+    },
+    "Batman: The Telltale Series": {
+        "title_ids": ["NPUB31845"],
+        "comm_ids": ["NPWR11244"]
     },
     "BATTLE OF TILES EX": {
         "title_ids": ["NPJB00305"],
@@ -775,13 +779,13 @@
         "title_ids": ["NPUB30131"],
         "comm_ids": ["NPWR00907"]
     },
-    "BioShock (JP)": {
-        "title_ids": ["BLJS10041"],
-        "comm_ids": ["NPWR00607"]
-    },
     "BioShock (EU)": {
         "title_ids": ["BLES00316"],
         "comm_ids": ["NPWR00352"]
+    },
+    "BioShock (JP)": {
+        "title_ids": ["BLJS10041"],
+        "comm_ids": ["NPWR00607"]
     },
     "BioShock 2": {
         "title_ids": ["BLES00728"],
@@ -1987,41 +1991,49 @@
         "title_ids": ["BLUS30306"],
         "comm_ids": ["NPWR00720"]
     },
-    "Dynasty Warriors 7": {
+    "Dynasty Warriors 7 (ASIA)": {
+        "title_ids": ["BLAS50308"],
+        "comm_ids": ["NPWR01740"]
+    },
+    "Dynasty Warriors 7 (US)": {
         "title_ids": ["BLUS30690"],
         "comm_ids": ["NPWR01739"]
     },
-    "DYNASTY WARRIORS 7 Empires": {
+    "Dynasty Warriors 7 Empires": {
         "title_ids": ["BLES01795"],
         "comm_ids": ["NPWR04311"]
     },
-    "DYNASTY WARRIORS 7: Xtreme Legends": {
+    "Dynasty Warriors 7: Xtreme Legends": {
         "title_ids": ["BLUS30873"],
         "comm_ids": ["NPWR02658"]
     },
-    "DYNASTY WARRIORS 8": {
+    "Dynasty Warriors 8": {
         "title_ids": ["BLUS31185"],
         "comm_ids": ["NPWR04660"]
     },
-    "DYNASTY WARRIORS 8 Empires": {
+    "Dynasty Warriors 8 Empires": {
         "title_ids": ["NPUB31656"],
         "comm_ids": ["NPWR08228"]
     },
-    "DYNASTY WARRIORS 8: Xtreme Legends": {
+    "Dynasty Warriors 8: Xtreme Legends": {
         "title_ids": ["BLUS31402"],
         "comm_ids": ["NPWR06052"]
     },
-    "DYNASTY WARRIORS: GUNDAM 2": {
+    "Dynasty Warriors: GUNDAM 2": {
         "title_ids": ["BLES00528"],
         "comm_ids": ["NPWR00632"]
     },
-    "DYNASTY WARRIORS: GUNDAM 3": {
+    "Dynasty Warriors: GUNDAM 3": {
         "title_ids": ["BLES01301"],
         "comm_ids": ["NPWR01386"]
     },
-    "DYNASTY WARRIORS: GUNDAM Reborn": {
+    "Dynasty Warriors: Gundam Reborn (EU)": {
         "title_ids": ["BLES02057"],
         "comm_ids": ["NPWR06751"]
+    },
+    "Dynasty Warriors: Gundam Reborn (JP)": {
+        "title_ids": ["BLJM61140"],
+        "comm_ids": ["NPWR05321"]
     },
     "Dynasty Warriors: Strikeforce": {
         "title_ids": ["BLUS30471"],
@@ -2043,7 +2055,7 @@
         "title_ids": ["BLUS30688"],
         "comm_ids": ["NPWR00780"]
     },
-    "EarthDefenseForce 2025": {
+    "Earth Defense Force 2025": {
         "title_ids": ["BLUS31160"],
         "comm_ids": ["NPWR05300"]
     },
@@ -2211,13 +2223,13 @@
         "title_ids": ["BLUS30456", "NPHB00206"],
         "comm_ids": ["NPWR00870"]
     },
-    "Falling Skies: The Game (US)": {
-        "title_ids": ["BLUS31195"],
-        "comm_ids": ["NPWR06264"]
-    },
     "Falling Skies: The Game (EU)": {
         "title_ids": ["NPEB02043"],
         "comm_ids": ["NPWR07178"]
+    },
+    "Falling Skies: The Game (US)": {
+        "title_ids": ["BLUS31195"],
+        "comm_ids": ["NPWR06264"]
     },
     "FALLOUT 3": {
         "title_ids": ["BLUS30185"],
@@ -2631,6 +2643,10 @@
         "title_ids": ["BCAS25018", "BCES01893", "BCES01977", "BCJS37016", "BCUS98296", "NPEA00502", "NPUA81049", "NPHA80269", "NPJA00113", "BCUS99247"],
         "comm_ids": ["NPWR04712"]
     },
+    "Grand Theft Auto IV": {
+        "title_ids": ["BLUS30127"],
+        "comm_ids": ["NPWR00132"]
+    },
     "Grand Theft Auto V": {
         "title_ids": ["BLUS31156", "BLES01807", "BLJM61019", "NPEB01283", "NPUB31154", "NPJB00516"],
         "comm_ids": ["NPWR03885"]
@@ -2674,10 +2690,6 @@
     "Groovin' Blocks": {
         "title_ids": ["NPUA30014"],
         "comm_ids": ["NPWR00837"]
-    },
-    "GTA IV": {
-        "title_ids": ["BLUS30127"],
-        "comm_ids": ["NPWR00132"]
     },
     "GTI Club + Rally Cote D'Azur": {
         "title_ids": ["NPEB00060"],
@@ -4031,6 +4043,18 @@
         "title_ids": ["BLJS10270", "BLAS50710"],
         "comm_ids": ["NPWR06202", "NPWR06754"]
     },
+    "Mobile Suit Gundam Unicorn": {
+        "title_ids": ["BLJS10154"],
+        "comm_ids": ["NPWR01827"]
+    },
+    "Mobile Suit Gundam: Battle Operation": {
+        "title_ids": ["NPJB00178"],
+        "comm_ids": ["NPWR03396"]
+    },
+    "Mobile Suit Gundam: Extreme VS Full Boost": {
+        "title_ids": ["BLJS10250"],
+        "comm_ids": ["NPWR04269"]
+    },
     "Modern Combat: Domination": {
         "title_ids": ["NPEB00290"],
         "comm_ids": ["NPWR01355"]
@@ -4062,6 +4086,10 @@
     "Monster High - New Ghoul in School": {
         "title_ids": ["BLES02199", "NPUB31754"],
         "comm_ids": ["NPWR09895", "NPWR09251"]
+    },
+    "Monster Hunter Frontier G": {
+        "title_ids": ["NPHB00702"],
+        "comm_ids": ["NPWR08135"]
     },
     "Monster Jam": {
         "title_ids": ["NPUB31686"],
@@ -5275,19 +5303,19 @@
         "title_ids": ["NPEB02226"],
         "comm_ids": ["NPWR08805"]
     },
-    "resident evil 4": {
+    "Resident Evil 4": {
         "title_ids": ["NPEB00342"],
         "comm_ids": ["NPWR01652"]
     },
-    "RESIDENT EVIL 5": {
+    "Resident Evil 5": {
         "title_ids": ["BLUS30270"],
         "comm_ids": ["NPWR00404"]
     },
-    "RESIDENT EVIL 6": {
+    "Resident Evil 6": {
         "title_ids": ["BLES01465"],
         "comm_ids": ["NPWR01577"]
     },
-    "RESIDENT EVIL CODE: Veronica X": {
+    "Resident Evil Code: Veronica X": {
         "title_ids": ["NPEB00553"],
         "comm_ids": ["NPWR01871"]
     },
@@ -5411,9 +5439,13 @@
         "title_ids": ["NPEB00516"],
         "comm_ids": ["NPWR01793"]
     },
-    "ROBOTICS;NOTES": {
-        "title_ids": ["BLJM60446", "BLAS50713"],
-        "comm_ids": ["NPWR03378", "NPWR06752"]
+    "ROBOTICS;NOTES (JP)": {
+        "title_ids": ["BLJM60446"],
+        "comm_ids": ["NPWR03378"]
+    },
+    "ROBOTICS;NOTES (ASIA)": {
+        "title_ids": ["BLAS50713"],
+        "comm_ids": ["NPWR06752"]
     },
     "Rochard": {
         "title_ids": ["NPEA00314"],
@@ -5447,9 +5479,13 @@
         "title_ids": ["BLUS30327"],
         "comm_ids": ["NPWR00680"]
     },
-    "Rock of Ages": {
-        "title_ids": ["NPUB30332", "NPJB00373"],
-        "comm_ids": ["NPWR01748", "NPWR04506"]
+    "Rock of Ages (JP)": {
+        "title_ids": ["NPJB00373"],
+        "comm_ids": ["NPWR04506"]
+    },
+    "Rock of Ages (US)": {
+        "title_ids": ["NPUB30332"],
+        "comm_ids": ["NPWR01748"]
     },
     "Rock of the Dead": {
         "title_ids": ["BLUS30658"],
@@ -5471,9 +5507,13 @@
         "title_ids": ["BLUS31182"],
         "comm_ids": ["NPWR04531"]
     },
-    "Rogue Legacy": {
-        "title_ids": ["NPJB00739", "NPUB31512"],
-        "comm_ids": ["NPWR08581", "NPWR06724"]
+    "Rogue Legacy (JP)": {
+        "title_ids": ["NPJB00739"],
+        "comm_ids": ["NPWR08581"]
+    },
+    "Rogue Legacy (US)": {
+        "title_ids": ["NPUB31512"],
+        "comm_ids": ["NPWR06724"]
     },
     "Rogue Warrior": {
         "title_ids": ["BLUS30311"],
@@ -5559,9 +5599,13 @@
         "title_ids": ["NPEB02048"],
         "comm_ids": ["NPWR06662"]
     },
-    "Sacred 2 - Fallen Angel": {
-        "title_ids": ["BLJS10071", "BLUS30312"],
-        "comm_ids": ["NPWR01005", "NPWR00447"]
+    "Sacred 2 - Fallen Angel (JP)": {
+        "title_ids": ["BLJS10071"],
+        "comm_ids": ["NPWR01005"]
+    },
+    "Sacred 2 - Fallen Angel (US)": {
+        "title_ids": ["BLUS30312"],
+        "comm_ids": ["NPWR00447"]
     },
     "Sacred 3": {
         "title_ids": ["BLES01492"],
@@ -5579,21 +5623,33 @@
         "title_ids": ["BLES01421"],
         "comm_ids": ["NPWR01952"]
     },
-    "Saint Seiya: Soldiers' Soul": {
-        "title_ids": ["BLUS31559", "BLES02181"],
-        "comm_ids": ["NPWR09221", "NPWR08976"]
+    "Saint Seiya: Soldiers' Soul (EU)": {
+        "title_ids": ["BLES02181"],
+        "comm_ids": ["NPWR08976"]
     },
-    "Saints Row IV": {
-        "title_ids": ["NPEB01842", "BLUS31205"],
-        "comm_ids": ["NPWR05139", "NPWR04738"]
+    "Saint Seiya: Soldiers' Soul (US)": {
+        "title_ids": ["BLUS31559"],
+        "comm_ids": ["NPWR09221"]
+    },
+    "Saints Row IV (EU)": {
+        "title_ids": ["NPEB01842"],
+        "comm_ids": ["NPWR05139"]
+    },
+    "Saints Row IV (US)": {
+        "title_ids": ["BLUS31205"],
+        "comm_ids": ["NPWR04738"]
     },
     "Saints Row: Gat out of Hell": {
         "title_ids": ["BLES02095"],
         "comm_ids": ["NPWR07359"]
     },
-    "Saints Row: The Third": {
-        "title_ids": ["BLES01748", "BLES01342"],
-        "comm_ids": ["NPWR02545", "NPWR01692"]
+    "Saints Row: The Third (BLES01748)": {
+        "title_ids": ["BLES01748"],
+        "comm_ids": ["NPWR02545"]
+    },
+    "Saints Row: The Third (BLES01342)": {
+        "title_ids": ["BLES01342"],
+        "comm_ids": ["NPWR01692"]
     },
     "Sam & Max - Beyond Time & Space: Episode 1 - Ice Station Santa": {
         "title_ids": ["NPUB30498"],
@@ -5639,11 +5695,19 @@
         "title_ids": ["NPUB31564"],
         "comm_ids": ["NPWR06868"]
     },
+    "Samurai Warriors 4": {
+        "title_ids": ["BLJM61144"],
+        "comm_ids": ["NPWR05486"]
+    },
     "SAMURAI WARRIORS 4 Empires": {
         "title_ids": ["NPUB31799"],
         "comm_ids": ["NPWR10432"]
     },
-    "Samurai Warriors 4-II": {
+    "Samurai Warriors 4-II (JP)": {
+        "title_ids": ["BLJM61257"],
+        "comm_ids": ["NPWR08071"]
+    },
+    "Samurai Warriors 4-II (US)": {
         "title_ids": ["NPUB31751"],
         "comm_ids": ["NPWR09318"]
     },
@@ -5763,6 +5827,22 @@
         "title_ids": ["MRTC00005"],
         "comm_ids": ["NPWR01032"]
     },
+    "Sengoku Hime 3 Tenka o Kirisaku Hikari to Kage": {
+        "title_ids": ["BLJM60556"],
+        "comm_ids": ["NPWR04087"]
+    },
+    "Sengoku Hime 4": {
+        "title_ids": ["BLJM61104"],
+        "comm_ids": ["NPWR05079"]
+    },
+    "Sengoku Hime 5 Senkatatsu Haoh no Keifu": {
+        "title_ids": ["BLJM61245"],
+        "comm_ids": ["NPWR07439"]
+    },
+    "Sengoku Musou 3 Z": {
+        "title_ids": ["BLJM60313"],
+        "comm_ids": ["NPWR01630"]
+    },
     "Serious Sam 3: BFE": {
         "title_ids": ["NPUB31165"],
         "comm_ids": ["NPWR04461"]
@@ -5818,6 +5898,14 @@
     "SHIFT 2 UNLEASHED": {
         "title_ids": ["BLES01066"],
         "comm_ids": ["NPWR01335"]
+    },
+    "Shin Sangoku Musou Online Z": {
+        "title_ids": ["BLJM60183"],
+        "comm_ids": ["NPWR00968"]
+    },
+    "Shin Sangoku Musou: Eiketsuden": {
+        "title_ids": ["BLJM61347"],
+        "comm_ids": ["NPWR10990"]
     },
     "Shirokishi Monogatari: Hikari to Yami no Kakusei": {
         "title_ids": ["BCJS30042"],
@@ -5950,10 +6038,6 @@
     "Skylanders Trap Team": {
         "title_ids": ["BLES02055"],
         "comm_ids": ["NPWR06717"]
-    },
-    "Skyrim": {
-        "title_ids": ["BLJM60413"],
-        "comm_ids": ["NPWR02631"]
     },
     "Slam Bolt Scrappers": {
         "title_ids": ["NPUA30060"],
@@ -6359,7 +6443,7 @@
         "title_ids": ["BLUS30265"],
         "comm_ids": ["NPWR00434"]
     },
-    "Street Fighter X Tekken": {
+    "Street Fighter x Tekken": {
         "title_ids": ["BLES01252", "BLUS30722", "BLJM60350", "NPEB01792", "NPUB31172", "NPJB00423"],
         "comm_ids": ["NPWR01781"]
     },
@@ -6579,8 +6663,12 @@
         "title_ids": ["BLUS30318"],
         "comm_ids": ["NPWR00623"]
     },
-    "Terraria": {
+    "Terraria (EU & US)": {
         "title_ids": ["BLES01938"],
+        "comm_ids": ["NPWR04270"]
+    },
+    "Terraria (JP)": {
+        "title_ids": ["BLJS10222"],
         "comm_ids": ["NPWR04270"]
     },
     "TerRover": {
@@ -6611,9 +6699,13 @@
         "title_ids": ["NPUB30805"],
         "comm_ids": ["NPWR02029"]
     },
-    "The Adventures of Tintin: The Secret of the Unicorn": {
+    "The Adventures of Tintin: The Secret of the Unicorn (BLES01306)": {
         "title_ids": ["BLES01306"],
         "comm_ids": ["NPWR02586"]
+    },
+    "The Adventures of Tintin: The Secret of the Unicorn (BLES01464)": {
+        "title_ids": ["BLES01464"],
+        "comm_ids": ["NPWR01855"]
     },
     "The Amazing Spider-Man": {
         "title_ids": ["BLES01547"],
@@ -6663,21 +6755,45 @@
         "title_ids": ["BLES00311"],
         "comm_ids": ["NPWR00206"]
     },
-    "The Cube": {
-        "title_ids": ["BLES01471", "NPEB01927"],
-        "comm_ids": ["NPWR02724", "NPWR05735"]
+    "The Cube (BLES01471)": {
+        "title_ids": ["BLES01471"],
+        "comm_ids": ["NPWR02724"]
     },
-    "The Cursed Crusade": {
-        "title_ids": ["BLES01299", "NPUB30683", "BLKS20320"],
-        "comm_ids": ["NPWR01866", "NPWR01865", "NPWR01867"]
+    "The Cube (NPEB01927)": {
+        "title_ids": ["NPEB01927"],
+        "comm_ids": ["NPWR05735"]
+    },
+    "The Cursed Crusade (EU)": {
+        "title_ids": ["BLES01299"],
+        "comm_ids": ["NPWR01866"]
+    },
+    "The Cursed Crusade (KO)": {
+        "title_ids": ["BLKS20320"],
+        "comm_ids": ["NPWR01867"]
+    },
+    "The Cursed Crusade (US)": {
+        "title_ids": ["NPUB30683"],
+        "comm_ids": ["NPWR01865"]
     },
     "The Darkness II": {
         "title_ids": ["BLUS30743"],
         "comm_ids": ["NPWR01817"]
     },
-    "The Evil Within": {
-        "title_ids": ["BCKS10276", "BCAS20333", "BLES01916"],
-        "comm_ids": ["NPWR07535", "NPWR07534", "NPWR06384"]
+    "The Elder Scrolls V: Skyrim": {
+        "title_ids": ["BLJM60413"],
+        "comm_ids": ["NPWR02631"]
+    },
+    "The Evil Within (ASIA)": {
+        "title_ids": ["BCAS20333"],
+        "comm_ids": ["NPWR07534"]
+    },
+    "The Evil Within (EU)": {
+        "title_ids": ["BLES01916"],
+        "comm_ids": ["NPWR06384"]
+    },
+    "The Evil Within (KO)": {
+        "title_ids": ["BCKS10276"],
+        "comm_ids": ["NPWR07535"]
     },
     "The Expendables 2 Videogame": {
         "title_ids": ["NPEB00923"],
@@ -6927,9 +7043,13 @@
         "title_ids": ["NPEB01911"],
         "comm_ids": ["NPWR05836"]
     },
-    "The Witch and the Hundred Knight": {
+    "The Witch and the Hundred Knight (EU)": {
         "title_ids": ["BLES01987"],
         "comm_ids": ["NPWR05915"]
+    },
+    "The Witch and the Hundred Knight (JP)": {
+        "title_ids": ["BLJS10160"],
+        "comm_ids": ["NPWR03505"]
     },
     "The Wolf Among Us": {
         "title_ids": ["NPEB01881"],
@@ -6979,9 +7099,13 @@
         "title_ids": ["BLUS31063"],
         "comm_ids": ["NPWR03990"]
     },
-    "Time and Eternity": {
+    "Time and Eternity (EU)": {
         "title_ids": ["BLES01848"],
         "comm_ids": ["NPWR04500"]
+    },
+    "Time and Eternity (JP)": {
+        "title_ids": ["BLJS10181"],
+        "comm_ids": ["NPWR03210"]
     },
     "TIME CRISIS 4 Arcade Ver.": {
         "title_ids": ["BCES01070"],
@@ -7043,9 +7167,17 @@
         "title_ids": ["BCJS30069"],
         "comm_ids": ["NPWR01344"]
     },
-    "Tokyo Twilight Ghost Hunters": {
-        "title_ids": ["NPEB02147", "BLUS31474"],
-        "comm_ids": ["NPWR07556", "NPWR07128"]
+    "Tokyo Twilight Ghost Hunters (EU)": {
+        "title_ids": ["NPEB02147"],
+        "comm_ids": ["NPWR07556"]
+    },
+    "Tokyo Twilight Ghost Hunters (JP)": {
+        "title_ids": ["BLJS10265"],
+        "comm_ids": ["NPWR05640"]
+    },
+    "Tokyo Twilight Ghost Hunters (US)": {
+        "title_ids": ["BLUS31474"],
+        "comm_ids": ["NPWR07128"]
     },
     "Tokyo Twilight Ghost Hunters Daybreak: Special Gigs": {
         "title_ids": ["NPUB31847"],
@@ -7098,6 +7230,10 @@
     "Tomb Raider: Underworld": {
         "title_ids": [""],
         "comm_ids": ["NPWR00716"]
+    },
+    "Tomoyo After Its a Wonderful Life CS Edition": {
+        "title_ids": ["BLJM60506"],
+        "comm_ids": ["NPWR03629"]
     },
     "Tony Hawk's Pro Skater 5": {
         "title_ids": ["NPUB31750"],
@@ -7311,11 +7447,11 @@
         "title_ids": ["NPUB30491"],
         "comm_ids": ["NPWR01838"]
     },
-    "ULTIMATE MARVEL VS. CAPCOM 3": {
+    "Ultimate Marvel VS. Capcom 3": {
         "title_ids": ["BLES01355"],
         "comm_ids": ["NPWR01796"]
     },
-    "Ultra Dimension NeptuneV": {
+    "Ultra Dimension Neptune V": {
         "title_ids": ["BLJM60492"],
         "comm_ids": ["NPWR03480"]
     },
@@ -7328,7 +7464,7 @@
         "comm_ids": ["NPWR00462"]
     },
     "Uncharted 3: Drake's Deception": {
-        "title_ids": ["BCES01176"],
+        "title_ids": ["BCES01175", "BCES01176", "BCUS98233", "BCJS37004", "BCAS25009", "BCES01670", "BCES01692", "BCUS99086", "BCAS25014", "NPEA00422", "NPUA80858", "NPUA70183", "BCET70034", "BCET70043", "NPUA70153", "NPUA70180", "NPHA80158"],
         "comm_ids": ["NPWR01216"]
     },
     "Uncharted: Drake's Fortune": {
@@ -7383,17 +7519,29 @@
         "title_ids": ["NPEB01238"],
         "comm_ids": ["NPWR04062"]
     },
-    "Valiant Hearts: The Great War": {
-        "title_ids": ["NPUB31400", "NPJB00660"],
-        "comm_ids": ["NPWR06174", "NPWR07170"]
+    "Valiant Hearts: The Great War (US)": {
+        "title_ids": ["NPUB31400"],
+        "comm_ids": ["NPWR06174"]
+    },
+    "Valiant Hearts: The Great War (JP)": {
+        "title_ids": ["NPJB00660"],
+        "comm_ids": ["NPWR07170"]
     },
     "Vancouver 2010": {
         "title_ids": ["BLES00660"],
         "comm_ids": ["NPWR00560"]
     },
-    "Vandal Hearts: Flames of Judgment": {
-        "title_ids": ["NPEB00148", "NPJB00038", "NPUB30075"],
-        "comm_ids": ["NPWR00877", "NPWR00876", "NPWR00875"]
+    "Vandal Hearts: Flames of Judgment (EU)": {
+        "title_ids": ["NPEB00148"],
+        "comm_ids": ["NPWR00877"]
+    },
+    "Vandal Hearts: Flames of Judgment (JP)": {
+        "title_ids": ["NPJB00038"],
+        "comm_ids": ["NPWR00876"]
+    },
+    "Vandal Hearts: Flames of Judgment (US)": {
+        "title_ids": ["NPUB30075"],
+        "comm_ids": ["NPWR00875"]
     },
     "VANQUISH": {
         "title_ids": ["BLUS30543"],
@@ -7407,9 +7555,13 @@
         "title_ids": ["BLUS30636"],
         "comm_ids": ["NPWR01528"]
     },
-    "Vessel": {
-        "title_ids": ["NPUB31447", "NPEB01875"],
-        "comm_ids": ["NPWR06009", "NPWR05431"]
+    "Vessel (EU)": {
+        "title_ids": ["NPEB01875"],
+        "comm_ids": ["NPWR05431"]
+    },
+    "Vessel (US)": {
+        "title_ids": ["NPUB31447"],
+        "comm_ids": ["NPWR06009"]
     },
     "Virtua Fighter 2": {
         "title_ids": ["NPEB01163"],
@@ -7435,15 +7587,19 @@
         "title_ids": ["NPEB00594"],
         "comm_ids": ["NPWR02049"]
     },
-    "VOODOO CHRONICLES": {
-        "title_ids": ["NPEB01110", "NPUB30977"],
-        "comm_ids": ["NPWR03832", "NPWR04835"]
+    "Voodoo Chronicles (EU)": {
+        "title_ids": ["NPEB01110"],
+        "comm_ids": ["NPWR03832"]
     },
-    "Voodoo Dice": {
+    "Voodoo Chronicles (US)": {
+        "title_ids": ["NPUB30977"],
+        "comm_ids": ["NPWR04835"]
+    },
+    "Voodoo Dice (JP)": {
         "title_ids": ["NPJB00069"],
         "comm_ids": ["NPWR01381"]
     },
-    "VOODOO DICE": {
+    "Voodo Dice (EU)": {
         "title_ids": ["NPEB00183"],
         "comm_ids": ["NPWR01181"]
     },
@@ -7479,13 +7635,13 @@
         "title_ids": ["NPEB00636"],
         "comm_ids": ["NPWR02283"]
     },
-    "WARRIORS OROCHI 3 Ultimate": {
-        "title_ids": ["NPUB31505"],
-        "comm_ids": ["NPWR06659"]
-    },
     "WARRIORS OROCHI 3": {
         "title_ids": ["BLES01588"],
         "comm_ids": ["NPWR03116"]
+    },
+    "WARRIORS OROCHI 3 Ultimate": {
+        "title_ids": ["NPUB31505"],
+        "comm_ids": ["NPWR06659"]
     },
     "Warriors: Legends of Troy": {
         "title_ids": ["BLES01183"],
@@ -7503,9 +7659,13 @@
         "title_ids": [""],
         "comm_ids": ["NPWR00686"]
     },
-    "Way of the Samurai 3": {
-        "title_ids": ["BLES00712", "BLUS30398"],
-        "comm_ids": ["NPWR00909", "NPWR00885"]
+    "Way of the Samurai 3 (EU)": {
+        "title_ids": ["BLES00712"],
+        "comm_ids": ["NPWR00909"]
+    },
+    "Way of the Samurai 3 (US)": {
+        "title_ids": ["BLUS30398"],
+        "comm_ids": ["NPWR00885"]
     },
     "Way of the Samurai 3 Plus": {
         "title_ids": ["BLJS50009"],
@@ -7555,13 +7715,17 @@
         "title_ids": ["BLJM60571"],
         "comm_ids": ["NPWR03729"]
     },
-    "White Knight Chronicles Colección de trofeos": {
-        "title_ids": ["BCUS98146"],
-        "comm_ids": ["NPWR00940"]
+    "White Knight Chronicles": {
+        "title_ids": ["BCJS30030"],
+        "comm_ids": ["NPWR00314"]
     },
     "White Knight Chronicles II": {
         "title_ids": ["BCES01085"],
         "comm_ids": ["NPWR01681"]
+    },
+    "White Knight Chronicles: International Edition": {
+        "title_ids": ["BCUS98146"],
+        "comm_ids": ["NPWR00940"]
     },
     "Whitetail Challenge": {
         "title_ids": ["NPUB31796"],
@@ -7995,10 +8159,6 @@
         "title_ids": ["BLES01159", "BLUS30587"],
         "comm_ids": ["NPWR01626", "NPWR01398"]
     },
-    "ПРИКЛЮЧЕНИЯ ТИНТИНА: ТАЙНА ЕДИНОРОГА": {
-        "title_ids": ["BLES01464"],
-        "comm_ids": ["NPWR01855"]
-    },
     "‘&’ -空の向こうで咲きますように‐": {
         "title_ids": ["BLJM61131"],
         "comm_ids": ["NPWR05184"]
@@ -8274,10 +8434,6 @@
     "テイルズ オブ ヴェスペリア": {
         "title_ids": ["BLJS10053"],
         "comm_ids": ["NPWR00642"]
-    },
-    "テラリア": {
-        "title_ids": ["BLJS10222"],
-        "comm_ids": ["NPWR04563"]
     },
     "ディスガイア D2": {
         "title_ids": ["BLJS10206"],
@@ -8747,45 +8903,9 @@
         "title_ids": ["BLJM60990"],
         "comm_ids": ["NPWR02149"]
     },
-    "戦国無双３ Z": {
-        "title_ids": ["BLJM60313"],
-        "comm_ids": ["NPWR01630"]
-    },
-    "戦国無双４": {
-        "title_ids": ["BLJM61144"],
-        "comm_ids": ["NPWR05486"]
-    },
-    "戦国無双４-II": {
-        "title_ids": ["BLJM61257"],
-        "comm_ids": ["NPWR08071"]
-    },
-    "戦極姫3～天下を切り裂く光と影～": {
-        "title_ids": ["BLJM60556"],
-        "comm_ids": ["NPWR04087"]
-    },
-    "戦極姫5～戦禍断つ覇王の系譜～": {
-        "title_ids": ["BLJM61245"],
-        "comm_ids": ["NPWR07439"]
-    },
-    "戦極姫４～争覇百計、花守る誓い～": {
-        "title_ids": ["BLJM61104"],
-        "comm_ids": ["NPWR05079"]
-    },
     "新 東大将棋": {
         "title_ids": ["BLJM60426"],
         "comm_ids": ["NPWR02846"]
-    },
-    "時と永遠～トキトワ～": {
-        "title_ids": ["BLJS10181"],
-        "comm_ids": ["NPWR03210"]
-    },
-    "智代アフター ～It's a Wonderful Life～ CS Edition": {
-        "title_ids": ["BLJM60506"],
-        "comm_ids": ["NPWR03629"]
-    },
-    "暁の護衛 トリニティ": {
-        "title_ids": ["BLJM60521"],
-        "comm_ids": ["NPWR03613"]
     },
     "最強将棋 激指13": {
         "title_ids": ["BLJM61186"],
@@ -8798,18 +8918,6 @@
     "機動戦士ガンダム エクストリームバーサス": {
         "title_ids": ["BLJS10131"],
         "comm_ids": ["NPWR02088"]
-    },
-    "機動戦士ガンダム エクストリームバーサス フルブースト": {
-        "title_ids": ["BLJS10250"],
-        "comm_ids": ["NPWR04269"]
-    },
-    "機動戦士ガンダム　バトルオペレーション": {
-        "title_ids": ["NPJB00178"],
-        "comm_ids": ["NPWR03396"]
-    },
-    "機動戦士ガンダムＵＣ": {
-        "title_ids": ["BLJS10154"],
-        "comm_ids": ["NPWR01827"]
     },
     "水月 弐": {
         "title_ids": ["BLJM60411"],
@@ -8851,10 +8959,6 @@
         "title_ids": ["BLJM61266"],
         "comm_ids": ["NPWR08325"]
     },
-    "白騎士物語－古の鼓動－トロフィーセット": {
-        "title_ids": ["BCJS30030"],
-        "comm_ids": ["NPWR00314"]
-    },
     "真 流行り神": {
         "title_ids": ["BLJS10279"],
         "comm_ids": ["NPWR06487"]
@@ -8863,29 +8967,13 @@
         "title_ids": ["BLJS10336"],
         "comm_ids": ["NPWR11083"]
     },
-    "真·三國無雙６": {
-        "title_ids": ["BLAS50308"],
-        "comm_ids": ["NPWR01740"]
-    },
     "真かまいたちの夜11人目の訪問者（サスペクト）": {
         "title_ids": ["BLJS10158"],
         "comm_ids": ["NPWR02622"]
     },
-    "真・ガンダム無双": {
-        "title_ids": ["BLJM61140"],
-        "comm_ids": ["NPWR05321"]
-    },
     "真・三國無双 MULTI RAID Special": {
         "title_ids": ["BLJM60172"],
         "comm_ids": ["NPWR00783"]
-    },
-    "真・三國無双 Online": {
-        "title_ids": ["BLJM60183"],
-        "comm_ids": ["NPWR00968"]
-    },
-    "真・三國無双 英傑伝": {
-        "title_ids": ["BLJM61347"],
-        "comm_ids": ["NPWR10990"]
     },
     "真・三國無双５ Empires": {
         "title_ids": ["BLJM60126"],
@@ -9079,14 +9167,6 @@
         "title_ids": ["BLJS10254"],
         "comm_ids": ["NPWR05308"]
     },
-    "魔女と百騎兵": {
-        "title_ids": ["BLJS10160"],
-        "comm_ids": ["NPWR03505"]
-    },
-    "魔物獵人FRONTIER G": {
-        "title_ids": ["NPHB00702"],
-        "comm_ids": ["NPWR08135"]
-    },
     "魔界戦記ディスガイア３ ": {
         "title_ids": ["BLJS10011"],
         "comm_ids": ["NPWR00400"]
@@ -9106,10 +9186,6 @@
     "魔都紅色幽撃隊 DAYBREAK SPECIAL GIGS JAPAN TOUR": {
         "title_ids": ["BLJS10316"],
         "comm_ids": ["NPWR09020"]
-    },
-    "魔都紅色幽擊隊": {
-        "title_ids": ["BLJS10265"],
-        "comm_ids": ["NPWR05640"]
     },
     "麻雀ワールド": {
         "title_ids": ["NPJB00057"],
