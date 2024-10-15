@@ -8,7 +8,7 @@ Please keep in mind that the current JSON file is missing plenty of titles. Beca
 
 ### Example Table
 
-| **Total Users** | **124** |
+| **Total Users** | **79** |
 |-----------------|---------|
 
 | **Game Title**                               | **Current Players** |
