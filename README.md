@@ -4,6 +4,8 @@ This PHP application fetches and displays the current number of players in PlayS
 
 A JSON file (`games.json`) is required to map game titles, communication IDs, and title IDs because the RPCN API does not provide game titles.
 
+Please keep in mind that the current JSON file is missing plenty of titles. Because not every game will be displayed.
+
 ### Example Table
 
 | **Total Users** | **124** |
