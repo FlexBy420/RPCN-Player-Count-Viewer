@@ -63,7 +63,11 @@
         "title_ids": ["BLJS10056"],
         "comm_ids": ["NPWR00804"]
     },
-    "99Vidas": {
+    "99Vidas (EU)": {
+        "title_ids": ["NPEB02458"],
+        "comm_ids": ["NPWR14085"]
+    },
+    "99Vidas (US)": {
         "title_ids": ["NPUB31842"],
         "comm_ids": ["NPWR11170"]
     },
@@ -2051,13 +2055,13 @@
         "title_ids": ["BLES00987"],
         "comm_ids": ["NPWR01360"]
     },
-    "Earth Defense Force: Insect Armageddon": {
-        "title_ids": ["BLUS30688"],
-        "comm_ids": ["NPWR00780"]
-    },
     "Earth Defense Force 2025": {
         "title_ids": ["BLUS31160"],
         "comm_ids": ["NPWR05300"]
+    },
+    "Earth Defense Force: Insect Armageddon": {
+        "title_ids": ["BLUS30688"],
+        "comm_ids": ["NPWR00780"]
     },
     "Earthworm Jim HD": {
         "title_ids": ["NPEB00226"],
@@ -2592,7 +2596,7 @@
         "comm_ids": ["NPWR04371"]
     },
     "God of War I": {
-        "title_ids": [""],
+        "title_ids": ["NPHA80104"],
         "comm_ids": ["NPWR00950"]
     },
     "God of War II": {
@@ -2600,7 +2604,7 @@
         "comm_ids": ["NPWR00951"]
     },
     "God of War III": {
-        "title_ids": ["BCUS98111"],
+        "title_ids": ["BCUS98111", "BCKS15003"],
         "comm_ids": ["NPWR00801"]
     },
     "God of War: Ascension": {
@@ -2644,7 +2648,7 @@
         "comm_ids": ["NPWR04712"]
     },
     "Grand Theft Auto IV": {
-        "title_ids": ["BLUS30127"],
+        "title_ids": ["BLUS30127", "NPUB30702"],
         "comm_ids": ["NPWR00132"]
     },
     "Grand Theft Auto V": {
@@ -2823,9 +2827,13 @@
         "title_ids": ["BCUS98164"],
         "comm_ids": ["NPWR00324"]
     },
-    "Heavy Weapon": {
-        "title_ids": ["NPEA00130", "NPUA30004"],
-        "comm_ids": ["NPWR00829", "NPWR00570"]
+    "Heavy Weapon (EU)": {
+        "title_ids": ["NPEA00130"],
+        "comm_ids": ["NPWR00829"]
+    },
+    "Heavy Weapon (US)": {
+        "title_ids": ["NPUA30004"],
+        "comm_ids": ["NPWR00570"]
     },
     "Hell Yeah!": {
         "title_ids": ["NPUB30750"],
@@ -2915,9 +2923,13 @@
         "title_ids": ["BLUS31388"],
         "comm_ids": ["NPWR06265"]
     },
-    "Hunted: The Demon's Forge": {
-        "title_ids": ["BLJM60333", "BLES01309"],
-        "comm_ids": ["NPWR02036", "NPWR01431"]
+    "Hunted: The Demon's Forge (EU)": {
+        "title_ids": ["BLES01309"],
+        "comm_ids": ["NPWR01431"]
+    },
+    "Hunted: The Demon's Forge (JP)": {
+        "title_ids": ["BLJM60333"],
+        "comm_ids": ["NPWR02036"]
     },
     "Hunter's Trophy": {
         "title_ids": ["BLES01217"],
@@ -3011,25 +3023,41 @@
         "title_ids": ["BLES00648"],
         "comm_ids": ["NPWR00709"]
     },
-    "In Space We Brawl": {
-        "title_ids": ["NPJB00775", "NPUB31625", "NPEB02160"],
-        "comm_ids": ["NPWR09621", "NPWR07794", "NPWR07661"]
+    "In Space We Brawl (EU)": {
+        "title_ids": ["NPEB02160"],
+        "comm_ids": ["NPWR07661"]
+    },
+    "In Space We Brawl (JP)": {
+        "title_ids": ["NPJB00775"],
+        "comm_ids": ["NPWR09621"]
+    },
+    "In Space We Brawl (US)": {
+        "title_ids": ["NPUB31625"],
+        "comm_ids": ["NPWR07794"]
     },
     "inFamous": {
         "title_ids": ["BCES00609"],
         "comm_ids": ["NPWR00660"]
     },
+    "inFamous 2": {
+        "title_ids": ["BCUS98125"],
+        "comm_ids": ["NPWR01730"]
+    },
     "inFAMOUS: Festival of Blood": {
         "title_ids": ["NPEA00322"],
         "comm_ids": ["NPWR02654"]
     },
-    "inFamous 2": {
-        "title_ids": ["BCUS98125"],
-        "comm_ids": ["NPWR01730"]
-    },
     "Inferno Pool": {
         "title_ids": ["NPEB00086"],
         "comm_ids": ["NPWR00622"]
+    },
+    "Infinite Stratos 2: Ignition Hearts": {
+        "title_ids": ["BLJM61146"],
+        "comm_ids": ["NPWR05661"]
+    },
+    "Infinite Stratos 2: Love and Purge": {
+        "title_ids": ["BLJM61290"],
+        "comm_ids": ["NPWR08889"]
     },
     "Initial D Extreme Stage": {
         "title_ids": ["BLAS50053", "BLJM60055"],
@@ -3071,9 +3099,13 @@
         "title_ids": ["BCES01700"],
         "comm_ids": ["NPWR04605"]
     },
-    "Invokers Tournament": {
-        "title_ids": ["NPUB31671", "NPEB02029"],
-        "comm_ids": ["NPWR08655", "NPWR06502"]
+    "Invokers Tournament (EU)": {
+        "title_ids": ["NPEB02029"],
+        "comm_ids": ["NPWR06502"]
+    },
+    "Invokers Tournament (US)": {
+        "title_ids": ["NPUB31671"],
+        "comm_ids": ["NPWR08655"]
     },
     "Ion Assault HD": {
         "title_ids": ["NPEB00769"],
@@ -3087,17 +3119,17 @@
         "title_ids": ["BLES01786"],
         "comm_ids": ["NPWR04211"]
     },
-    "IS＜インフィニット・ストラトス＞2イグニッション・ハーツ": {
-        "title_ids": ["BLJM61146"],
-        "comm_ids": ["NPWR05661"]
+    "J-STARS Victory VS+ (EU)": {
+        "title_ids": ["BLES02136"],
+        "comm_ids": ["NPWR08153"]
     },
-    "IS＜インフィニット・ストラトス＞2ラブ アンド パージ": {
-        "title_ids": ["BLJM61290"],
-        "comm_ids": ["NPWR08889"]
+    "J-STARS Victory VS+ (JP)": {
+        "title_ids": ["BLJS10258"],
+        "comm_ids": ["NPWR05794"]
     },
-    "J-STARS Victory VS+": {
-        "title_ids": ["NPUB31647", "BLES02136"],
-        "comm_ids": ["NPWR08138", "NPWR08153"]
+    "J-STARS Victory VS+ (US)": {
+        "title_ids": ["NPUB31647"],
+        "comm_ids": ["NPWR08138"]
     },
     "Jak 3": {
         "title_ids": ["NPUA80708"],
@@ -3151,9 +3183,13 @@
         "title_ids": ["NPUB31615"],
         "comm_ids": ["NPWR07653"]
     },
-    "Jimmie Johnson's Anything With An Engine": {
-        "title_ids": ["BLUS30897", "NPUB31471"],
-        "comm_ids": ["NPWR01736", "NPWR06314"]
+    "Jimmie Johnson's Anything With An Engine (Digital)": {
+        "title_ids": ["NPUB31471"],
+        "comm_ids": ["NPWR06314"]
+    },
+    "Jimmie Johnson's Anything With An Engine (Disc)": {
+        "title_ids": ["BLUS30897"],
+        "comm_ids": ["NPWR01736"]
     },
     "Joe Danger": {
         "title_ids": ["NPEB00205"],
@@ -3254,10 +3290,6 @@
     "Just Dance Kids 2": {
         "title_ids": ["BLUS30816"],
         "comm_ids": ["NPWR02412"]
-    },
-    "Jスターズ ビクトリーバーサス": {
-        "title_ids": ["BLJS10258"],
-        "comm_ids": ["NPWR05794"]
     },
     "Kamen Rider Summonride!": {
         "title_ids": ["BLJS10288"],
@@ -3371,9 +3403,13 @@
         "title_ids": ["NPUB30820"],
         "comm_ids": ["NPWR04144"]
     },
-    "Krinkle Krusher": {
-        "title_ids": ["NPEB02403", "NPUB31670"],
-        "comm_ids": ["NPWR10757", "NPWR08376"]
+    "Krinkle Krusher (EU)": {
+        "title_ids": ["NPEB02403"],
+        "comm_ids": ["NPWR10757"]
+    },
+    "Krinkle Krusher (US)": {
+        "title_ids": ["NPUB31670"],
+        "comm_ids": ["NPWR08376"]
     },
     "Kung Fu Panda 2": {
         "title_ids": ["BLUS30634"],
@@ -3423,9 +3459,13 @@
         "title_ids": ["NPEB00311"],
         "comm_ids": ["NPWR01275"]
     },
-    "Last Rebellion": {
-        "title_ids": ["BLES00861", "BLJS10070"],
-        "comm_ids": ["NPWR01116", "NPWR00990"]
+    "Last Rebellion (EU)": {
+        "title_ids": ["BLES00861"],
+        "comm_ids": ["NPWR01116"]
+    },
+    "Last Rebellion (JP)": {
+        "title_ids": ["BLJS10070"],
+        "comm_ids": ["NPWR00990"]
     },
     "Le Tour de France 2012": {
         "title_ids": ["BLES01562"],
@@ -3447,17 +3487,21 @@
         "title_ids": ["BLES00964"],
         "comm_ids": ["NPWR00999"]
     },
-    "Legends of War": {
-        "title_ids": ["NPEB01311", "BLES01744"],
-        "comm_ids": ["NPWR04433", "NPWR03821"]
-    },
-    "Legends of War: Patton": {
-        "title_ids": ["BLUS31079"],
-        "comm_ids": ["NPWR04003"]
-    },
-    "Legends of War: Patton (Digital)": {
+    "Legends of War: Patton (US Digital)": {
         "title_ids": ["NPUB31185"],
         "comm_ids": ["NPWR04503"]
+    },
+    "Legends of War: Patton's Campaign (EU Digital)": {
+        "title_ids": ["NPEB01311"],
+        "comm_ids": ["NPWR04433"]
+    },
+    "Legends of War: Patton's Campaign (EU Disc)": {
+        "title_ids": ["BLES01744"],
+        "comm_ids": ["NPWR03821"]
+    },
+    "Legends of War: Patton's Campaign (US Disc)": {
+        "title_ids": ["BLUS31079"],
+        "comm_ids": ["NPWR04003"]
     },
     "LEGO Batman 2: DC Super Heroes": {
         "title_ids": ["BLES01613"],
@@ -3523,9 +3567,17 @@
         "title_ids": ["BLUS30331"],
         "comm_ids": ["NPWR00687"]
     },
-    "Lemmings": {
-        "title_ids": ["NPEA00004", "NPUA80012", "NPJA00005"],
-        "comm_ids": ["NPWR00032", "NPWR00044", "NPWR00049"]
+    "Lemmings (EU)": {
+        "title_ids": ["NPEA00004"],
+        "comm_ids": ["NPWR00032"]
+    },
+    "Lemmings (JP)": {
+        "title_ids": ["NPJA00005"],
+        "comm_ids": ["NPWR00049"]
+    },
+    "Lemmings (US)": {
+        "title_ids": ["NPUA80012"],
+        "comm_ids": ["NPWR00044"]
     },
     "Let's Dance with Mel B": {
         "title_ids": ["BLES01268"],
@@ -3695,9 +3747,13 @@
         "title_ids": ["NPUB30134"],
         "comm_ids": ["NPWR00964"]
     },
-    "Mafia II": {
-        "title_ids": ["NPUB30656", "BLJM60270"],
-        "comm_ids": ["NPWR00772", "NPWR01436"]
+    "Mafia II (JP)": {
+        "title_ids": ["BLJM60270"],
+        "comm_ids": ["NPWR01436"]
+    },
+    "Mafia II (US)": {
+        "title_ids": ["NPUB30656"],
+        "comm_ids": ["NPWR00772"]
     },
     "MAG": {
         "title_ids": ["BCES00818"],
@@ -3739,17 +3795,33 @@
         "title_ids": ["BLUS30472"],
         "comm_ids": ["NPWR01558"]
     },
-    "Major League Baseball 2K10": {
-        "title_ids": ["BLUS30506", "BLJS10090"],
-        "comm_ids": ["NPWR00989", "NPWR01311"]
+    "Major League Baseball 2K10 (JP)": {
+        "title_ids": ["BLJS10090"],
+        "comm_ids": ["NPWR01311"]
     },
-    "Major League Baseball 2K11": {
-        "title_ids": ["BLES01321", "BLJS10112"],
-        "comm_ids": ["NPWR01894", "NPWR01887", "NPWR01718"]
+    "Major League Baseball 2K10 (US)": {
+        "title_ids": ["BLUS30506"],
+        "comm_ids": ["NPWR00989"]
     },
-    "Major League Baseball 2K12": {
-        "title_ids": ["BLJS10169", "BLUS30931"],
-        "comm_ids": ["NPWR03279", "NPWR03109"]
+    "Major League Baseball 2K11 (EU)": {
+        "title_ids": ["BLES01321"],
+        "comm_ids": ["NPWR01894"]
+    },
+    "Major League Baseball 2K11 (JP)": {
+        "title_ids": ["BLJS10112"],
+        "comm_ids": ["NPWR01887"]
+    },
+    "Major League Baseball 2K11 (US)": {
+        "title_ids": ["BLUS30719"],
+        "comm_ids": ["NPWR01718"]
+    },
+    "Major League Baseball 2K12 (JP)": {
+        "title_ids": ["BLJS10169"],
+        "comm_ids": ["NPWR03279"]
+    },
+    "Major League Baseball 2K12 (US)": {
+        "title_ids": ["BLUS30931"],
+        "comm_ids": ["NPWR03109"]
     },
     "Major League Baseball 2K13": {
         "title_ids": ["BLUS31167"],
@@ -3863,9 +3935,13 @@
         "title_ids": ["BLES01636"],
         "comm_ids": ["NPWR03622"]
     },
-    "Medieval Moves": {
-        "title_ids": ["NPEA00334", "BCUS98279"],
-        "comm_ids": ["NPWR02777", "NPWR02260"]
+    "Medieval Moves (EU)": {
+        "title_ids": ["NPEA00334"],
+        "comm_ids": ["NPWR02777"]
+    },
+    "Medieval Moves (US)": {
+        "title_ids": ["BCUS98279"],
+        "comm_ids": ["NPWR02260"]
     },
     "MEGA MAN 10": {
         "title_ids": ["NPUB30114"],
@@ -3891,8 +3967,8 @@
         "title_ids": ["NPEB00473"],
         "comm_ids": ["NPWR01731"]
     },
-    "METAL GEAR RISING: REVENGEANCE": {
-        "title_ids": ["BLES01750"],
+    "Metal Gear Rising: Revengeance": {
+        "title_ids": ["BLES01750", "NPEB01228", "NPJB00281"],
         "comm_ids": ["NPWR04001"]
     },
     "Metal Gear Solid 2: Sons of Liberty HD Edition": {
@@ -5439,13 +5515,13 @@
         "title_ids": ["NPEB00516"],
         "comm_ids": ["NPWR01793"]
     },
-    "ROBOTICS;NOTES (JP)": {
-        "title_ids": ["BLJM60446"],
-        "comm_ids": ["NPWR03378"]
-    },
     "ROBOTICS;NOTES (ASIA)": {
         "title_ids": ["BLAS50713"],
         "comm_ids": ["NPWR06752"]
+    },
+    "ROBOTICS;NOTES (JP)": {
+        "title_ids": ["BLJM60446"],
+        "comm_ids": ["NPWR03378"]
     },
     "Rochard": {
         "title_ids": ["NPEA00314"],
@@ -5643,13 +5719,13 @@
         "title_ids": ["BLES02095"],
         "comm_ids": ["NPWR07359"]
     },
-    "Saints Row: The Third (BLES01748)": {
-        "title_ids": ["BLES01748"],
-        "comm_ids": ["NPWR02545"]
-    },
     "Saints Row: The Third (BLES01342)": {
         "title_ids": ["BLES01342"],
         "comm_ids": ["NPWR01692"]
+    },
+    "Saints Row: The Third (BLES01748)": {
+        "title_ids": ["BLES01748"],
+        "comm_ids": ["NPWR02545"]
     },
     "Sam & Max - Beyond Time & Space: Episode 1 - Ice Station Santa": {
         "title_ids": ["NPUB30498"],
@@ -6900,7 +6976,7 @@
         "comm_ids": ["NPWR00723"]
     },
     "The Last of Us": {
-        "title_ids": ["BCES01585"],
+        "title_ids": ["BCES01585", "NPUA81175"],
         "comm_ids": ["NPWR03073"]
     },
     "THE LEGEND OF HEROES: TRAILS OF COLD STEEL": {
@@ -7460,7 +7536,7 @@
         "comm_ids": ["NPWR05906"]
     },
     "Uncharted 2: Among Thieves ": {
-        "title_ids": ["BCUS98123"],
+        "title_ids": ["BCUS98123", "NPEA00364", "BCAS20097"],
         "comm_ids": ["NPWR00462"]
     },
     "Uncharted 3: Drake's Deception": {
@@ -7519,13 +7595,13 @@
         "title_ids": ["NPEB01238"],
         "comm_ids": ["NPWR04062"]
     },
-    "Valiant Hearts: The Great War (US)": {
-        "title_ids": ["NPUB31400"],
-        "comm_ids": ["NPWR06174"]
-    },
     "Valiant Hearts: The Great War (JP)": {
         "title_ids": ["NPJB00660"],
         "comm_ids": ["NPWR07170"]
+    },
+    "Valiant Hearts: The Great War (US)": {
+        "title_ids": ["NPUB31400"],
+        "comm_ids": ["NPWR06174"]
     },
     "Vancouver 2010": {
         "title_ids": ["BLES00660"],
@@ -7587,6 +7663,10 @@
         "title_ids": ["NPEB00594"],
         "comm_ids": ["NPWR02049"]
     },
+    "Voodo Dice (EU)": {
+        "title_ids": ["NPEB00183"],
+        "comm_ids": ["NPWR01181"]
+    },
     "Voodoo Chronicles (EU)": {
         "title_ids": ["NPEB01110"],
         "comm_ids": ["NPWR03832"]
@@ -7598,10 +7678,6 @@
     "Voodoo Dice (JP)": {
         "title_ids": ["NPJB00069"],
         "comm_ids": ["NPWR01381"]
-    },
-    "Voodo Dice (EU)": {
-        "title_ids": ["NPEB00183"],
-        "comm_ids": ["NPWR01181"]
     },
     "Wakeboarding HD": {
         "title_ids": ["NPEB00122"],
