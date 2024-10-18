@@ -1,12 +1,12 @@
 <?php
 // Load the Game Titles and IDs from the provided JSON structure
-$game_mapping_file = __DIR__ . '/games.json';  // Reference the current directory
-$game_mappings = json_decode(file_get_contents($game_mapping_file), true);
+$games_json = __DIR__ . '/games.json';  // Reference the current directory
+$game_mappings = json_decode(file_get_contents($games_json), true);
 
 // Fetch JSON Data from RPCN Stats API
-$json_url = "";
-$json_data = file_get_contents($json_url);
-$data = json_decode($json_data, true);
+$api_url = "";
+$api_data = file_get_contents($api_url);
+$data = json_decode($api_data, true);
 
 // Get the total number of users from the API
 $total_users = isset($data['num_users']) ? $data['num_users'] : 0;
