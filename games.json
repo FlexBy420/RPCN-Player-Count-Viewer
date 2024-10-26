@@ -1883,7 +1883,7 @@
         "title_ids": ["BLES00978", "BLUS30581", "BLJS10085"],
         "comm_ids": ["NPWR01286"]
     },
-    "Dragon Ball: Raging Blast;": {
+    "Dragon Ball: Raging Blast": {
         "title_ids": ["BLES00693"],
         "comm_ids": ["NPWR00631"]
     },
@@ -3472,7 +3472,7 @@
         "comm_ids": ["NPWR02969"]
     },
     "Lead and Gold: Gangs of the Wild West": {
-        "title_ids": ["NPUB30228"],
+        "title_ids": ["NPEB00201", "NPUB30228", "NPJB00088"],
         "comm_ids": ["NPWR01026"]
     },
     "Legasista": {
@@ -7724,7 +7724,7 @@
         "comm_ids": ["NPWR00915"]
     },
     "WATCH_DOGS": {
-        "title_ids": ["BLES01854"],
+        "title_ids": ["BLES01854", "NPEB01433"],
         "comm_ids": ["NPWR04527"]
     },
     "Watchmen": {
