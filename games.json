@@ -1439,12 +1439,12 @@
         "title_ids": ["NPJB00076"],
         "comm_ids": ["NPWR01312"]
     },
-    "DARK SOULS": {
+    "Dark Souls": {
         "title_ids": ["BLJM60517"],
         "comm_ids": ["NPWR00817"]
     },
-    "DARK SOULS II": {
-        "title_ids": ["BLUS41045"],
+    "Dark Souls II": {
+        "title_ids": ["BLES01959", "BLUS41045", "BLJM61113", "BLAS50640", "NPJB00555", "NPHB00595", "NPEB01853", "NPUB31358", "NPEB02202", "NPUB31666", "BLES02135", "BLUS31528", "NPJB00711", "NPHB00711"],
         "comm_ids": ["NPWR05751"]
     },
     "Dark Void": {
@@ -1635,9 +1635,25 @@
         "title_ids": ["BCAS20071", "BLES00932", "BLUS30443"],
         "comm_ids": ["NPWR00245", "NPWR01249", "NPWR00881"]
     },
-    "Dengeki Bunko: Fighting Climax": {
+    "Dengeki Bunko: Fighting Climax (ASIA)": {
+        "title_ids": ["BLAS50781"],
+        "comm_ids": ["NPWR08354"]
+    },
+    "Dengeki Bunko: Fighting Climax (EU)": {
+        "title_ids": ["NPEB02243"],
+        "comm_ids": ["NPWR08862"]
+    },
+    "Dengeki Bunko: Fighting Climax (JP)": {
+        "title_ids": ["NPJB00580"],
+        "comm_ids": ["NPWR07672"]
+    },
+    "Dengeki Bunko: Fighting Climax (US)": {
         "title_ids": ["BLUS31535", "NPEB02243"],
         "comm_ids": ["NPWR08852", "NPWR08862"]
+    },
+    "Dengeki Bunko: Fighting Climax Ignition": {
+        "title_ids": ["BLJM61322", "NPJB00785"],
+        "comm_ids": ["NPWR09967"]
     },
     "Derrick's Cabinet": {
         "title_ids": ["NPUB30926"],
@@ -1703,17 +1719,49 @@
         "title_ids": ["BLES01578"],
         "comm_ids": ["NPWR03108"]
     },
-    "Disgaea 3": {
-        "title_ids": ["BLUS30181", "BLES00452"],
-        "comm_ids": ["NPWR00416", "NPWR00827"]
+    "Disgaea 3: Absence of Justice (EU)": {
+        "title_ids": ["BLES00452"],
+        "comm_ids": ["NPWR00827"]
     },
-    "Disgaea 4": {
-        "title_ids": ["BLES01225", "BLUS30727"],
-        "comm_ids": ["NPWR02062", "NPWR02060"]
+    "Disgaea 3: Absence of Justice (JP)": {
+        "title_ids": ["BLJS10011"],
+        "comm_ids": ["NPWR00400"]
     },
-    "Disgaea D2": {
-        "title_ids": ["BLES01939", "BLUS31313"],
-        "comm_ids": ["NPWR05031", "NPWR05028"]
+    "Disgaea 3: Absence of Justice (US)": {
+        "title_ids": ["BLUS30181"],
+        "comm_ids": ["NPWR00416"]
+    },
+    "Disgaea 4: A Promise Unforgotten (ASIA)": {
+        "title_ids": ["BCAS20185"],
+        "comm_ids": ["NPWR02063"]
+    },
+    "Disgaea 4: A Promise Unforgotten (EU)": {
+        "title_ids": ["BLES01225"],
+        "comm_ids": ["NPWR02062"]
+    },
+    "Disgaea 4: A Promise Unforgotten (JP)": {
+        "title_ids": ["BLJS10095"],
+        "comm_ids": ["NPWR01631"]
+    },
+    "Disgaea 4: A Promise Unforgotten (KOR)": {
+        "title_ids": ["BCKS10178"],
+        "comm_ids": ["NPWR02064"]
+    },
+    "Disgaea 4: A Promise Unforgotten (US)": {
+        "title_ids": ["BLUS30727"],
+        "comm_ids": ["NPWR02060"]
+    },
+    "Disgaea D2: A Brighter Darkness (ASIA)": {
+        "title_ids": ["BCAS20301"],
+        "comm_ids": ["NPWR05116"]
+    },
+    "Disgaea D2: A Brighter Darkness (EU)": {
+        "title_ids": ["BLES01939"],
+        "comm_ids": ["NPWR05031"]
+    },
+    "Disgaea D2: A Brighter Darkness (US)": {
+        "title_ids": ["BLUS31313"],
+        "comm_ids": ["NPWR05028"]
     },
     "Dishonored": {
         "title_ids": ["BLES01674"],
@@ -1879,13 +1927,13 @@
         "title_ids": ["BLUS31314", "BLES01941", "NPEB01823", "BLJS10234", "NPJB00448", "NPUB31322"],
         "comm_ids": ["NPWR04847"]
     },
-    "Dragon Ball: Raging Blast 2": {
-        "title_ids": ["BLES00978", "BLUS30581", "BLJS10085"],
-        "comm_ids": ["NPWR01286"]
-    },
     "Dragon Ball: Raging Blast": {
         "title_ids": ["BLES00693"],
         "comm_ids": ["NPWR00631"]
+    },
+    "Dragon Ball: Raging Blast 2": {
+        "title_ids": ["BLES00978", "BLUS30581", "BLJS10085"],
+        "comm_ids": ["NPWR01286"]
     },
     "Dragon Fantasy Book I": {
         "title_ids": ["NPUB31118"],
@@ -2083,9 +2131,13 @@
         "title_ids": ["NPUA80473"],
         "comm_ids": ["NPWR01262"]
     },
-    "Eiyuu Senki - The World Conquest": {
+    "Eiyuu Senki: The World Conquest (EU)": {
         "title_ids": ["NPEB02102"],
         "comm_ids": ["NPWR07172"]
+    },
+    "Eiyuu Senki: The World Conquest (JP)": {
+        "title_ids": ["BLJM61072"],
+        "comm_ids": ["NPWR04986"]
     },
     "El Chavo Kart": {
         "title_ids": ["BLUS31198"],
@@ -2619,9 +2671,13 @@
         "title_ids": [""],
         "comm_ids": ["NPWR02071"]
     },
-    "GODZILLA": {
+    "Godzilla (EU)": {
         "title_ids": ["BLES02164"],
         "comm_ids": ["NPWR08709"]
+    },
+    "Godzilla (JP)": {
+        "title_ids": ["BLJS10291"],
+        "comm_ids": ["NPWR07292"]
     },
     "Golden Axe": {
         "title_ids": ["NPUB30441"],
@@ -4067,6 +4123,10 @@
         "title_ids": ["BLES00322"],
         "comm_ids": ["NPWR00499"]
     },
+    "Misato Katsuragi's Reporting Plan": {
+        "title_ids": ["NPJB00026"],
+        "comm_ids": ["NPWR00735"]
+    },
     "MLB 09 The Show": {
         "title_ids": ["BCUS98180"],
         "comm_ids": ["NPWR00538"]
@@ -4138,6 +4198,10 @@
     "ModNation Racers": {
         "title_ids": ["BCES00764"],
         "comm_ids": ["NPWR00300"]
+    },
+    "Moe Moe Daisensou Gendaiban Plus Plus": {
+        "title_ids": ["BLJS10163"],
+        "comm_ids": ["NPWR02935"]
     },
     "Mon Coach Personnel – Club Fitness": {
         "title_ids": ["BLES01191"],
@@ -5726,6 +5790,14 @@
     "Saints Row: The Third (BLES01748)": {
         "title_ids": ["BLES01748"],
         "comm_ids": ["NPWR02545"]
+    },
+    "Saka Tsuku: Pro Soccer Club o Tsukurou!": {
+        "title_ids": ["BLJM61064"],
+        "comm_ids": ["NPWR04136"]
+    },
+    "Sakigake!! Otokojuku: Nihon yo, Kore ga Otoko de Aru!": {
+        "title_ids": ["BLJS10254"],
+        "comm_ids": ["NPWR05308"]
     },
     "Sam & Max - Beyond Time & Space: Episode 1 - Ice Station Santa": {
         "title_ids": ["NPUB30498"],
@@ -7659,6 +7731,10 @@
         "title_ids": ["BLES00912"],
         "comm_ids": ["NPWR01224"]
     },
+    "Virtual On: Cyber Troopers": {
+        "title_ids": ["NPJB00321"],
+        "comm_ids": ["NPWR04277"]
+    },
     "Voltron: Defender of the Universe": {
         "title_ids": ["NPEB00594"],
         "comm_ids": ["NPWR02049"]
@@ -8415,14 +8491,6 @@
         "title_ids": ["BLJM61060"],
         "comm_ids": ["NPWR04365"]
     },
-    "ゴジラ-GODZILLA-": {
-        "title_ids": ["BLJS10291"],
-        "comm_ids": ["NPWR07292"]
-    },
-    "サカつく プロサッカークラブをつくろう！": {
-        "title_ids": ["BLJM61064"],
-        "comm_ids": ["NPWR04136"]
-    },
     "シャイニング・レゾナンス": {
         "title_ids": ["BLJM61156"],
         "comm_ids": ["NPWR07315"]
@@ -9155,18 +9223,6 @@
         "title_ids": ["BLAS50740"],
         "comm_ids": ["NPWR06494"]
     },
-    "英雄＊戦姫": {
-        "title_ids": ["BLJM61072"],
-        "comm_ids": ["NPWR04986"]
-    },
-    "萌え萌え大戦争☆げんだいばーん++": {
-        "title_ids": ["BLJS10163"],
-        "comm_ids": ["NPWR02935"]
-    },
-    "葛城ミサト報道計画": {
-        "title_ids": ["NPJB00026"],
-        "comm_ids": ["NPWR00735"]
-    },
     "薄桜鬼 巡想録": {
         "title_ids": ["BLJM60240"],
         "comm_ids": ["NPWR01152"]
@@ -9219,45 +9275,9 @@
         "title_ids": ["NPJB00588"],
         "comm_ids": ["NPWR06121"]
     },
-    "電撃文庫 FIGHTING CLIMAX IGNITION": {
-        "title_ids": ["NPJB00785"],
-        "comm_ids": ["NPWR09967"]
-    },
-    "電撃文庫 FIGHTING CLIMAX トロフィーセット": {
-        "title_ids": ["NPJB00580"],
-        "comm_ids": ["NPWR07672"]
-    },
-    "電擊文庫 FIGHTING CLIMAX 獎盃組": {
-        "title_ids": ["BLAS50781"],
-        "comm_ids": ["NPWR08354"]
-    },
-    "電脳戦機バーチャロン": {
-        "title_ids": ["NPJB00321"],
-        "comm_ids": ["NPWR04277"]
-    },
     "鬼武者 Soul": {
         "title_ids": ["NPJB00304"],
         "comm_ids": ["NPWR04218"]
-    },
-    "魁!!男塾 ～日本よ、これが男である！～": {
-        "title_ids": ["BLJS10254"],
-        "comm_ids": ["NPWR05308"]
-    },
-    "魔界戦記ディスガイア３ ": {
-        "title_ids": ["BLJS10011"],
-        "comm_ids": ["NPWR00400"]
-    },
-    "魔界戦記ディスガイア４ ": {
-        "title_ids": ["BLJS10095"],
-        "comm_ids": ["NPWR01631"]
-    },
-    "魔界戰記D2": {
-        "title_ids": ["BCAS20301"],
-        "comm_ids": ["NPWR05116"]
-    },
-    "魔界戰記ＤＩＳＧＡＥＡ４": {
-        "title_ids": ["BCAS20185"],
-        "comm_ids": ["NPWR02063"]
     },
     "魔都紅色幽撃隊 DAYBREAK SPECIAL GIGS JAPAN TOUR": {
         "title_ids": ["BLJS10316"],
@@ -9274,10 +9294,6 @@
     "麻雀覇王 段級バトル3": {
         "title_ids": ["BLJM61030"],
         "comm_ids": ["NPWR05140"]
-    },
-    "마계전기 DISGAEA4": {
-        "title_ids": ["BCKS10178"],
-        "comm_ids": ["NPWR02064"]
     },
     "압도적유희 무겐소울즈": {
         "title_ids": ["BLKS20385"],
