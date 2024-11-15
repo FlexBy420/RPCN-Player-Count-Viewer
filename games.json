@@ -1447,6 +1447,10 @@
         "title_ids": ["BLES01959", "BLUS41045", "BLJM61113", "BLAS50640", "NPJB00555", "NPHB00595", "NPEB01853", "NPUB31358", "NPEB02202", "NPUB31666", "BLES02135", "BLUS31528", "NPJB00711", "NPHB00711"],
         "comm_ids": ["NPWR05751"]
     },
+    "Dark Souls II Network Test": {
+        "title_ids": ["BLET50006"],
+        "comm_ids": ["NPWR05186"]
+    },
     "Dark Void": {
         "title_ids": ["BLUS30323"],
         "comm_ids": ["NPWR00698"]
@@ -1455,9 +1459,13 @@
         "title_ids": ["BLES00705"],
         "comm_ids": ["NPWR00986"]
     },
-    "Darksiders II": {
-        "title_ids": ["BLES01597", "BLJS10199"],
-        "comm_ids": ["NPWR03174", "NPWR03948"]
+    "Darksiders II (EU)": {
+        "title_ids": ["BLES01597"],
+        "comm_ids": ["NPWR03174"]
+    },
+    "Darksiders II (JP)": {
+        "title_ids": ["BLJS10199"],
+        "comm_ids": ["NPWR03948"]
     },
     "Darkstalkers Resurrection": {
         "title_ids": ["NPUB30666"],
@@ -1648,8 +1656,8 @@
         "comm_ids": ["NPWR07672"]
     },
     "Dengeki Bunko: Fighting Climax (US)": {
-        "title_ids": ["BLUS31535", "NPEB02243"],
-        "comm_ids": ["NPWR08852", "NPWR08862"]
+        "title_ids": ["BLUS31535"],
+        "comm_ids": ["NPWR08852"]
     },
     "Dengeki Bunko: Fighting Climax Ignition": {
         "title_ids": ["BLJM61322", "NPJB00785"],
@@ -1791,9 +1799,13 @@
         "title_ids": ["BLES01730"],
         "comm_ids": ["NPWR03780"]
     },
-    "Disney Sing It: Family Hits": {
-        "title_ids": ["BLES00889", "BLUS30508"],
-        "comm_ids": ["NPWR01230", "NPWR01147"]
+    "Disney Sing It: Family Hits (EU)": {
+        "title_ids": ["BLES00889"],
+        "comm_ids": ["NPWR01230"]
+    },
+    "Disney Sing It: Family Hits (US)": {
+        "title_ids": ["BLUS30508"],
+        "comm_ids": ["NPWR01147"]
     },
     "Disney Sing It: Party Hits ": {
         "title_ids": ["BLUS30603"],
@@ -1811,9 +1823,13 @@
         "title_ids": ["BLJM61067"],
         "comm_ids": ["NPWR04716"]
     },
-    "Divekick": {
-        "title_ids": ["NPUB31279", "NPJB00656"],
-        "comm_ids": ["NPWR04810", "NPWR07305"]
+    "Divekick (US)": {
+        "title_ids": ["NPUB31279"],
+        "comm_ids": ["NPWR04810"]
+    },
+    "Divekick (JP)": {
+        "title_ids": ["NPJB00656"],
+        "comm_ids": ["NPWR07305"]
     },
     "DJ Hero": {
         "title_ids": ["BLES00602", "BLUS30368"],
@@ -1867,9 +1883,13 @@
         "title_ids": ["NPUB31775"],
         "comm_ids": ["NPWR10183"]
     },
-    "Doodle God": {
-        "title_ids": ["NPEB01233", "NPUB30954"],
-        "comm_ids": ["NPWR08993", "NPWR10182"]
+    "Doodle God (EU)": {
+        "title_ids": ["NPEB01233"],
+        "comm_ids": ["NPWR08993"]
+    },
+    "Doodle God (US)": {
+        "title_ids": ["NPUB30954"],
+        "comm_ids": ["NPWR10182"]
     },
     "Doodle Kingdom": {
         "title_ids": ["NPEB02316"],
@@ -2435,9 +2455,13 @@
         "title_ids": ["NPUB30929"],
         "comm_ids": ["NPWR03868"]
     },
-    "Final Exam": {
-        "title_ids": ["NPJB00546", "NPEB01409"],
-        "comm_ids": ["NPWR05741", "NPWR04731"]
+    "Final Exam (JP)": {
+        "title_ids": ["NPJB00546"],
+        "comm_ids": ["NPWR05741"]
+    },
+    "Final Exam (EU)": {
+        "title_ids": ["NPEB01409"],
+        "comm_ids": ["NPWR04731"]
     },
     "FINAL FANTASY X HD Remaster": {
         "title_ids": [""],
@@ -2467,7 +2491,7 @@
         "title_ids": ["BLES01062"],
         "comm_ids": ["NPWR01455"]
     },
-    "Fist of the North Star: Ken’s Rage 2": {
+    "Fist of the North Star: Ken's Rage 2": {
         "title_ids": ["BLES01801"],
         "comm_ids": ["NPWR04298"]
     },
@@ -2515,9 +2539,13 @@
         "title_ids": ["BLES00559"],
         "comm_ids": ["NPWR00710"]
     },
-    "Frogger Returns": {
-        "title_ids": ["NPUB30118", "NPEB00162"],
-        "comm_ids": ["NPWR00893", "NPWR00944"]
+    "Frogger Returns (EU)": {
+        "title_ids": ["NPEB00162"],
+        "comm_ids": ["NPWR00944"]
+    },
+    "Frogger Returns (US)": {
+        "title_ids": ["NPUB30118"],
+        "comm_ids": ["NPWR00893"]
     },
     "Frogger: Hyper Arcade Edition": {
         "title_ids": ["NPUB30578"],
