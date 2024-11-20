@@ -411,6 +411,10 @@
         "title_ids": ["BLJM61014"],
         "comm_ids": ["NPWR04352"]
     },
+    "Army of TWO": {
+        "title_ids": ["BLUS30057"],
+        "comm_ids": [""]
+    },
     "Army of TWO The Devil's Cartel": {
         "title_ids": ["BLES01763"],
         "comm_ids": ["NPWR03984"]
@@ -743,6 +747,10 @@
         "title_ids": ["NPUA80882"],
         "comm_ids": ["NPWR04194"]
     },
+    "Berserk Musou": {
+        "title_ids": ["NPJB00818"],
+        "comm_ids": ["NPWR11535"]
+    },
     "Best of Arcade Games": {
         "title_ids": ["NPUB31413"],
         "comm_ids": ["NPWR06570"]
@@ -1068,11 +1076,11 @@
         "comm_ids": ["NPWR01247"]
     },
     "Call of Duty: Black Ops II": {
-        "title_ids": ["BLES01717"],
+        "title_ids": ["BLES01717", "BLUS31011"],
         "comm_ids": ["NPWR02059"]
     },
     "Call of Duty: Black Ops III": {
-        "title_ids": ["BLES02166"],
+        "title_ids": ["BLES02166", "BLUS31527"],
         "comm_ids": ["NPWR08251"]
     },
     "Call of Duty: Modern Warfare 2": {
@@ -1080,7 +1088,7 @@
         "comm_ids": ["NPWR00791"]
     },
     "Call of Duty: Modern Warfare 3": {
-        "title_ids": ["BLES01434, BLES01428"],
+        "title_ids": ["BLES01434, BLES01428", "BLUS30838"],
         "comm_ids": ["NPWR02322"]
     },
     "Call of Duty: World at War": {
@@ -1428,7 +1436,7 @@
         "comm_ids": ["NPWR03768"]
     },
     "Dante's Inferno": {
-        "title_ids": ["BLES00713"],
+        "title_ids": ["BLES00713", "BLUS30405"],
         "comm_ids": ["NPWR00745"]
     },
     "DARE TO FLY!": {
@@ -1823,13 +1831,13 @@
         "title_ids": ["BLJM61067"],
         "comm_ids": ["NPWR04716"]
     },
-    "Divekick (US)": {
-        "title_ids": ["NPUB31279"],
-        "comm_ids": ["NPWR04810"]
-    },
     "Divekick (JP)": {
         "title_ids": ["NPJB00656"],
         "comm_ids": ["NPWR07305"]
+    },
+    "Divekick (US)": {
+        "title_ids": ["NPUB31279"],
+        "comm_ids": ["NPWR04810"]
     },
     "DJ Hero": {
         "title_ids": ["BLES00602", "BLUS30368"],
@@ -2444,24 +2452,28 @@
         "comm_ids": ["NPWR12875"]
     },
     "FIFA Street": {
-        "title_ids": ["BLES01493"],
+        "title_ids": ["BLES01493", "BLUS30882"],
         "comm_ids": ["NPWR02719"]
     },
-    "FIGHT NIGHT CHAMPION": {
-        "title_ids": ["BLES01039"],
+    "Fight Night Champion": {
+        "title_ids": ["BLES01039", "BLUS30608"],
         "comm_ids": ["NPWR01421"]
+    },
+    "Fight Night Round 4": {
+        "title_ids": ["BLES00538"],
+        "comm_ids": ["NPWR00617"]
     },
     "Fighting Vipers": {
         "title_ids": ["NPUB30929"],
         "comm_ids": ["NPWR03868"]
     },
-    "Final Exam (JP)": {
-        "title_ids": ["NPJB00546"],
-        "comm_ids": ["NPWR05741"]
-    },
     "Final Exam (EU)": {
         "title_ids": ["NPEB01409"],
         "comm_ids": ["NPWR04731"]
+    },
+    "Final Exam (JP)": {
+        "title_ids": ["NPJB00546"],
+        "comm_ids": ["NPWR05741"]
     },
     "FINAL FANTASY X HD Remaster": {
         "title_ids": [""],
@@ -2807,6 +2819,10 @@
         "title_ids": ["BLES00576"],
         "comm_ids": ["NPWR00711"]
     },
+    "Guitar Hero III: Legends of Rock": {
+        "title_ids": ["BLES00134", "BLUS30074", "BLJS10015"],
+        "comm_ids": [""]
+    },
     "Guitar Hero Live": {
         "title_ids": ["BLUS31556"],
         "comm_ids": ["NPWR08716"]
@@ -2824,7 +2840,7 @@
         "comm_ids": ["NPWR00606"]
     },
     "Guitar Hero: Warriors of Rock": {
-        "title_ids": ["BLES00801"],
+        "title_ids": ["BLES00801", "BLUS30487"],
         "comm_ids": ["NPWR01107"]
     },
     "GundeadliGne": {
@@ -4108,7 +4124,7 @@
         "comm_ids": ["NPWR05400"]
     },
     "Midnight Club: Los Angeles": {
-        "title_ids": ["BLES00362"],
+        "title_ids": ["BLES00362", "BLES00652"],
         "comm_ids": ["NPWR00180"]
     },
     "Midway Arcade Origins": {
@@ -4224,7 +4240,7 @@
         "comm_ids": ["NPWR01355"]
     },
     "ModNation Racers": {
-        "title_ids": ["BCES00764"],
+        "title_ids": ["BCES00764", "BCUS98167"],
         "comm_ids": ["NPWR00300"]
     },
     "Moe Moe Daisensou Gendaiban Plus Plus": {
@@ -4751,9 +4767,13 @@
         "title_ids": ["NPEB00645"],
         "comm_ids": ["NPWR02292"]
     },
-    "Odin Sphere Leifthrasir": {
-        "title_ids": ["NPUB31840", "BLJM61239"],
-        "comm_ids": ["NPWR10696", "NPWR07394"]
+    "Odin Sphere Leifthrasir (JP)": {
+        "title_ids": ["BLJM61239"],
+        "comm_ids": ["NPWR07394"]
+    },
+    "Odin Sphere Leifthrasir (US)": {
+        "title_ids": ["NPUB31840"],
+        "comm_ids": ["NPWR10696"]
     },
     "Of Orcs And Men": {
         "title_ids": ["BLES01586"],
@@ -5128,7 +5148,7 @@
         "comm_ids": ["NPWR13117"]
     },
     "PRO EVOLUTION SOCCER 2018 (US)": {
-        "title_ids": ["BLUS31612"],
+        "title_ids": ["BLUS31612", "NPUB31864"],
         "comm_ids": ["NPWR13116"]
     },
     "Pro Foosball (EU)": {
@@ -5311,7 +5331,7 @@
         "title_ids": ["NPUB30434"],
         "comm_ids": ["NPWR03135"]
     },
-    "RAMBO THE VIDEO GAME": {
+    "Rambo The Video Game": {
         "title_ids": ["BLES01963"],
         "comm_ids": ["NPWR05256"]
     },
@@ -5491,7 +5511,7 @@
         "title_ids": ["BLES01773"],
         "comm_ids": ["NPWR03903"]
     },
-    "RESIDENT EVIL REVELATIONS 2": {
+    "Resident Evil Revelations 2": {
         "title_ids": ["NPUB31518"],
         "comm_ids": ["NPWR06575"]
     },
@@ -6220,7 +6240,7 @@
         "comm_ids": ["NPWR01603"]
     },
     "Sleeping Dogs": {
-        "title_ids": ["BLES01661"],
+        "title_ids": ["BLES01661", "BLUS30927"],
         "comm_ids": ["NPWR02972"]
     },
     "Slender: The Arrival": {
@@ -6323,7 +6343,7 @@
         "title_ids": ["NPUB30624"],
         "comm_ids": ["NPWR02783"]
     },
-    "SONIC GENERATIONS": {
+    "Sonic Generations": {
         "title_ids": ["BLES01236"],
         "comm_ids": ["NPWR01768"]
     },
@@ -6339,19 +6359,19 @@
         "title_ids": ["NPEB00477"],
         "comm_ids": ["NPWR00587"]
     },
-    "SONIC THE HEDGEHOG 4 Episode I": {
+    "Sonic The Hedgehog 4 Episode I": {
         "title_ids": ["NPEB00153"],
         "comm_ids": ["NPWR00954"]
     },
-    "SONIC THE HEDGEHOG 4 Episode II": {
+    "Sonic The Hedgehog 4 Episode II": {
         "title_ids": ["NPUB30581"],
         "comm_ids": ["NPWR02484"]
     },
-    "SONIC UNLEASHED": {
+    "Sonic Unleashed": {
         "title_ids": ["BLUS30244"],
         "comm_ids": ["NPWR00507"]
     },
-    "SONIC WORLD ADVENTURE": {
+    "Sonic World Adventure": {
         "title_ids": ["BLJM60112"],
         "comm_ids": ["NPWR00525"]
     },
@@ -6375,7 +6395,7 @@
         "title_ids": ["BLES00296", "BLUS30160", "BLJS10026"],
         "comm_ids": [""]
     },
-    "SOULCALIBUR Lost Swords": {
+    "SoulCalibur Lost Swords": {
         "title_ids": ["NPJB00466"],
         "comm_ids": ["NPWR04758"]
     },
@@ -7555,10 +7575,6 @@
         "title_ids": ["BLUS30457"],
         "comm_ids": ["NPWR01117"]
     },
-    "Trophées FIGHT NIGHT ROUND 4": {
-        "title_ids": ["BLES00538"],
-        "comm_ids": ["NPWR00617"]
-    },
     "Truck Racer": {
         "title_ids": ["BLES01798"],
         "comm_ids": ["NPWR04293"]
@@ -7616,7 +7632,7 @@
         "comm_ids": ["NPWR00788"]
     },
     "UFC Undisputed 3": {
-        "title_ids": ["BLES01231"],
+        "title_ids": ["BLES01231", "BLUS30738"],
         "comm_ids": ["NPWR01372"]
     },
     "Ugly Americans": {
@@ -7670,6 +7686,10 @@
     "Unearthed: Trail of Ibn Battuta": {
         "title_ids": ["NPEB00891"],
         "comm_ids": ["NPWR03702"]
+    },
+    "Unknown Game": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00275", "NPWR00119"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8726,10 +8746,6 @@
     "プロ野球スピリッツ６": {
         "title_ids": ["BLAS50109"],
         "comm_ids": ["NPWR00643"]
-    },
-    "ベルセルク無双": {
-        "title_ids": ["NPJB00818"],
-        "comm_ids": ["NPWR11535"]
     },
     "マクロス30～銀河を繋ぐ歌声～": {
         "title_ids": ["BLJS10184"],
