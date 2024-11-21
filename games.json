@@ -19,8 +19,8 @@
         "title_ids": ["NPJA00044"],
         "comm_ids": ["NPWR00832"]
     },
-    "2010 FIFA World Cup": {
-        "title_ids": ["BLES00796"],
+    "2010 FIFA World Cup South Africa": {
+        "title_ids": ["BLES00796", "BLUS30474"],
         "comm_ids": ["NPWR01022"]
     },
     "2014 FIFA World Cup Brazil": {
@@ -2131,7 +2131,11 @@
         "title_ids": ["BLES00987"],
         "comm_ids": ["NPWR01360"]
     },
-    "Earth Defense Force 2025": {
+    "Earth Defense Force 2025 (JP)": {
+        "title_ids": ["BLJS10209"],
+        "comm_ids": ["NPWR04336"]
+    },
+    "Earth Defense Force 2025 (US)": {
         "title_ids": ["BLUS31160"],
         "comm_ids": ["NPWR05300"]
     },
@@ -2499,9 +2503,13 @@
         "title_ids": ["NPUB30087"],
         "comm_ids": ["NPWR00897"]
     },
-    "Fist of the North Star: Ken's Rage": {
+    "Fist of the North Star: Ken's Rage (EU)": {
         "title_ids": ["BLES01062"],
         "comm_ids": ["NPWR01455"]
+    },
+    "Fist of the North Star: Ken's Rage (JP)": {
+        "title_ids": ["BLJM60196"],
+        "comm_ids": ["NPWR01024"]
     },
     "Fist of the North Star: Ken's Rage 2": {
         "title_ids": ["BLES01801"],
@@ -2795,9 +2803,13 @@
         "title_ids": ["NPEB00060"],
         "comm_ids": ["NPWR00284"]
     },
-    "Guacamelee!": {
+    "Guacamelee! (EU)": {
         "title_ids": ["NPEB01141"],
         "comm_ids": ["NPWR03776"]
+    },
+    "Guacamelee! (JP)": {
+        "title_ids": ["NPJB00612"],
+        "comm_ids": ["NPWR06387"]
     },
     "Guardians of Middle-earth": {
         "title_ids": ["NPUB30840"],
@@ -2824,7 +2836,7 @@
         "comm_ids": [""]
     },
     "Guitar Hero Live": {
-        "title_ids": ["BLUS31556"],
+        "title_ids": ["BLUS31556", "BLES02180"],
         "comm_ids": ["NPWR08716"]
     },
     "Guitar Hero Metallica": {
@@ -2903,11 +2915,27 @@
         "title_ids": ["NPUB30093"],
         "comm_ids": ["NPWR00702"]
     },
-    "Hatsune Miku: Project DIVA F": {
+    "Hatsune Miku: Project DIVA Dreamy Theater": {
+        "title_ids": ["NPJB00047"],
+        "comm_ids": ["NPWR01194"]
+    },
+    "Hatsune Miku: Project DIVA Dreamy Theater 2nd": {
+        "title_ids": ["NPJB00134"],
+        "comm_ids": ["NPWR01852"]
+    },
+    "Hatsune Miku: Project DIVA Dreamy Theater Extend": {
+        "title_ids": ["NPJB00201"],
+        "comm_ids": ["NPWR03492"]
+    },
+    "Hatsune Miku: Project DIVA F (JP)": {
+        "title_ids": ["BLJM60527"],
+        "comm_ids": ["NPWR03591"]
+    },
+    "Hatsune Miku: Project DIVA F (US)": {
         "title_ids": ["BLUS31319"],
         "comm_ids": ["NPWR04679"]
     },
-    "Hatsune Miku: Project DIVA F 2nd": {
+    "Hatsune Miku: Project DIVA F 2nd (US)": {
         "title_ids": ["BLUS31431"],
         "comm_ids": ["NPWR05394"]
     },
@@ -3282,6 +3310,38 @@
     "Jetpack Joyride Deluxe": {
         "title_ids": ["NPUB31615"],
         "comm_ids": ["NPWR07653"]
+    },
+    "Jikkyou Powerful Pro Yakyuu 2010": {
+        "title_ids": ["BLJM60243"],
+        "comm_ids": ["NPWR01056"]
+    },
+    "Jikkyou Powerful Pro Yakyuu 2011": {
+        "title_ids": ["BLJM60337"],
+        "comm_ids": ["NPWR01424"]
+    },
+    "Jikkyou Powerful Pro Yakyuu 2011: Ketteiban": {
+        "title_ids": ["BLJM60424"],
+        "comm_ids": ["NPWR02746"]
+    },
+    "Jikkyou Powerful Pro Yakyuu 2012": {
+        "title_ids": ["BLJM60469"],
+        "comm_ids": ["NPWR02933"]
+    },
+    "Jikkyou Powerful Pro Yakyuu 2012: Ketteiban": {
+        "title_ids": ["BLJM60564"],
+        "comm_ids": ["NPWR04036"]
+    },
+    "Jikkyou Powerful Pro Yakyuu 2013": {
+        "title_ids": ["BLJM61083"],
+        "comm_ids": ["NPWR04688"]
+    },
+    "Jikkyou Powerful Pro Yakyuu 2014": {
+        "title_ids": ["BLJM61215"],
+        "comm_ids": ["NPWR06538"]
+    },
+    "Jikkyou Powerful Pro Yakyuu 2016": {
+        "title_ids": ["BLJM61317"],
+        "comm_ids": ["NPWR09648"]
     },
     "Jimmie Johnson's Anything With An Engine (Digital)": {
         "title_ids": ["NPUB31471"],
@@ -3716,7 +3776,7 @@
         "comm_ids": ["NPWR00160"]
     },
     "LittleBigPlanet 2": {
-        "title_ids": ["BCUS98245", "BCES00850", "BCES01086", "BCJS30058", "BCAS20113", "BCKS10150", "NPEA00324", "NPUA80662", "NPEA00437", "BCES01693", "BCES01694", "BCUS98372", "BCUS98249", "BCET70035", "BCET70023", "NPUA70117", "NPUA07128", "NPUA70127", "NPEA90077", "NPEA90098", "NPUA70174", "NPHA80163"],
+        "title_ids": ["BCUS98245", "BCES00850", "BCES01086", "BCJS30058", "BCAS20113", "BCKS10150", "NPEA00324", "NPUA80662", "NPEA00437", "BCES01693", "BCES01694", "BCUS98372", "BCUS98249", "BCAS20201", "BCET70035", "BCET70023", "NPUA70117", "NPUA07128", "NPUA70127", "NPEA90077", "NPEA90098", "NPUA70174", "NPHA80163"],
         "comm_ids": ["NPWR01210"]
     },
     "LittleBigPlanet 3": {
@@ -4088,7 +4148,7 @@
         "comm_ids": ["NPWR04728"]
     },
     "Metal Gear Solid V: The Phantom Pain": {
-        "title_ids": ["BLES02102"],
+        "title_ids": ["BLES02102", "BLUS31491"],
         "comm_ids": ["NPWR08167"]
     },
     "Metal Gear Solid: Peace Walker HD Edition": {
@@ -4232,7 +4292,7 @@
         "comm_ids": ["NPWR03396"]
     },
     "Mobile Suit Gundam: Extreme VS Full Boost": {
-        "title_ids": ["BLJS10250"],
+        "title_ids": ["BLJS10250", "NPJB00512"],
         "comm_ids": ["NPWR04269"]
     },
     "Modern Combat: Domination": {
@@ -4395,11 +4455,23 @@
         "title_ids": ["BLUS31154"],
         "comm_ids": ["NPWR02908"]
     },
-    "Mugen Souls": {
+    "Mugen Souls (EU)": {
         "title_ids": ["BLES01723"],
         "comm_ids": ["NPWR03686"]
     },
-    "Mugen Souls Z": {
+    "Mugen Souls (JP)": {
+        "title_ids": ["BLJM60456"],
+        "comm_ids": ["NPWR03137"]
+    },
+    "Mugen Souls Z (JP)": {
+        "title_ids": ["BLJM61028"],
+        "comm_ids": ["NPWR04416"]
+    },
+    "Mugen Souls Z (KOR)": {
+        "title_ids": ["BLKS20444"],
+        "comm_ids": ["NPWR05120"]
+    },
+    "Mugen Souls Z (US)": {
         "title_ids": ["NPUB31464"],
         "comm_ids": ["NPWR06308"]
     },
@@ -4506,6 +4578,10 @@
     "National Geographic Challenge!": {
         "title_ids": ["BLES01037"],
         "comm_ids": ["NPWR01420"]
+    },
+    "Natsuiro High School Seishun Kakusho": {
+        "title_ids": ["BLJS10273"],
+        "comm_ids": ["NPWR08075"]
     },
     "NAtURAL DOCtRINE": {
         "title_ids": ["BLUS31453", "BLJS10268"],
@@ -4791,19 +4867,23 @@
         "title_ids": ["NPUB31580"],
         "comm_ids": ["NPWR05470"]
     },
-    "ONE PIECE Unlimited World Red": {
+    "One Piece Unlimited World Red": {
         "title_ids": ["BLJS10272"],
         "comm_ids": ["NPWR06110"]
     },
-    "ONE PIECE: PIRATE WARRIORS": {
+    "One Piece: Pirate Warriors (EU)": {
         "title_ids": ["BLES01672"],
         "comm_ids": ["NPWR03526"]
     },
-    "ONE PIECE: PIRATE WARRIORS 2": {
+    "One Piece: Pirate Warriors (JP)": {
+        "title_ids": ["BLJM60416"],
+        "comm_ids": ["NPWR02652"]
+    },
+    "One Piece: Pirate Warriors 2": {
         "title_ids": ["BLES01913"],
         "comm_ids": ["NPWR04898"]
     },
-    "ONE PIECE: PIRATE WARRIORS 3": {
+    "One Piece: Pirate Warriors 3": {
         "title_ids": ["NPUB31676"],
         "comm_ids": ["NPWR08617"]
     },
@@ -4988,7 +5068,7 @@
         "comm_ids": ["NPWR01559"]
     },
     "PlayStation All-Stars Battle Royale": {
-        "title_ids": ["BCES01435"],
+        "title_ids": ["BCES01435", "BCUS98472"],
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
@@ -5840,7 +5920,7 @@
         "comm_ids": ["NPWR02545"]
     },
     "Saka Tsuku: Pro Soccer Club o Tsukurou!": {
-        "title_ids": ["BLJM61064"],
+        "title_ids": ["BLJM61064", "PCSG00198"],
         "comm_ids": ["NPWR04136"]
     },
     "Sakigake!! Otokojuku: Nihon yo, Kore ga Otoko de Aru!": {
@@ -6102,6 +6182,10 @@
     "Shin Sangoku Musou: Eiketsuden": {
         "title_ids": ["BLJM61347"],
         "comm_ids": ["NPWR10990"]
+    },
+    "Shining Resonance": {
+        "title_ids": ["BLAS50745"],
+        "comm_ids": ["NPWR07574"]
     },
     "Shirokishi Monogatari: Hikari to Yami no Kakusei": {
         "title_ids": ["BCJS30042"],
@@ -7659,6 +7743,10 @@
         "title_ids": ["BCES01175", "BCES01176", "BCUS98233", "BCJS37004", "BCAS25009", "BCES01670", "BCES01692", "BCUS99086", "BCAS25014", "NPEA00422", "NPUA80858", "NPUA70183", "BCET70034", "BCET70043", "NPUA70153", "NPUA70180", "NPHA80158"],
         "comm_ids": ["NPWR01216"]
     },
+    "Uncharted Waters Online": {
+        "title_ids": ["BLJM60129"],
+        "comm_ids": ["NPWR00552"]
+    },
     "Uncharted: Drake's Fortune": {
         "title_ids": ["BCES00065"],
         "comm_ids": ["NPWR00449"]
@@ -7689,7 +7777,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00275", "NPWR00119"]
+        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8819,10 +8907,6 @@
         "title_ids": ["BLJM60154"],
         "comm_ids": ["NPWR00712"]
     },
-    "ワンピース 海賊無双": {
-        "title_ids": ["BLJM60416"],
-        "comm_ids": ["NPWR02652"]
-    },
     "ワンピース 海賊無双２": {
         "title_ids": ["BLJM60572"],
         "comm_ids": ["NPWR04085"]
@@ -8903,29 +8987,9 @@
         "title_ids": ["BLJS10238"],
         "comm_ids": ["NPWR04693"]
     },
-    "光明之響": {
-        "title_ids": ["BLAS50745"],
-        "comm_ids": ["NPWR07574"]
-    },
     "出撃！！乙女たちの戦場２ トロフィー": {
         "title_ids": ["BLJS10165"],
         "comm_ids": ["NPWR02726"]
-    },
-    "初音ミク -Project DIVA- f": {
-        "title_ids": ["BLJM60527"],
-        "comm_ids": ["NPWR03591"]
-    },
-    "初音ミク -Project DIVA- ドリーミーシアター": {
-        "title_ids": ["NPJB00047"],
-        "comm_ids": ["NPWR01194"]
-    },
-    "初音ミク -Project DIVA- ドリーミーシアター 2nd": {
-        "title_ids": ["NPJB00134"],
-        "comm_ids": ["NPWR01852"]
-    },
-    "初音ミク -Project DIVA- ドリーミーシアター extend": {
-        "title_ids": ["NPJB00201"],
-        "comm_ids": ["NPWR03492"]
     },
     "剣と魔法と学園モノ。２Ｇ": {
         "title_ids": ["BLJM60278"],
@@ -8935,29 +8999,9 @@
         "title_ids": ["BLJM60258"],
         "comm_ids": ["NPWR01399"]
     },
-    "北斗無双": {
-        "title_ids": ["BLJM60196"],
-        "comm_ids": ["NPWR01024"]
-    },
     "向日葵の教会と長い夏休み -extra vacation-": {
         "title_ids": ["BLJM61091"],
         "comm_ids": ["NPWR05014"]
-    },
-    "圧倒的遊戯 ムゲンソウルズ": {
-        "title_ids": ["BLJM60456"],
-        "comm_ids": ["NPWR03137"]
-    },
-    "圧倒的遊戯 ムゲンソウルズＺ": {
-        "title_ids": ["BLKS20444", "BLJM61028"],
-        "comm_ids": ["NPWR05120", "NPWR04416"]
-    },
-    "地球防衛軍４": {
-        "title_ids": ["BLJS10209"],
-        "comm_ids": ["NPWR04336"]
-    },
-    "夏色ハイスクル青春白書": {
-        "title_ids": ["BLJS10273"],
-        "comm_ids": ["NPWR08075"]
     },
     "大戦略　大東亜興亡史３トロフィーセット": {
         "title_ids": ["BLJM61265"],
@@ -8975,10 +9019,6 @@
         "title_ids": ["BLJS10211"],
         "comm_ids": ["NPWR04303"]
     },
-    "大航海時代 Online": {
-        "title_ids": ["BLJM60129"],
-        "comm_ids": ["NPWR00552"]
-    },
     "大都技研公式パチスロシミュレーター 秘宝伝　~太陽を求める者達~ ": {
         "title_ids": ["BLJS10212"],
         "comm_ids": ["NPWR04292"]
@@ -8990,38 +9030,6 @@
     "実戦パチスロ必勝法！ 北斗の拳F 世紀末救世主伝説": {
         "title_ids": ["BLJM60468"],
         "comm_ids": ["NPWR03406"]
-    },
-    "実況パワフルプロ野球２０１０": {
-        "title_ids": ["BLJM60243"],
-        "comm_ids": ["NPWR01056"]
-    },
-    "実況パワフルプロ野球２０１１": {
-        "title_ids": ["BLJM60337"],
-        "comm_ids": ["NPWR01424"]
-    },
-    "実況パワフルプロ野球２０１１決定版": {
-        "title_ids": ["BLJM60424"],
-        "comm_ids": ["NPWR02746"]
-    },
-    "実況パワフルプロ野球２０１２": {
-        "title_ids": ["BLJM60469"],
-        "comm_ids": ["NPWR02933"]
-    },
-    "実況パワフルプロ野球２０１２決定版": {
-        "title_ids": ["BLJM60564"],
-        "comm_ids": ["NPWR04036"]
-    },
-    "実況パワフルプロ野球２０１３": {
-        "title_ids": ["BLJM61083"],
-        "comm_ids": ["NPWR04688"]
-    },
-    "実況パワフルプロ野球２０１４": {
-        "title_ids": ["BLJM61215"],
-        "comm_ids": ["NPWR06538"]
-    },
-    "実況パワフルプロ野球２０１６": {
-        "title_ids": ["BLJM61317"],
-        "comm_ids": ["NPWR09648"]
     },
     "家族計画 Re:紡ぐ糸": {
         "title_ids": ["BLJM61031"],
@@ -9278,10 +9286,6 @@
     "街ingメーカー４": {
         "title_ids": ["BLJS10155"],
         "comm_ids": ["NPWR02343"]
-    },
-    "覆面闘士": {
-        "title_ids": ["NPJB00612"],
-        "comm_ids": ["NPWR06387"]
     },
     "解放少女 SIN": {
         "title_ids": ["BLJM61118"],
