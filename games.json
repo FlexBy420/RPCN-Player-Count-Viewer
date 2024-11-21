@@ -15,6 +15,10 @@
         "title_ids": ["BLUS30983"],
         "comm_ids": ["NPWR03297"]
     },
+    "007: Quantum of Solace": {
+        "title_ids": ["BLUS30198"],
+        "comm_ids": ["NPWR00359"]
+    },
     "100 Yen Trash Panic": {
         "title_ids": ["NPJA00044"],
         "comm_ids": ["NPWR00832"]
@@ -1051,8 +1055,8 @@
         "title_ids": ["BLJM61188"],
         "comm_ids": ["NPWR06122"]
     },
-    "Call of Duty 3 (US)": {
-        "title_ids": ["BLUS30012"],
+    "Call of Duty 3": {
+        "title_ids": ["BLES00016", "BLES00017", "BLES00021", "BLUS30012", "BLJM60027"],
         "comm_ids": [""]
     },
     "Call of Duty 4: Modern Warfare": {
@@ -5334,10 +5338,6 @@
     "Quantum Conundrum": {
         "title_ids": ["NPJB00208", "NPUB30601"],
         "comm_ids": ["NPWR03395", "NPWR02911"]
-    },
-    "Quantum of Solace": {
-        "title_ids": ["BLUS30198"],
-        "comm_ids": ["NPWR00359"]
     },
     "QUANTUM THEORY": {
         "title_ids": ["BLES00868"],
