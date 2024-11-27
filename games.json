@@ -63,9 +63,13 @@
         "title_ids": ["NPUB31705"],
         "comm_ids": ["NPWR08486"]
     },
-    "50 Cent: Blood On The Sand": {
+    "50 Cent: Blood On The Sand (JP)": {
         "title_ids": ["BLJS10056"],
         "comm_ids": ["NPWR00804"]
+    },
+    "50 Cent: Blood On The Sand (US)": {
+        "title_ids": ["BLUS30256"],
+        "comm_ids": [""]
     },
     "99Vidas (EU)": {
         "title_ids": ["NPEB02458"],
@@ -424,7 +428,7 @@
         "comm_ids": ["NPWR03984"]
     },
     "Army of TWO: The 40th Day": {
-        "title_ids": ["BLES00659"],
+        "title_ids": ["BLES00659", "BLUS30408"],
         "comm_ids": ["NPWR00685"]
     },
     "Army of TWO: The 40th Day (JP)": {
@@ -452,7 +456,7 @@
         "comm_ids": ["NPWR06048"]
     },
     "Assassin's Creed II": {
-        "title_ids": ["NPUB30423"],
+        "title_ids": ["NPUB30423", "BLUS30364"],
         "comm_ids": ["NPWR00894"]
     },
     "Assassin's Creed III": {
@@ -764,7 +768,7 @@
         "comm_ids": ["NPWR04884"]
     },
     "Beyond Good & Evil HD": {
-        "title_ids": ["NPUB30394"],
+        "title_ids": ["NPEB00435", "NPUB30394"],
         "comm_ids": ["NPWR01576"]
     },
     "BEYOND THE FUTURE - FIX THE TIME ARROWS -": {
@@ -1071,6 +1075,10 @@
         "title_ids": ["BLUS31270"],
         "comm_ids": ["NPWR04874"]
     },
+    "Call of Duty Ghosts Demo": {
+        "title_ids": ["NPEB90534", "NPUB91004"],
+        "comm_ids": [""]
+    },
     "Call of Duty: Advanced Warfare": {
         "title_ids": ["BLES02077, BLUS31466"],
         "comm_ids": ["NPWR07096"]
@@ -1092,11 +1100,11 @@
         "comm_ids": ["NPWR00791"]
     },
     "Call of Duty: Modern Warfare 3": {
-        "title_ids": ["BLES01434, BLES01428", "BLUS30838"],
+        "title_ids": ["BLES01428", "BLES01430", "BLES01434", "BLUS30838", "NPUB30787"],
         "comm_ids": ["NPWR02322"]
     },
     "Call of Duty: World at War": {
-        "title_ids": ["BLUS30192"],
+        "title_ids": ["BLUS30192", "BLES00457"],
         "comm_ids": ["NPWR00467"]
     },
     "Call of Juarez Gunslinger": {
@@ -1491,7 +1499,7 @@
         "title_ids": ["NPUB30140"],
         "comm_ids": ["NPWR00456"]
     },
-    "DAYTONA USA": {
+    "Daytona USA": {
         "title_ids": ["NPUB30493"],
         "comm_ids": ["NPWR01815"]
     },
@@ -1552,7 +1560,7 @@
         "comm_ids": ["NPWR00464"]
     },
     "Dead Space 2": {
-        "title_ids": ["BLES01190"],
+        "title_ids": ["BLES01190", "BLUS30717"],
         "comm_ids": ["NPWR01438"]
     },
     "Dead Space 2 (DE)": {
@@ -1652,8 +1660,8 @@
         "comm_ids": ["NPWR03732"]
     },
     "Demon's Souls": {
-        "title_ids": ["BCAS20071", "BLES00932", "BLUS30443"],
-        "comm_ids": ["NPWR00245", "NPWR01249", "NPWR00881"]
+        "title_ids": ["BCAS20071", "BLES00932", "BLUS30443", "BLUD80018"],
+        "comm_ids": ["NPWR00245", "NPWR01249", "NPWR00881", "NPWR00919"]
     },
     "Dengeki Bunko: Fighting Climax (ASIA)": {
         "title_ids": ["BLAS50781"],
@@ -1708,7 +1716,7 @@
         "comm_ids": ["NPWR04150"]
     },
     "Diablo III: Reaper of Souls": {
-        "title_ids": ["BLUS31437"],
+        "title_ids": ["BLUS31437", "NPEB02027"],
         "comm_ids": ["NPWR06515"]
     },
     "Digger HD": {
@@ -1936,7 +1944,7 @@
         "comm_ids": ["NPWR03534"]
     },
     "Dragon Age: Origins": {
-        "title_ids": ["BLES00699"],
+        "title_ids": ["BLES00699", "BLUS30415"],
         "comm_ids": ["NPWR00845"]
     },
     "Dragon Age: Origins (JP)": {
@@ -2004,7 +2012,7 @@
         "comm_ids": ["NPWR02009"]
     },
     "DRIVER San Francisco": {
-        "title_ids": ["BLES00891"],
+        "title_ids": ["BLES00891", "BLUS30536"],
         "comm_ids": ["NPWR00331"]
     },
     "Droplitz": {
@@ -2468,7 +2476,7 @@
         "comm_ids": ["NPWR01421"]
     },
     "Fight Night Round 4": {
-        "title_ids": ["BLES00538"],
+        "title_ids": ["BLES00538", "BLUS30285"],
         "comm_ids": ["NPWR00617"]
     },
     "Fighting Vipers": {
@@ -2816,7 +2824,7 @@
         "comm_ids": ["NPWR06387"]
     },
     "Guardians of Middle-earth": {
-        "title_ids": ["NPUB30840"],
+        "title_ids": ["NPUB30840", "NPEB01085"],
         "comm_ids": ["NPWR03368"]
     },
     "Guilty Gear Xrd -Revelator-": {
@@ -2832,7 +2840,7 @@
         "comm_ids": ["NPWR03117"]
     },
     "Guitar Hero 5": {
-        "title_ids": ["BLES00576"],
+        "title_ids": ["BLES00576", "BLUS30292"],
         "comm_ids": ["NPWR00711"]
     },
     "Guitar Hero III: Legends of Rock": {
@@ -2854,6 +2862,10 @@
     "Guitar Hero Van Halen": {
         "title_ids": ["BLUS30291"],
         "comm_ids": ["NPWR00606"]
+    },
+    "Guitar Hero: Aerosmith": {
+        "title_ids": ["BLUS30133"],
+        "comm_ids": [""]
     },
     "Guitar Hero: Warriors of Rock": {
         "title_ids": ["BLES00801", "BLUS30487"],
@@ -3172,7 +3184,7 @@
         "comm_ids": ["NPWR00660"]
     },
     "inFamous 2": {
-        "title_ids": ["BCUS98125"],
+        "title_ids": ["BCUS98125", "BCES01143"],
         "comm_ids": ["NPWR01730"]
     },
     "inFAMOUS: Festival of Blood": {
@@ -4188,7 +4200,7 @@
         "comm_ids": ["NPWR05400"]
     },
     "Midnight Club: Los Angeles": {
-        "title_ids": ["BLES00362", "BLES00652"],
+        "title_ids": ["BLES00362", "BLES00652", "BLUS30442", "NPEB00546"],
         "comm_ids": ["NPWR00180"]
     },
     "Midway Arcade Origins": {
@@ -4360,7 +4372,7 @@
         "comm_ids": ["NPWR01511"]
     },
     "Mortal Kombat": {
-        "title_ids": ["BLES01132"],
+        "title_ids": ["BLES01132", "BLUS30522"],
         "comm_ids": ["NPWR01747"]
     },
     "Mortal Kombat vs. DC Universe": {
@@ -4424,11 +4436,11 @@
         "comm_ids": ["NPWR02184"]
     },
     "MotorStorm: Apocalypse": {
-        "title_ids": ["BCES00484"],
+        "title_ids": ["BCES00484", "BCUS98242"],
         "comm_ids": ["NPWR00899"]
     },
     "MotorStorm: Pacific Rift": {
-        "title_ids": ["BCES00129"],
+        "title_ids": ["BCES00129", "BCUS98155"],
         "comm_ids": ["NPWR00214"]
     },
     "Mountain Crime: Requital": {
@@ -4779,15 +4791,15 @@
         "title_ids": ["NPUB30798"],
         "comm_ids": ["NPWR03488"]
     },
-    "NINJA GAIDEN 3": {
+    "Ninja Gaiden 3": {
         "title_ids": ["BLES01524"],
         "comm_ids": ["NPWR02181"]
     },
-    "NINJA GAIDEN 3: Razor's Edge": {
+    "Ninja Gaiden 3: Razor's Edge": {
         "title_ids": ["BLUS31175"],
         "comm_ids": ["NPWR04317"]
     },
-    "NINJA GAIDEN Σ2": {
+    "Ninja Gaiden Σ2": {
         "title_ids": ["BLES00736"],
         "comm_ids": ["NPWR00757"]
     },
@@ -5471,6 +5483,10 @@
         "title_ids": ["BLES01863"],
         "comm_ids": ["NPWR04537"]
     },
+    "Rayman Origins (BLES01386)": {
+        "title_ids": ["BLES01386"],
+        "comm_ids": [""]
+    },
     "Rayman Origins (BLES01387)": {
         "title_ids": ["BLES01387"],
         "comm_ids": ["NPWR02249"]
@@ -6099,6 +6115,10 @@
         "title_ids": ["NPUB30375"],
         "comm_ids": ["NPWR01655"]
     },
+    "Sengoku Basara 4: Sumeragi": {
+        "title_ids": ["BLJM61248"],
+        "comm_ids": [""]
+    },
     "Sengoku BASARA: Samurai Heroes": {
         "title_ids": ["MRTC00005"],
         "comm_ids": ["NPWR01032"]
@@ -6272,7 +6292,7 @@
         "comm_ids": ["NPWR00535", "NPWR03275"]
     },
     "Skullgirls": {
-        "title_ids": ["NPUB30645"],
+        "title_ids": ["NPUB30645", "NPJB00322"],
         "comm_ids": ["NPWR02113"]
     },
     "Skullgirls Encore": {
@@ -6784,7 +6804,7 @@
         "comm_ids": ["NPWR04458"]
     },
     "Supersonic Acrobatic Rocket-Powered Battle-Cars": {
-        "title_ids": ["NPEB00062"],
+        "title_ids": ["NPEB00062", "NPUB30035"],
         "comm_ids": ["NPWR00406"]
     },
     "Superstars V8 Next Challenge": {
@@ -7004,7 +7024,7 @@
         "comm_ids": ["NPWR02066"]
     },
     "The Beatles: Rock Band": {
-        "title_ids": ["BLUS30282"],
+        "title_ids": ["BLUS30282", "BLES00532"],
         "comm_ids": ["NPWR00654"]
     },
     "The BIGS 2": {
@@ -7776,8 +7796,8 @@
         "comm_ids": ["NPWR03702"]
     },
     "Unknown Game": {
-        "title_ids": [""],
-        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119"]
+        "title_ids": ["NPUR10001", "NPUR00071"],
+        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
