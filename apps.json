@@ -1,4 +1,8 @@
 {
+    "AdhocParty": {
+        "title_ids": ["NPJA00040"],
+        "comm_ids": ["NPWR00392"]
+    },
     "Call of Duty Elite": {
         "title_ids": ["NPUB30607"],
         "comm_ids": ["NPWR03893"]
