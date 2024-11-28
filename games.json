@@ -636,7 +636,7 @@
         "comm_ids": ["NPWR01012"]
     },
     "Batman: Arkham City": {
-        "title_ids": ["NPUB30754"],
+        "title_ids": ["NPUB30754", "BLES00926"],
         "comm_ids": ["NPWR01235"]
     },
     "Batman: Arkham Origins": {
@@ -1116,7 +1116,7 @@
         "comm_ids": ["NPWR08251"]
     },
     "Call of Duty: Modern Warfare 2": {
-        "title_ids": ["BLES00683"],
+        "title_ids": ["BLES00683", "BLUS30377"],
         "comm_ids": ["NPWR00791"]
     },
     "Call of Duty: Modern Warfare 3": {
@@ -2164,7 +2164,7 @@
         "comm_ids": ["NPWR00842"]
     },
     "EA SPORTS MMA": {
-        "title_ids": ["BLES00987"],
+        "title_ids": ["BLES00987", "BLUS30567"],
         "comm_ids": ["NPWR01360"]
     },
     "Earth Defense Force 2025 (JP)": {
@@ -2840,7 +2840,7 @@
         "comm_ids": ["NPWR03961"]
     },
     "GRID Autosport": {
-        "title_ids": ["BLUS31452"],
+        "title_ids": ["BLUS31452", "BLES02038"],
         "comm_ids": ["NPWR06542"]
     },
     "Groovin' Blocks": {
@@ -7908,7 +7908,7 @@
         "comm_ids": ["NPWR03702"]
     },
     "Unknown Game": {
-        "title_ids": [],
+        "title_ids": ["NPJR50030"],
         "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00097", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918"]
     },
     "Unmechanical": {
