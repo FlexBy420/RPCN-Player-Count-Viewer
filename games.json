@@ -560,23 +560,23 @@
         "comm_ids": ["NPWR08986"]
     },
     "Back to the Future - Episode 1: It's About Time": {
-        "title_ids": ["NPUB30401"],
+        "title_ids": ["NPUB30401", "NPEB00447"],
         "comm_ids": ["NPWR01741"]
     },
     "Back to the Future - Episode 2: Get Tannen": {
-        "title_ids": ["NPUB30409"],
+        "title_ids": ["NPUB30409", "NPEB00479"],
         "comm_ids": ["NPWR01742"]
     },
     "Back to the Future - Episode 3: Citizen Brown": {
-        "title_ids": ["NPUB30410"],
+        "title_ids": ["NPUB30410", "NPEB00480"],
         "comm_ids": ["NPWR01743"]
     },
     "Back to the Future - Episode 4: Double Visions": {
-        "title_ids": ["NPUB30411"],
+        "title_ids": ["NPUB30411", "NPEB00482"],
         "comm_ids": ["NPWR01744"]
     },
     "Back to the Future - Episode 5: OUTATIME": {
-        "title_ids": ["NPUB30412"],
+        "title_ids": ["NPUB30412", "NPEB00481"],
         "comm_ids": ["NPWR01745"]
     },
     "Back to the Future: The Game": {
@@ -1012,16 +1012,20 @@
         "comm_ids": ["NPWR00706"]
     },
     "Buzz!: Brain of...": {
-        "title_ids": ["BCES00347"],
+        "title_ids": ["BCES00347", "BCES00367"],
         "comm_ids": ["NPWR00485"]
     },
     "Buzz!: Quiz TV": {
-        "title_ids": ["BCUS98145"],
-        "comm_ids": ["NPWR00410"]
+        "title_ids": ["BCUS98145", "BCES00305", "BCES00098"],
+        "comm_ids": ["NPWR00410", "NPWR00185"]
     },
     "Buzz!: Quiz World": {
-        "title_ids": ["BCES00647"],
+        "title_ids": ["BCES00647", "BCES00440"],
         "comm_ids": ["NPWR00540"]
+    },
+    "Buzz!: Quiz Party": {
+        "title_ids": ["NPEA00204"],
+        "comm_ids": ["NPWR01273"]
     },
     "Buzz!: The Ultimate Music Quiz": {
         "title_ids": ["BCES00828"],
@@ -2404,7 +2408,7 @@
         "comm_ids": ["NPWR04268"]
     },
     "Farming Simulator 15": {
-        "title_ids": ["BLES02108"],
+        "title_ids": ["BLES02108", "NPEB02151"],
         "comm_ids": ["NPWR08162"]
     },
     "Fast & Furious: Showdown": {
@@ -2454,6 +2458,10 @@
     "FIFA 10": {
         "title_ids": ["BLES00615"],
         "comm_ids": ["NPWR00755"]
+    },
+    "FIFA 10 Demo": {
+        "title_ids": ["NPUB90288", "BLED00702"],
+        "comm_ids": ["NPWR00958"]
     },
     "FIFA 11": {
         "title_ids": ["BLES01059"],
@@ -5504,7 +5512,7 @@
         "comm_ids": ["NPWR02347"]
     },
     "Ratchet & Clank: A Crack in Time": {
-        "title_ids": ["BCES00511"],
+        "title_ids": ["BCES00511", "BCUS98124"],
         "comm_ids": ["NPWR00941"]
     },
     "Ratchet & Clank: All 4 One": {
@@ -7881,7 +7889,7 @@
     },
     "Unknown Game": {
         "title_ids": [],
-        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00097", "NPWR00022", "NPWR00247", "NPWR02966"]
+        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00097", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
