@@ -1,0 +1,42 @@
+{
+    "Call of Duty Elite": {
+        "title_ids": ["NPUB30607"],
+        "comm_ids": ["NPWR03893"]
+    },
+    "IGN": {
+        "title_ids": ["NPEB02089"],
+        "comm_ids": [""]
+    },
+    "Mubi": {
+        "title_ids": ["NPEB02149"],
+        "comm_ids": [""]
+    },
+    "Spotify": {
+        "title_ids": ["NPEB02222"],
+        "comm_ids": ["NPWR08903"]
+    },
+    "SEC Digital Network": {
+        "title_ids": ["NPUP00064"],
+        "comm_ids": [""]
+    },
+    "Video Unlimited Preview": {
+        "title_ids": ["NPIA09008"],
+        "comm_ids": [""]
+    },
+    "TuneIn Radio": {
+        "title_ids": ["NPEB01831"],
+        "comm_ids": ["NPWR04985"]
+    },
+    "Twitch": {
+        "title_ids": ["NPEB02359"],
+        "comm_ids": [""]
+    },
+    "Qello Concerts": {
+        "title_ids": ["NPEB02055"],
+        "comm_ids": [""]
+    },
+    "Crunchyroll": {
+        "title_ids": ["NPEB02307"],
+        "comm_ids": [""]
+    }
+}
