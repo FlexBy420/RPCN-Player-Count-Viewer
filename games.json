@@ -131,6 +131,10 @@
         "title_ids": ["NPUB31347"],
         "comm_ids": ["NPWR04428"]
     },
+    "Ace Combat Infinity Beta": {
+        "title_ids": ["NPJB90677", "BLET70052"],
+        "comm_ids": ["NPWR05566"]
+    },
     "Adam's Venture: Chronicles (NPUB30867)": {
         "title_ids": ["NPUB30867"],
         "comm_ids": ["NPWR03931"]
@@ -138,6 +142,10 @@
     "Adam's Venture: Chronicles (NPUB31753)": {
         "title_ids": ["NPUB31753"],
         "comm_ids": ["NPWR09409"]
+    },
+    "AdhocParty": {
+        "title_ids": ["NPJA00040"],
+        "comm_ids": ["NPWR00392"]
     },
     "Adventure Time: Explore the Dungeon Because I DON'T KNOW!": {
         "title_ids": ["BLES01961"],
@@ -687,6 +695,10 @@
         "title_ids": ["BLUS30762"],
         "comm_ids": ["NPWR02011"]
     },
+    "Battlefield 3 Beta": {
+        "title_ids": ["NPUB90600"],
+        "comm_ids": [""]
+    },
     "Battlefield 4": {
         "title_ids": ["BLUS31162"],
         "comm_ids": ["NPWR04412"]
@@ -698,6 +710,14 @@
     "Battlefield: Bad Company 2": {
         "title_ids": ["BLES00773"],
         "comm_ids": ["NPWR01006"]
+    },
+    "Battlefield: Bad Company 2 Closed Beta": {
+        "title_ids": ["NPUB90316"],
+        "comm_ids": ["NPWR01025"]
+    },
+    "Battlefield: Bad Company 2 Demo": {
+        "title_ids": ["NPUB90347"],
+        "comm_ids": ["NPWR01121"]
     },
     "Battlefield: Hardline": {
         "title_ids": ["BLUS31440"],
@@ -1468,7 +1488,7 @@
         "comm_ids": ["NPWR05751"]
     },
     "Dark Souls II Network Test": {
-        "title_ids": ["BLET50006"],
+        "title_ids": ["BLET50006", "NPJB90625", "NPUB90979"],
         "comm_ids": ["NPWR05186"]
     },
     "Dark Void": {
@@ -2403,6 +2423,10 @@
         "title_ids": ["NPUA80139", "NPEA00111", "NPJA00048", "NPHA80066"],
         "comm_ids": ["NPWR00737"]
     },
+    "Fat Princess Beta": {
+        "title_ids": ["NPUA70042"],
+        "comm_ids": ["NPWR00385"]
+    },
     "Feeding Frenzy 2": {
         "title_ids": ["NPUA30006"],
         "comm_ids": ["NPWR01041"]
@@ -2440,7 +2464,7 @@
         "comm_ids": ["NPWR01198"]
     },
     "FIFA 12": {
-        "title_ids": ["BLES01381"],
+        "title_ids": ["BLES01381", "BLUS30809"],
         "comm_ids": ["NPWR02104"]
     },
     "FIFA 13": {
@@ -2560,7 +2584,7 @@
         "comm_ids": ["NPWR05742"]
     },
     "Free Realms": {
-        "title_ids": ["NPUA30048"],
+        "title_ids": ["NPUA30048", "NPEA00299"],
         "comm_ids": ["NPWR01279"]
     },
     "Fret Nice": {
@@ -2754,6 +2778,10 @@
     "Gotham City Impostors": {
         "title_ids": ["NPUB30252"],
         "comm_ids": ["NPWR01542"]
+    },
+    "GT Academy 2013": {
+        "title_ids": ["NPEA90124"],
+        "comm_ids": ["NPWR04662"]
     },
     "Gran Turismo 5": {
         "title_ids": ["BCES00569", "BCUS98114", "BCAS20108", "BCJS30001"],
@@ -3467,6 +3495,14 @@
         "title_ids": ["BLUS30816"],
         "comm_ids": ["NPWR02412"]
     },
+    "Joysound Dive": {
+        "title_ids": ["NPJB00167"],
+        "comm_ids": [""]
+    },
+    "JOYSOUND.TV Plus": {
+        "title_ids": ["NPJB00695"],
+        "comm_ids": [""]
+    },
     "Kamen Rider Summonride!": {
         "title_ids": ["BLJS10288"],
         "comm_ids": ["NPWR07313"]
@@ -3792,16 +3828,32 @@
         "comm_ids": ["NPWR00160"]
     },
     "LittleBigPlanet 2": {
-        "title_ids": ["BCUS98245", "BCES00850", "BCES01086", "BCJS30058", "BCAS20113", "BCKS10150", "NPEA00324", "NPUA80662", "NPEA00437", "BCES01693", "BCES01694", "BCUS98372", "BCUS98249", "BCAS20201", "BCET70035", "BCET70023", "NPUA70117", "NPUA07128", "NPUA70127", "NPEA90077", "NPEA90098", "NPUA70174", "NPHA80163"],
+        "title_ids": ["BCUS98245", "BCES00850", "BCES01086", "BCJS30058", "BCAS20113", "BCKS10150", "NPEA00324", "NPUA80662", "NPEA00437", "BCES01693", "BCES01694", "BCUS98372", "BCUS98249", "BCAS20201", "BCET70035", "BCET70023", "NPUA07128", "NPUA70127", "NPEA90077", "NPEA90098", "NPUA70174", "NPHA80163"],
         "comm_ids": ["NPWR01210"]
+    },
+    "LittleBigPlanet 2 Move Pack Beta": {
+        "title_ids": ["BCET70035"],
+        "comm_ids": ["NPWR02010"]
+    },
+    "LittleBigPlanet 2 Beta": {
+        "title_ids": ["NPUA70117"],
+        "comm_ids": ["NPWR00378"]
+    },
+    "LittleBigPlanet HUB": {
+        "title_ids": ["NPEA00449", "BCET70055"],
+        "comm_ids": ["NPWR02010"]
     },
     "LittleBigPlanet 3": {
         "title_ids": ["BCES01663", "BCES02068", "BCUS98362", "BCUS81138", "BCJS30095", "BCAS20322", "NPEA00515", "NPJA00123", "NPHA80277", "NPUA81116"],
         "comm_ids": ["NPWR03509"]
     },
     "LittleBigPlanet Karting": {
-        "title_ids": ["BCUS98254", "BCES01422", "NPUA80848", "NPEA00421", "BCES01423", "BCJS30085", "BCUS99141", "BCAS20205", "BCET70048", "NPUA70208"],
+        "title_ids": ["BCUS98254", "BCES01422", "NPUA80848", "NPEA00421", "BCES01423", "BCJS30085", "BCUS99141", "BCAS20205"],
         "comm_ids": ["NPWR02312"]
+    },
+    "LittleBigPlanet Karting Beta": {
+        "title_ids": ["NPUA70208", "BCET70048"],
+        "comm_ids": ["NPWR03671"]
     },
     "LOLLIPOP CHAINSAW": {
         "title_ids": ["BLES01525"],
@@ -3932,7 +3984,7 @@
         "comm_ids": ["NPWR00772"]
     },
     "MAG": {
-        "title_ids": ["BCES00818"],
+        "title_ids": ["BCES00818", "NPUA70052"],
         "comm_ids": ["NPWR00380"]
     },
     "Magic 2012": {
@@ -5084,7 +5136,7 @@
         "comm_ids": ["NPWR01559"]
     },
     "PlayStation All-Stars Battle Royale": {
-        "title_ids": ["BCES01435", "BCUS98472"],
+        "title_ids": ["BCES01435", "BCUS98472", "NPUA70214"],
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
@@ -5627,9 +5679,17 @@
         "title_ids": ["BCUS98120"],
         "comm_ids": ["NPWR00291"]
     },
+    "Resistance 2 Beta": {
+        "title_ids": ["NPUA70018"],
+        "comm_ids": ["NPWR00463"]
+    },
     "Resistance 3": {
         "title_ids": ["BCUS98176"],
         "comm_ids": ["NPWR01841"]
+    },
+    "Resistance 3 Beta": {
+        "title_ids": ["NPUA70161"],
+        "comm_ids": [""]
     },
     "Resistance: Fall of Man": {
         "title_ids": ["BCES00001", "BCUS98107", "BCJS30003", "BCAS20003", "NPEA00430"],
@@ -6739,6 +6799,10 @@
         "title_ids": ["BLUS30328"],
         "comm_ids": ["NPWR00375"]
     },
+    "Street Fighter III: Third Strike Online Edition": {
+        "title_ids": ["NPUB30301", "NPEB00554"],
+        "comm_ids": [""]
+    },
     "Street Fighter IV": {
         "title_ids": ["BLUS30265"],
         "comm_ids": ["NPWR00434"]
@@ -6794,6 +6858,10 @@
     "Super Street Fighter IV": {
         "title_ids": ["BLUS30453"],
         "comm_ids": ["NPWR00938"]
+    },
+    "Super Street Fighter II Turbo HD": {
+        "title_ids": ["NPEB00036"],
+        "comm_ids": ["NPWR00146"]
     },
     "Supercar Challenge": {
         "title_ids": ["BLES00581"],
@@ -7636,7 +7704,7 @@
         "comm_ids": ["NPWR05011"]
     },
     "Transformers: War for Cybertron": {
-        "title_ids": ["BLES00833"],
+        "title_ids": ["BLES00833", "BLUS30357"],
         "comm_ids": ["NPWR00891"]
     },
     "TRASH PANIC": {
@@ -7739,6 +7807,10 @@
         "title_ids": ["BLES01231", "BLUS30738"],
         "comm_ids": ["NPWR01372"]
     },
+    "UFC Undisputed 3 Alpha": {
+        "title_ids": ["NPUB90711"],
+        "comm_ids": ["NPWR02949"]
+    },
     "Ugly Americans": {
         "title_ids": ["NPUB30491"],
         "comm_ids": ["NPWR01838"]
@@ -7755,13 +7827,25 @@
         "title_ids": ["NPUB31453"],
         "comm_ids": ["NPWR05906"]
     },
-    "Uncharted 2: Among Thieves ": {
+    "Uncharted 2: Among Thieves": {
         "title_ids": ["BCUS98123", "NPEA00364", "BCAS20097"],
         "comm_ids": ["NPWR00462"]
     },
+    "Uncharted 2: Among Thieves Beta (EU)": {
+        "title_ids": ["BCET70015"],
+        "comm_ids": [""]
+    },
+    "Uncharted 2: Among Thieves Beta (US)": {
+        "title_ids": ["NPUA70051"],
+        "comm_ids": [""]
+    },
     "Uncharted 3: Drake's Deception": {
-        "title_ids": ["BCES01175", "BCES01176", "BCUS98233", "BCJS37004", "BCAS25009", "BCES01670", "BCES01692", "BCUS99086", "BCAS25014", "NPEA00422", "NPUA80858", "NPUA70183", "BCET70034", "BCET70043", "NPUA70153", "NPUA70180", "NPHA80158"],
+        "title_ids": ["BCES01175", "BCES01176", "BCUS98233", "BCJS37004", "BCAS25009", "BCES01670", "BCES01692", "BCUS99086", "BCAS25014", "NPEA00422", "NPUA80858", "NPUA70183", "BCET70034", "NPUA70153", "NPHA80158"],
         "comm_ids": ["NPWR01216"]
+    },
+    "Uncharted 3: Drake's Deception Subway": {
+        "title_ids": ["NPUA70180", "BCET70043"],
+        "comm_ids": [""]
     },
     "Uncharted Waters Online": {
         "title_ids": ["BLJM60129"],
@@ -7796,8 +7880,8 @@
         "comm_ids": ["NPWR03702"]
     },
     "Unknown Game": {
-        "title_ids": ["NPUR10001", "NPUR00071"],
-        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053"]
+        "title_ids": ["NPUR10001", "NPUR00071", "NPUR30262"],
+        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8028,7 +8112,7 @@
         "comm_ids": ["NPWR00314"]
     },
     "White Knight Chronicles II": {
-        "title_ids": ["BCES01085"],
+        "title_ids": ["BCES01085", "BLUS30784"],
         "comm_ids": ["NPWR01681"]
     },
     "White Knight Chronicles: International Edition": {

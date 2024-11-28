@@ -1,7 +1,9 @@
 <?php
 // Load the Game Titles and IDs from the provided JSON structure
 $games_json = __DIR__ . '/games.json';  // Reference the current directory
+$log_file = __DIR__ . '/log.txt'; // Log file for missing IDs
 $game_mappings = json_decode(file_get_contents($games_json), true);
+//file_put_contents($log_file, ""); // Clear the log file at the start
 
 // Fetch JSON Data from RPCN Stats API
 $api_url = "";
@@ -21,6 +23,12 @@ function normalize_id($id) {
     }
     return preg_replace('/_00$/', '', $id);  // Remove _00 suffix
 }
+
+function log_missing_id($id, $log_file) {
+    $message = "ID not found in JSON: $id\n";
+    file_put_contents($log_file, $message, FILE_APPEND);
+}
+
 // Merge Player Counts from API Data
 foreach ($game_mappings as $game_title => $ids) {
     $title_player_counts[$game_title] = 0;
@@ -52,6 +60,37 @@ foreach ($game_mappings as $game_title => $ids) {
         }
     }
 }
+
+// Check for IDs in the API data that are not in the JSON file
+foreach ($data['psn_games'] as $api_comm_id => $count) {
+    $found = false;
+    foreach ($game_mappings as $ids) {
+        foreach ($ids['comm_ids'] as $comm_id) {
+            if (normalize_id($api_comm_id) === normalize_id($comm_id)) {
+                $found = true;
+                break 2;
+            }
+        }
+    }
+    if (!$found) {
+        log_missing_id($api_comm_id, $log_file);
+    }
+}
+
+foreach ($data['ticket_games'] as $api_title_id => $count) {
+    $found = false;
+    foreach ($game_mappings as $ids) {
+        foreach ($ids['title_ids'] as $title_id) {
+            if (normalize_id($api_title_id) === normalize_id($title_id)) {
+                $found = true;
+                break 2;
+            }
+        }
+    }
+    if (!$found) {
+        log_missing_id($api_title_id, $log_file);
+    }
+}
 // Sort the results by player count in descending order
 arsort($title_player_counts);
 ?>
@@ -60,6 +99,7 @@ arsort($title_player_counts);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="60">
     <title>RPCN Player Counts</title>
 </head>
 <body>
