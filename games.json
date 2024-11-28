@@ -711,9 +711,17 @@
         "title_ids": ["NPUB90316"],
         "comm_ids": ["NPWR01025"]
     },
-    "Battlefield: Bad Company 2 Demo": {
+    "Battlefield: Bad Company 2 Demo (US)": {
         "title_ids": ["NPUB90347"],
         "comm_ids": ["NPWR01121"]
+    },
+    "Battlefield: Bad Company 2 Demo (EU)": {
+        "title_ids": ["NPEB90212"],
+        "comm_ids": [""]
+    },
+    "Battlefield: Bad Company 2 Demo (HK)": {
+        "title_ids": ["NPHB00186"],
+        "comm_ids": [""]
     },
     "Battlefield: Hardline": {
         "title_ids": ["BLUS31440"],
@@ -1975,6 +1983,10 @@
         "title_ids": ["BLJS10292"],
         "comm_ids": ["NPWR04128"]
     },
+    "Dragon Ball Xenoverse Network Test": {
+        "title_ids": ["NPUB31623", "NPJB90720"],
+        "comm_ids": [""]
+    },
     "Dragon Ball Z Budokai HD Collection": {
         "title_ids": ["BLES01658"],
         "comm_ids": ["NPWR03514"]
@@ -2791,6 +2803,10 @@
         "title_ids": ["BCES00569", "BCUS98114", "BCAS20108", "BCJS30001"],
         "comm_ids": ["NPWR00651"]
     },
+    "Gran Turismo 5 Time Trial Challenge": {
+        "title_ids": ["NPEA90052", "NPHA80080", "NPUA70087"],
+        "comm_ids": ["NPWR01071"]
+    },
     "Gran Turismo 6": {
         "title_ids": ["BCAS25018", "BCES01893", "BCES01977", "BCJS37016", "BCUS98296", "NPEA00502", "NPUA81049", "NPHA80269", "NPJA00113", "BCUS99247"],
         "comm_ids": ["NPWR04712"]
@@ -2832,7 +2848,7 @@
         "comm_ids": ["NPWR01342"]
     },
     "GRID 2": {
-        "title_ids": ["NPUB31075"],
+        "title_ids": ["NPUB31075", "BLES01737"],
         "comm_ids": ["NPWR03961"]
     },
     "GRID Autosport": {
@@ -5116,7 +5132,7 @@
         "comm_ids": ["NPWR00843"]
     },
     "PixelJunk Shooter 2": {
-        "title_ids": ["NPEA00181"],
+        "title_ids": ["NPEA00181", "NPEA90093", "NPHB00326", "NPHB00353", "NPUA70142"],
         "comm_ids": ["NPWR01251"]
     },
     "PixelJunk SideScroller": {
@@ -7889,7 +7905,7 @@
     },
     "Unknown Game": {
         "title_ids": [],
-        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00097", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900"]
+        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00097", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8081,7 +8097,7 @@
     },
     "Weekly Toro Station": {
         "title_ids": ["NPJA00046"],
-        "comm_ids": [""]
+        "comm_ids": ["NPWR00911"]
     },
     "Weird Park: The Final Show": {
         "title_ids": ["NPEB02245"],
