@@ -24,22 +24,28 @@ function normalize_id($id) {
 // Merge Player Counts from API Data
 foreach ($game_mappings as $game_title => $ids) {
     $title_player_counts[$game_title] = 0;
+    $comm_id_player_count = 0;  // Store player count from comm_ids if found
     
-    // Merge counts for title IDs (used in 'ticket_games')
-    foreach ($ids['title_ids'] as $title_id) {
-        $normalized_title_id = normalize_id($title_id);
-        foreach ($data['ticket_games'] as $api_title_id => $count) {
-            if (normalize_id($api_title_id) === $normalized_title_id) {
-                $title_player_counts[$game_title] += $count;
-            }
-        }
-    }  
-    // Merge counts for communication IDs (used in 'psn_games')
+    // Check for comm_ids (prioritize comm_ids over title_ids)
     foreach ($ids['comm_ids'] as $comm_id) {
         if (!empty($comm_id)) {  // Handle cases where comm_id might be empty
             $normalized_comm_id = normalize_id($comm_id);
             foreach ($data['psn_games'] as $api_comm_id => $count) {
                 if (normalize_id($api_comm_id) === $normalized_comm_id) {
+                    $comm_id_player_count += $count;
+                }
+            }
+        }
+    }
+    // If we have a count from comm_ids, use it and skip counting title_ids
+    if ($comm_id_player_count > 0) {
+        $title_player_counts[$game_title] = $comm_id_player_count;
+    } else {
+        // If no comm_ids found, count players based on title_ids
+        foreach ($ids['title_ids'] as $title_id) {
+            $normalized_title_id = normalize_id($title_id);
+            foreach ($data['ticket_games'] as $api_title_id => $count) {
+                if (normalize_id($api_title_id) === $normalized_title_id) {
                     $title_player_counts[$game_title] += $count;
                 }
             }
