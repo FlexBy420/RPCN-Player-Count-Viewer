@@ -79,14 +79,6 @@
         "title_ids": ["NPUB31842"],
         "comm_ids": ["NPWR11170"]
     },
-    "[PROTOTYPE2]": {
-        "title_ids": ["BLES01532"],
-        "comm_ids": ["NPWR01864"]
-    },
-    "[PROTOTYPE]": {
-        "title_ids": ["NPUB30389"],
-        "comm_ids": ["NPWR00261"]
-    },
     "A Boy and His Blob": {
         "title_ids": ["NPEB02164"],
         "comm_ids": ["NPWR09311"]
@@ -711,10 +703,6 @@
         "title_ids": ["NPUB90316"],
         "comm_ids": ["NPWR01025"]
     },
-    "Battlefield: Bad Company 2 Demo (US)": {
-        "title_ids": ["NPUB90347"],
-        "comm_ids": ["NPWR01121"]
-    },
     "Battlefield: Bad Company 2 Demo (EU)": {
         "title_ids": ["NPEB90212"],
         "comm_ids": [""]
@@ -722,6 +710,10 @@
     "Battlefield: Bad Company 2 Demo (HK)": {
         "title_ids": ["NPHB00186"],
         "comm_ids": [""]
+    },
+    "Battlefield: Bad Company 2 Demo (US)": {
+        "title_ids": ["NPUB90347"],
+        "comm_ids": ["NPWR01121"]
     },
     "Battlefield: Hardline": {
         "title_ids": ["BLUS31440"],
@@ -932,7 +924,7 @@
         "comm_ids": ["NPWR10691"]
     },
     "Blur": {
-        "title_ids": ["BLES00759"],
+        "title_ids": ["BLES00759", "BLUS30295"],
         "comm_ids": ["NPWR00567"]
     },
     "Bodycount": {
@@ -1004,7 +996,7 @@
         "comm_ids": ["NPWR01825"]
     },
     "Burnout Paradise": {
-        "title_ids": ["BLES00073"],
+        "title_ids": ["BLES00073", "BLUS30061"],
         "comm_ids": ["NPWR00234"]
     },
     "Buzz! Junior: Dino Den": {
@@ -1023,6 +1015,10 @@
         "title_ids": ["BCES00347", "BCES00367"],
         "comm_ids": ["NPWR00485"]
     },
+    "Buzz!: Quiz Party": {
+        "title_ids": ["NPEA00204"],
+        "comm_ids": ["NPWR01273"]
+    },
     "Buzz!: Quiz TV": {
         "title_ids": ["BCUS98145", "BCES00305", "BCES00098"],
         "comm_ids": ["NPWR00410", "NPWR00185"]
@@ -1030,10 +1026,6 @@
     "Buzz!: Quiz World": {
         "title_ids": ["BCES00647", "BCES00440"],
         "comm_ids": ["NPWR00540"]
-    },
-    "Buzz!: Quiz Party": {
-        "title_ids": ["NPEA00204"],
-        "comm_ids": ["NPWR01273"]
     },
     "Buzz!: The Ultimate Music Quiz": {
         "title_ids": ["BCES00828"],
@@ -2484,7 +2476,7 @@
         "comm_ids": ["NPWR02104"]
     },
     "FIFA 13": {
-        "title_ids": ["BLES01676"],
+        "title_ids": ["BLES01676", "BLUS30998"],
         "comm_ids": ["NPWR03612"]
     },
     "FIFA 14": {
@@ -2795,10 +2787,6 @@
         "title_ids": ["NPUB30252"],
         "comm_ids": ["NPWR01542"]
     },
-    "GT Academy 2013": {
-        "title_ids": ["NPEA90124"],
-        "comm_ids": ["NPWR04662"]
-    },
     "Gran Turismo 5": {
         "title_ids": ["BCES00569", "BCUS98114", "BCAS20108", "BCJS30001"],
         "comm_ids": ["NPWR00651"]
@@ -2858,6 +2846,10 @@
     "Groovin' Blocks": {
         "title_ids": ["NPUA30014"],
         "comm_ids": ["NPWR00837"]
+    },
+    "GT Academy 2013": {
+        "title_ids": ["NPEA90124"],
+        "comm_ids": ["NPWR04662"]
     },
     "GTI Club + Rally Cote D'Azur": {
         "title_ids": ["NPEB00060"],
@@ -3260,7 +3252,7 @@
         "comm_ids": [""]
     },
     "Injustice": {
-        "title_ids": ["BLES01673"],
+        "title_ids": ["BLES01673", "BLUS31018"],
         "comm_ids": ["NPWR04034"]
     },
     "Instant Artist": {
@@ -3451,6 +3443,14 @@
         "title_ids": ["NPUA80275"],
         "comm_ids": ["NPWR00714"]
     },
+    "Joysound Dive": {
+        "title_ids": ["NPJB00167"],
+        "comm_ids": [""]
+    },
+    "JOYSOUND.TV Plus": {
+        "title_ids": ["NPJB00695"],
+        "comm_ids": [""]
+    },
     "Judge Dee": {
         "title_ids": ["NPUB30810"],
         "comm_ids": ["NPWR03182"]
@@ -3518,14 +3518,6 @@
     "Just Dance Kids 2": {
         "title_ids": ["BLUS30816"],
         "comm_ids": ["NPWR02412"]
-    },
-    "Joysound Dive": {
-        "title_ids": ["NPJB00167"],
-        "comm_ids": [""]
-    },
-    "JOYSOUND.TV Plus": {
-        "title_ids": ["NPJB00695"],
-        "comm_ids": [""]
     },
     "Kamen Rider Summonride!": {
         "title_ids": ["BLJS10288"],
@@ -3855,21 +3847,21 @@
         "title_ids": ["BCUS98245", "BCES00850", "BCES01086", "BCJS30058", "BCAS20113", "BCKS10150", "NPEA00324", "NPUA80662", "NPEA00437", "BCES01693", "BCES01694", "BCUS98372", "BCUS98249", "BCAS20201", "BCET70035", "BCET70023", "NPUA07128", "NPUA70127", "NPEA90077", "NPEA90098", "NPUA70174", "NPHA80163"],
         "comm_ids": ["NPWR01210"]
     },
-    "LittleBigPlanet 2 Move Pack Beta": {
-        "title_ids": ["BCET70035"],
-        "comm_ids": ["NPWR02010"]
-    },
     "LittleBigPlanet 2 Beta": {
         "title_ids": ["NPUA70117"],
         "comm_ids": ["NPWR00378"]
     },
-    "LittleBigPlanet HUB": {
-        "title_ids": ["NPEA00449", "BCET70055"],
+    "LittleBigPlanet 2 Move Pack Beta": {
+        "title_ids": ["BCET70035"],
         "comm_ids": ["NPWR02010"]
     },
     "LittleBigPlanet 3": {
         "title_ids": ["BCES01663", "BCES02068", "BCUS98362", "BCUS81138", "BCJS30095", "BCAS20322", "NPEA00515", "NPJA00123", "NPHA80277", "NPUA81116"],
         "comm_ids": ["NPWR03509"]
+    },
+    "LittleBigPlanet HUB": {
+        "title_ids": ["NPEA00449", "BCET70055"],
+        "comm_ids": ["NPWR02010"]
     },
     "LittleBigPlanet Karting": {
         "title_ids": ["BCUS98254", "BCES01422", "NPUA80848", "NPEA00421", "BCES01423", "BCJS30085", "BCUS99141", "BCAS20205"],
@@ -5164,7 +5156,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00020", "NPUQ00030", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00011", "NPUR00012", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00046", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300" ],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00020", "NPUQ00030", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00011", "NPUR00012", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00046", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -5338,6 +5330,14 @@
     "Proteus": {
         "title_ids": ["NPUB31344"],
         "comm_ids": ["NPWR05008"]
+    },
+    "Prototype": {
+        "title_ids": ["NPUB30389"],
+        "comm_ids": ["NPWR00261"]
+    },
+    "Prototype 2": {
+        "title_ids": ["BLES01532", "BLUS30756"],
+        "comm_ids": ["NPWR01864"]
     },
     "Psych Yourself": {
         "title_ids": ["NPUB30800"],
@@ -6883,13 +6883,13 @@
         "title_ids": ["NPUA80068"],
         "comm_ids": ["NPWR00117"]
     },
-    "Super Street Fighter IV": {
-        "title_ids": ["BLUS30453"],
-        "comm_ids": ["NPWR00938"]
-    },
     "Super Street Fighter II Turbo HD": {
         "title_ids": ["NPEB00036"],
         "comm_ids": ["NPWR00146"]
+    },
+    "Super Street Fighter IV": {
+        "title_ids": ["BLUS30453"],
+        "comm_ids": ["NPWR00938"]
     },
     "Supercar Challenge": {
         "title_ids": ["BLES00581"],
@@ -7909,7 +7909,7 @@
     },
     "Unknown Game": {
         "title_ids": [],
-        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00097", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298"]
+        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00097", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
