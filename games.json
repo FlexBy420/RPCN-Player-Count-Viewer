@@ -1080,7 +1080,7 @@
         "comm_ids": [""]
     },
     "Call of Duty 4: Modern Warfare": {
-        "title_ids": ["BLUS30072, NPEB00740"],
+        "title_ids": ["BLUS30072", "NPEB00740"],
         "comm_ids": ["NPWR00242"]
     },
     "Call of Duty Classic": {
@@ -5512,7 +5512,7 @@
         "comm_ids": ["NPWR01008"]
     },
     "Ratchet & Clank: Into the Nexus": {
-        "title_ids": ["BCES01908"],
+        "title_ids": ["BCES01908", "NPUA80908"],
         "comm_ids": ["NPWR04695"]
     },
     "Ratchet & Clank: QForce": {
@@ -6338,6 +6338,10 @@
     "Skate 2 (EU)": {
         "title_ids": ["BLES00461"],
         "comm_ids": ["NPWR00430"]
+    },
+    "Skate 2 (US)": {
+        "title_ids": ["BLUS30253"],
+        "comm_ids": [""]
     },
     "Skate 3": {
         "title_ids": ["BLUS30464", "BLES00760", "BLJM60296"],
@@ -7877,7 +7881,7 @@
     },
     "Unknown Game": {
         "title_ids": [],
-        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00097", "NPWR00022"]
+        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00097", "NPWR00022", "NPWR00247", "NPWR02966"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
