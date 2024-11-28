@@ -1728,7 +1728,7 @@
         "comm_ids": ["NPWR01758"]
     },
     "Diablo III": {
-        "title_ids": ["BLES01921"],
+        "title_ids": ["BLES01921", "BLUS31188"],
         "comm_ids": ["NPWR04150"]
     },
     "Diablo III: Reaper of Souls": {
@@ -7028,7 +7028,7 @@
         "comm_ids": ["NPWR00623"]
     },
     "Terraria (EU & US)": {
-        "title_ids": ["BLES01938"],
+        "title_ids": ["BLES01938", "NPUB30943"],
         "comm_ids": ["NPWR04270"]
     },
     "Terraria (JP)": {
