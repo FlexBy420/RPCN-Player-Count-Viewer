@@ -16,7 +16,7 @@
         "comm_ids": ["NPWR03297"]
     },
     "007: Quantum of Solace": {
-        "title_ids": ["BLUS30198"],
+        "title_ids": ["BLUS30198", "BLJM60137"],
         "comm_ids": ["NPWR00359"]
     },
     "100 Yen Trash Panic": {
@@ -732,7 +732,7 @@
         "comm_ids": ["NPWR02920"]
     },
     "BAYONETTA": {
-        "title_ids": ["BLES00599"],
+        "title_ids": ["BLES00599", "BLUS30367"],
         "comm_ids": ["NPWR00851"]
     },
     "Beat Hazard Ultra": {
@@ -1212,7 +1212,7 @@
         "comm_ids": ["NPWR02453"]
     },
     "Castlevania: Harmony of Despair": {
-        "title_ids": ["NPEB00563"],
+        "title_ids": ["NPEB00563", "NPUB30505"],
         "comm_ids": ["NPWR01823"]
     },
     "Castlevania: Lords of Shadow": {
@@ -1792,7 +1792,7 @@
         "comm_ids": ["NPWR00414"]
     },
     "DiRT 2": {
-        "title_ids": ["BLES00673", "BLJM60178"],
+        "title_ids": ["BLES00673", "BLJM60178", "BLUS30313"],
         "comm_ids": ["NPWR00429"]
     },
     "DiRT 3": {
@@ -1868,7 +1868,7 @@
         "comm_ids": ["NPWR08358"]
     },
     "Disney Pixar Brave": {
-        "title_ids": ["BLES01633"],
+        "title_ids": ["BLES01633", "BLES01630"],
         "comm_ids": ["NPWR03056"]
     },
     "Disney Pixar Toy Story Mania!": {
@@ -1987,8 +1987,8 @@
         "title_ids": ["BLJM61043"],
         "comm_ids": ["NPWR04682"]
     },
-    "Dragon Age II (EU)": {
-        "title_ids": ["BLES01084"],
+    "Dragon Age II": {
+        "title_ids": ["BLES01084", "BLUS30645"],
         "comm_ids": ["NPWR01512"]
     },
     "Dragon Age II (JP)": {
@@ -2580,7 +2580,7 @@
         "comm_ids": ["NPWR00774"]
     },
     "FINAL FANTASY XIII-2": {
-        "title_ids": ["BLES01269", "BCAS20224", "BLUS30776"],
+        "title_ids": ["BLES01269", "BCAS20224", "BLUS30776", "BLJM60382"],
         "comm_ids": ["NPWR02391"]
     },
     "FINAL FANTASY XIV: A Realm Reborn": {
@@ -3240,7 +3240,7 @@
         "comm_ids": ["NPWR04740"]
     },
     "Ice Age 3": {
-        "title_ids": ["BLES00522"],
+        "title_ids": ["BLES00522", "BLUS30293"],
         "comm_ids": ["NPWR00697"]
     },
     "Ice Age 4: Continental Drift: Arctic Games": {
@@ -3540,7 +3540,7 @@
         "comm_ids": ["NPWR06715"]
     },
     "Just Dance 2016": {
-        "title_ids": ["BLES02179"],
+        "title_ids": ["BLES02179", "BLUS31558"],
         "comm_ids": ["NPWR08881"]
     },
     "Just Dance 2017": {
@@ -3924,7 +3924,7 @@
         "comm_ids": ["NPWR03671"]
     },
     "LOLLIPOP CHAINSAW": {
-        "title_ids": ["BLES01525"],
+        "title_ids": ["BLES01525", "BLJS10125"],
         "comm_ids": ["NPWR01992"]
     },
     "London 2012": {
@@ -4840,7 +4840,7 @@
         "comm_ids": ["NPWR01269"]
     },
     "Need for Speed Most Wanted": {
-        "title_ids": ["NPUB30789", "BLES01659"],
+        "title_ids": ["NPUB30789", "BLES01659", "BLJM60519"],
         "comm_ids": ["NPWR01813"]
     },
     "Need for Speed Rivals": {
@@ -5636,18 +5636,14 @@
         "comm_ids": ["NPWR02744"]
     },
     "Rayman Legends": {
-        "title_ids": ["BLES01863"],
+        "title_ids": ["BLES01863", "BLES01896"],
         "comm_ids": ["NPWR04537"]
     },
-    "Rayman Origins (BLES01386)": {
-        "title_ids": ["BLES01386"],
-        "comm_ids": [""]
-    },
-    "Rayman Origins (BLES01387)": {
-        "title_ids": ["BLES01387"],
+    "Rayman Origins": {
+        "title_ids": ["BLES01386", "BLES01387", "BLUS30836"],
         "comm_ids": ["NPWR02249"]
     },
-    "Rayman Origins (EU)": {
+    "Rayman Origins (BLES01510)": {
         "title_ids": ["BLES01510"],
         "comm_ids": ["NPWR02839"]
     },
@@ -6099,8 +6095,8 @@
         "title_ids": ["BLES02095"],
         "comm_ids": ["NPWR07359"]
     },
-    "Saints Row: The Third (BLES01342)": {
-        "title_ids": ["BLES01342"],
+    "Saints Row: The Third": {
+        "title_ids": ["BLES01342", "BLUS30666"],
         "comm_ids": ["NPWR01692"]
     },
     "Saints Row: The Third (BLES01748)": {
@@ -6451,6 +6447,10 @@
         "title_ids": ["BLUS30296", "BLES00560", "BLJM60220"],
         "comm_ids": ["NPWR00502"]
     },
+    "Skate": {
+        "title_ids": ["BLES00124"],
+        "comm_ids": [""]
+    },
     "Skate 2 (DE)": {
         "title_ids": ["BLES00489"],
         "comm_ids": ["NPWR00630"]
@@ -6624,7 +6624,7 @@
         "comm_ids": ["NPWR02783"]
     },
     "Sonic Generations": {
-        "title_ids": ["BLES01236"],
+        "title_ids": ["BLES01236", "BLJM60334"],
         "comm_ids": ["NPWR01768"]
     },
     "Sonic the Fighters": {
@@ -8001,7 +8001,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00004", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058"]
+        "comm_ids": ["NPWR00004", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
