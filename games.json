@@ -987,6 +987,10 @@
         "title_ids": ["NPEB01201"],
         "comm_ids": ["NPWR03959"]
     },
+    "Brothers in Arms: Hell's Highway": {
+        "title_ids": ["BLUS30165", "BLES00318", "BLES00319", "NPUB30565", "BLJM60100"],
+        "comm_ids": [""]
+    },
     "Brunswick Pro Bowling (EU)": {
         "title_ids": ["BLES01130"],
         "comm_ids": ["NPWR01600"]
@@ -1488,7 +1492,7 @@
         "comm_ids": ["NPWR03768"]
     },
     "Dante's Inferno": {
-        "title_ids": ["BLES00713", "BLUS30405"],
+        "title_ids": ["BLES00713", "BLES00714", "BLUS30405"],
         "comm_ids": ["NPWR00745"]
     },
     "DARE TO FLY!": {
@@ -2484,7 +2488,7 @@
         "comm_ids": ["NPWR00357"]
     },
     "FIFA 10": {
-        "title_ids": ["BLES00615"],
+        "title_ids": ["BLES00615", "BLUS30385"],
         "comm_ids": ["NPWR00755"]
     },
     "FIFA 10 Demo": {
@@ -4420,7 +4424,7 @@
         "comm_ids": ["NPWR01355"]
     },
     "ModNation Racers": {
-        "title_ids": ["BCES00764", "BCUS98167"],
+        "title_ids": ["BCES00764", "BCUS98167", "BCES00701"],
         "comm_ids": ["NPWR00300"]
     },
     "Moe Moe Daisensou Gendaiban Plus Plus": {
@@ -4824,7 +4828,7 @@
         "comm_ids": ["NPWR01269"]
     },
     "Need for Speed Most Wanted": {
-        "title_ids": ["NPUB30789"],
+        "title_ids": ["NPUB30789", "BLES01659"],
         "comm_ids": ["NPWR01813"]
     },
     "Need for Speed Rivals": {
@@ -4840,7 +4844,7 @@
         "comm_ids": ["NPWR01835"]
     },
     "Need for Speed Undercover": {
-        "title_ids": ["BLES00449"],
+        "title_ids": ["BLES00449", "BLUS30248"],
         "comm_ids": ["NPWR00546"]
     },
     "Nelson Tethers: Puzzle Agent": {
@@ -5044,7 +5048,7 @@
         "comm_ids": ["NPWR00458"]
     },
     "Overlord II": {
-        "title_ids": ["BLUS30317"],
+        "title_ids": ["BLUS30317", "BLES00580"],
         "comm_ids": ["NPWR00551"]
     },
     "PAC-MAN and the Ghostly Adventures": {
@@ -5208,7 +5212,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00011", "NPUR00012", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00046", "NPER00063", "NPER00072", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300"],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00011", "NPUR00012", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00046", "NPER00063", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -5516,7 +5520,7 @@
         "comm_ids": ["NPWR00741"]
     },
     "RA.ONE The Game": {
-        "title_ids": ["NPEA00336", "BLES01497"],
+        "title_ids": ["NPEA00336", "BCES01497"],
         "comm_ids": ["NPWR02734"]
     },
     "RA3 Commander's Challenge": {
@@ -5764,7 +5768,7 @@
         "comm_ids": ["NPWR02695"]
     },
     "Resistance 2": {
-        "title_ids": ["BCUS98120"],
+        "title_ids": ["BCUS98120", "BCES00226"],
         "comm_ids": ["NPWR00291"]
     },
     "Resistance 2 Beta": {
@@ -7985,7 +7989,7 @@
     },
     "Unknown Game": {
         "title_ids": ["NPJR50030"],
-        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637"]
+        "comm_ids": ["NPWR00004", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
