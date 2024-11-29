@@ -25,8 +25,29 @@ function normalize_id($id) {
 }
 
 function log_missing_id($id, $log_file) {
-    $message = "ID not found in JSON: $id\n";
-    file_put_contents($log_file, $message, FILE_APPEND);
+    $log_entries = file_exists($log_file) ? file($log_file, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES) : [];
+    $updated_entries = [];
+    $found = false;
+
+    foreach ($log_entries as $entry) {
+        // Check if the current entry matches the missing ID
+        if (strpos($entry, $id) === 0) {
+            // Increment the count (or add it if not already present)
+            if (preg_match('/x(\d+)$/', $entry, $matches)) {
+                $count = (int)$matches[1] + 1;
+                $updated_entries[] = "$id x$count";
+            } else {
+                $updated_entries[] = "$id x2";
+            }
+            $found = true;
+        } else {
+            $updated_entries[] = $entry;
+        }
+    }
+    if (!$found) {
+        $updated_entries[] = $id;
+    }
+    file_put_contents($log_file, implode(PHP_EOL, $updated_entries) . PHP_EOL);
 }
 
 // Merge Player Counts from API Data
