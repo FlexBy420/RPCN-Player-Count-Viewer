@@ -4723,9 +4723,17 @@
         "title_ids": ["BCUS98165"],
         "comm_ids": ["NPWR00471"]
     },
-    "NBA 2K10": {
-        "title_ids": ["BLJS10064", "BLUS30402"],
-        "comm_ids": ["NPWR00982", "NPWR00582"]
+    "NBA 2K7": {
+        "title_ids": ["BLUS30004"],
+        "comm_ids": [""]
+    },
+    "NBA 2K10 (JP)": {
+        "title_ids": ["BLJS10064"],
+        "comm_ids": ["NPWR00982"]
+    },
+    "NBA 2K10 (US)": {
+        "title_ids": ["BLUS30402"],
+        "comm_ids": ["NPWR00582"]
     },
     "NBA 2K10: Draft Combine": {
         "title_ids": ["NPUB30129"],
