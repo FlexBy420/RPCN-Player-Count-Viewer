@@ -336,7 +336,7 @@
         "comm_ids": ["NPWR01250"]
     },
     "Ape Escape": {
-        "title_ids": ["BCES01186"],
+        "title_ids": ["BCES01186", "BCAS20159"],
         "comm_ids": ["NPWR00927"]
     },
     "Apples to Apples": {
@@ -344,7 +344,7 @@
         "comm_ids": ["NPWR01832"]
     },
     "AQUANAUT'S HOLIDAY 　～隠された記録～": {
-        "title_ids": ["BCJS30023"],
+        "title_ids": ["BCJS30023", "BCAS20064"],
         "comm_ids": ["NPWR00399"]
     },
     "AquaPanic!": {
@@ -740,7 +740,7 @@
         "comm_ids": ["NPWR01763"]
     },
     "Beat Sketcher": {
-        "title_ids": ["NPEA00282"],
+        "title_ids": ["NPEA00282", "BCAS20144"],
         "comm_ids": ["NPWR01301"]
     },
     "Beer Pong": {
@@ -800,7 +800,7 @@
         "comm_ids": ["NPWR02779"]
     },
     "Beyond: Two Souls": {
-        "title_ids": ["BCUS98298"],
+        "title_ids": ["BCUS98298", "BCAS25017"],
         "comm_ids": ["NPWR03797"]
     },
     "Big Sky Infinity": {
@@ -1231,8 +1231,8 @@
         "title_ids": ["NPHB00092"],
         "comm_ids": ["NPWR00534"]
     },
-    "Catherine (JP)": {
-        "title_ids": ["BLJM60215"],
+    "Catherine (JP & KOR)": {
+        "title_ids": ["BLJM60215", "BCKS10161"],
         "comm_ids": ["NPWR00906"]
     },
     "Catherine (US)": {
@@ -1703,9 +1703,21 @@
         "title_ids": ["NPEB01175"],
         "comm_ids": ["NPWR03732"]
     },
+    "Demon's Souls (ASIA)": {
+        "title_ids": ["BCAS20071"],
+        "comm_ids": ["NPWR00245"]
+    },
+    "Demon's Souls (US)": {
+        "title_ids": ["BLUS30443"],
+        "comm_ids": ["NPWR00881"]
+    },
+    "Demon's Souls Trade Demo": {
+        "title_ids": ["BLUD80018"],
+        "comm_ids": ["NPWR00919"]
+    },
     "Demon's Souls": {
-        "title_ids": ["BCAS20071", "BLES00932", "BLUS30443", "BLUD80018"],
-        "comm_ids": ["NPWR00245", "NPWR01249", "NPWR00881", "NPWR00919"]
+        "title_ids": ["BLES00932"],
+        "comm_ids": ["NPWR01249"]
     },
     "Dengeki Bunko: Fighting Climax (ASIA)": {
         "title_ids": ["BLAS50781"],
@@ -2036,7 +2048,7 @@
         "comm_ids": ["NPWR08208"]
     },
     "Dragon's Crown": {
-        "title_ids": ["BLJM61041"],
+        "title_ids": ["BLJM61041", "BCAS20298"],
         "comm_ids": ["NPWR03852"]
     },
     "Dragon's Dogma": {
@@ -2220,7 +2232,7 @@
         "comm_ids": ["NPWR00181"]
     },
     "echochrome ii": {
-        "title_ids": ["NPUA80473"],
+        "title_ids": ["NPUA80473", "BCAS20133"],
         "comm_ids": ["NPWR01262"]
     },
     "Eiyuu Senki: The World Conquest (EU)": {
@@ -2320,7 +2332,7 @@
         "comm_ids": ["NPWR00611"]
     },
     "EyePet & Friends": {
-        "title_ids": ["BCES00865"],
+        "title_ids": ["BCES00865", "BCAS20212"],
         "comm_ids": ["NPWR02125"]
     },
     "F.E.A.R. 2: Project Origin (JP)": {
@@ -2564,11 +2576,11 @@
         "comm_ids": ["NPWR05019"]
     },
     "FINAL FANTASY XIII": {
-        "title_ids": ["MRTC00003"],
+        "title_ids": ["MRTC00003", "BCAS25005"],
         "comm_ids": ["NPWR00774"]
     },
     "FINAL FANTASY XIII-2": {
-        "title_ids": ["BLES01269"],
+        "title_ids": ["BLES01269", "BCAS20224", "BLUS30776"],
         "comm_ids": ["NPWR02391"]
     },
     "FINAL FANTASY XIV: A Realm Reborn": {
@@ -2684,7 +2696,7 @@
         "comm_ids": ["BLES00015"]
     },
     "G-Force": {
-        "title_ids": ["BLES00574"],
+        "title_ids": ["BLES00574", "BLUS30354"],
         "comm_ids": ["NPWR00701"]
     },
     "G.I. Joe: The Rise of Cobra (EU)": {
@@ -2784,11 +2796,11 @@
         "comm_ids": ["NPWR00951"]
     },
     "God of War III": {
-        "title_ids": ["BCUS98111", "BCKS15003"],
+        "title_ids": ["BCUS98111", "BCKS15003", "BCAS25003"],
         "comm_ids": ["NPWR00801"]
     },
     "God of War: Ascension": {
-        "title_ids": ["BCES01741", "BCUS98232"],
+        "title_ids": ["BCES01741", "BCUS98232", "BCAS25016"],
         "comm_ids": ["NPWR00802"]
     },
     "God of War: Chains of Olympus": {
@@ -3035,20 +3047,20 @@
         "title_ids": ["BLUS31431"],
         "comm_ids": ["NPWR05394"]
     },
-    "HEAVY FIRE AFGHANISTAN": {
+    "Heavy Fire: Afghanistan (JP)": {
         "title_ids": ["BLJM60504"],
         "comm_ids": ["NPWR03594"]
     },
-    "HEAVY FIRE SHATTERED SPEAR": {
-        "title_ids": ["BLUS31000"],
+    "Heavy Fire Shattered Spear": {
+        "title_ids": ["BLUS31000", "BLJM60570"],
         "comm_ids": ["NPWR03830"]
     },
-    "Heavy Fire: Afghanistan": {
+    "Heavy Fire: Afghanistan (EU)": {
         "title_ids": ["BLES01602"],
         "comm_ids": ["NPWR02575"]
     },
-    "HEAVY RAIN": {
-        "title_ids": ["BCUS98164"],
+    "Heavy Rain": {
+        "title_ids": ["BCUS98164", "BCAS20107"],
         "comm_ids": ["NPWR00324"]
     },
     "Heavy Weapon (EU)": {
@@ -3063,7 +3075,7 @@
         "title_ids": ["NPUB30750"],
         "comm_ids": ["NPWR02857"]
     },
-    "HELLDIVERS": {
+    "Helldivers": {
         "title_ids": ["NPUA80930"],
         "comm_ids": ["NPWR06183"]
     },
@@ -3260,7 +3272,7 @@
         "comm_ids": ["NPWR07794"]
     },
     "inFamous": {
-        "title_ids": ["BCES00609"],
+        "title_ids": ["BCES00609", "BCAS20074"],
         "comm_ids": ["NPWR00660"]
     },
     "inFamous 2": {
@@ -3376,7 +3388,7 @@
         "comm_ids": ["NPWR00661"]
     },
     "James Cameron's AVATAR: THE GAME": {
-        "title_ids": ["BLES00667"],
+        "title_ids": ["BLES00667", "BLJM60186"],
         "comm_ids": ["NPWR00946"]
     },
     "Jane's Advanced Strike Fighters": {
@@ -3540,7 +3552,7 @@
         "comm_ids": ["NPWR13195"]
     },
     "Just Dance 3 ": {
-        "title_ids": ["BLES01522"],
+        "title_ids": ["BLES01522", "BLUS30914"],
         "comm_ids": ["NPWR02803"]
     },
     "Just Dance 4": {
@@ -3596,7 +3608,7 @@
         "comm_ids": ["NPWR01794"]
     },
     "KILLER IS DEAD": {
-        "title_ids": ["BLJS10215", "NPEB01370"],
+        "title_ids": ["BLJS10215", "NPEB01370", "BCAS20292"],
         "comm_ids": ["NPWR04374"]
     },
     "Killzone": {
@@ -3608,7 +3620,7 @@
         "comm_ids": ["NPWR00153"]
     },
     "Killzone 3": {
-        "title_ids": ["BCES01007"],
+        "title_ids": ["BCES01007", "BCAS25008"],
         "comm_ids": ["NPWR01569"]
     },
     "Killzone 3 Multiplayer": {
@@ -3688,7 +3700,7 @@
         "comm_ids": ["NPWR05172"]
     },
     "Kung Fu Rider": {
-        "title_ids": ["BCES01029"],
+        "title_ids": ["BCES01029", "BCAS20132"],
         "comm_ids": ["NPWR00459"]
     },
     "Kung-Fu Live": {
@@ -3860,7 +3872,7 @@
         "comm_ids": ["NPWR07927"]
     },
     "LIGHTNING RETURNS: FINAL FANTASY XIII": {
-        "title_ids": ["BLJM60558"],
+        "title_ids": ["BLJM60558", "BCAS20279"],
         "comm_ids": ["NPWR04148"]
     },
     "Lights, Camera, Party!": {
@@ -4040,7 +4052,7 @@
         "comm_ids": ["NPWR00772"]
     },
     "MAG": {
-        "title_ids": ["BCES00818", "NPUA70052"],
+        "title_ids": ["BCES00818", "NPUA70052", "BCAS20081"],
         "comm_ids": ["NPWR00380"]
     },
     "Magic 2012": {
@@ -4224,7 +4236,7 @@
         "comm_ids": ["NPWR02777"]
     },
     "Medieval Moves (US)": {
-        "title_ids": ["BCUS98279"],
+        "title_ids": ["BCUS98279", "BCAS20204"],
         "comm_ids": ["NPWR02260"]
     },
     "MEGA MAN 10": {
@@ -4348,7 +4360,7 @@
         "comm_ids": ["NPWR00621"]
     },
     "Mirror's Edge": {
-        "title_ids": ["BLES00322"],
+        "title_ids": ["BLES00322", "BLKS20094"],
         "comm_ids": ["NPWR00499"]
     },
     "Misato Katsuragi's Reporting Plan": {
@@ -4424,7 +4436,7 @@
         "comm_ids": ["NPWR01355"]
     },
     "ModNation Racers": {
-        "title_ids": ["BCES00764", "BCUS98167", "BCES00701"],
+        "title_ids": ["BCES00764", "BCUS98167", "BCES00701", "BCAS20105"],
         "comm_ids": ["NPWR00300"]
     },
     "Moe Moe Daisensou Gendaiban Plus Plus": {
@@ -5212,7 +5224,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00011", "NPUR00012", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00046", "NPER00063", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300"],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00011", "NPUR00012", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00046", "NPER00063", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -5276,11 +5288,11 @@
         "comm_ids": ["NPWR01241"]
     },
     "Prince of Persia": {
-        "title_ids": ["BLUS30214"],
+        "title_ids": ["BLUS30214", "BLKS20100"],
         "comm_ids": ["NPWR00374"]
     },
     "Prince of Persia The Forgotten Sands": {
-        "title_ids": ["BLES00840", "BLUS30401"],
+        "title_ids": ["BLES00840", "BLUS30401", "BLKS20193"],
         "comm_ids": ["NPWR01112"]
     },
     "Prince of Persia: The Sands of Time": {
@@ -5416,7 +5428,7 @@
         "comm_ids": ["NPWR00306"]
     },
     "Puppeteer": {
-        "title_ids": ["BCUS98227", "BCES01289", "BCJS30078"],
+        "title_ids": ["BCUS98227", "BCES01289", "BCJS30078", "BCAS20281"],
         "comm_ids": ["NPWR01785"]
     },
     "Pure": {
@@ -5600,7 +5612,7 @@
         "comm_ids": ["NPWR02347"]
     },
     "Ratchet & Clank: A Crack in Time": {
-        "title_ids": ["BCES00511", "BCUS98124"],
+        "title_ids": ["BCES00511", "BCUS98124", "BCAS20098"],
         "comm_ids": ["NPWR00941"]
     },
     "Ratchet & Clank: All 4 One": {
@@ -5736,7 +5748,7 @@
         "comm_ids": ["NPWR01652"]
     },
     "Resident Evil 5": {
-        "title_ids": ["BLUS30270"],
+        "title_ids": ["BLUS30270", "BLJM60199"],
         "comm_ids": ["NPWR00404"]
     },
     "Resident Evil 6": {
@@ -5768,7 +5780,7 @@
         "comm_ids": ["NPWR02695"]
     },
     "Resistance 2": {
-        "title_ids": ["BCUS98120", "BCES00226"],
+        "title_ids": ["BCUS98120", "BCES00226", "BCAS20055"],
         "comm_ids": ["NPWR00291"]
     },
     "Resistance 2 Beta": {
@@ -5776,7 +5788,7 @@
         "comm_ids": ["NPWR00463"]
     },
     "Resistance 3": {
-        "title_ids": ["BCUS98176"],
+        "title_ids": ["BCUS98176", "BCAS25012"],
         "comm_ids": ["NPWR01841"]
     },
     "Resistance 3 Beta": {
@@ -6432,7 +6444,7 @@
         "comm_ids": ["NPWR05516"]
     },
     "SingStar Vol.3": {
-        "title_ids": ["BCES00265", "BCES00293", "BCES00345", "BCES00518", "BCES00519", "BCES00621", "BCES00622", "BCES00625", "BCES00846", "BCES00852", "BCES00981", "BCES01023", "BCES01083", "BCES01255", "BCES01441", "BCES01735"],
+        "title_ids": ["BCES00265", "BCES00293", "BCES00345", "BCES00518", "BCES00519", "BCES00621", "BCES00622", "BCES00625", "BCES00846", "BCES00852", "BCES00981", "BCES01023", "BCES01083", "BCES01255", "BCES01441", "BCES01735", "BCES00979", "BCES00341", "BCES00640"],
         "comm_ids": ["NPWR00036"]
     },
     "Singularity": {
@@ -6648,7 +6660,7 @@
         "comm_ids": ["NPWR00584"]
     },
     "Sorcery": {
-        "title_ids": ["BCES00819"],
+        "title_ids": ["BCES00819", "BCAS20235"],
         "comm_ids": ["NPWR03025"]
     },
     "SoulCalibur II HD Online (EU & US)": {
@@ -7376,7 +7388,7 @@
         "comm_ids": ["NPWR00723"]
     },
     "The Last of Us": {
-        "title_ids": ["BCES01585", "NPUA81175"],
+        "title_ids": ["BCES01585", "NPUA81175", "BCAS20270"],
         "comm_ids": ["NPWR03073"]
     },
     "THE LEGEND OF HEROES: TRAILS OF COLD STEEL": {
@@ -7440,7 +7452,7 @@
         "comm_ids": ["NPWR01189"]
     },
     "The Shoot": {
-        "title_ids": ["BCES00463"],
+        "title_ids": ["BCES00463", "BCAS20134"],
         "comm_ids": ["NPWR00615"]
     },
     "The Simpsons Arcade Game": {
@@ -7692,7 +7704,7 @@
         "comm_ids": ["NPWR00319"]
     },
     "Tomb Raider": {
-        "title_ids": ["BLES01780"],
+        "title_ids": ["BLES01780", "BCAS20272"],
         "comm_ids": ["NPWR02569"]
     },
     "Tomb Raider: Anniversary": {
@@ -7784,7 +7796,7 @@
         "comm_ids": ["NPWR09649"]
     },
     "Toy Story 3": {
-        "title_ids": ["NPUB30555"],
+        "title_ids": ["NPUB30555", "BLUS30556"],
         "comm_ids": ["NPWR00746"]
     },
     "Toybox Turbos": {
@@ -7988,8 +8000,8 @@
         "comm_ids": ["NPWR03702"]
     },
     "Unknown Game": {
-        "title_ids": ["NPJR50030"],
-        "comm_ids": ["NPWR00004", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637"]
+        "title_ids": [""],
+        "comm_ids": ["NPWR00004", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8176,7 +8188,7 @@
         "comm_ids": ["NPWR00884"]
     },
     "Way of the Samurai 4": {
-        "title_ids": ["BLES01682"],
+        "title_ids": ["BLES01682", "BLJS10107"],
         "comm_ids": ["NPWR01391"]
     },
     "We Dare": {
