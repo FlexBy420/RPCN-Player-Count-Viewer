@@ -5805,7 +5805,7 @@
     },
     "Ridge Racer 7": {
         "title_ids": ["BCES00009"],
-        "comm_ids": [""]
+        "comm_ids": ["NPWR00001"]
     },
     "Ridge Racer Driftopia": {
         "title_ids": ["BLET70048"],
@@ -7965,7 +7965,7 @@
     },
     "Unknown Game": {
         "title_ids": ["NPJR50030"],
-        "comm_ids": ["NPWR00001", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695"]
+        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
