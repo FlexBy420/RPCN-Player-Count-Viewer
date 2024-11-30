@@ -2,13 +2,37 @@
 // Load the Game Titles and IDs from the provided JSON structure
 $games_json = __DIR__ . '/games.json';  // Reference the current directory
 $log_file = __DIR__ . '/log.txt'; // Log file for missing IDs
+$api_url = ""; // RPCN API URL
+
+function log_error($message, $log_file) {
+    $timestamp = date('Y-m-d H:i:s');
+    file_put_contents($log_file, "[$timestamp] ERROR: $message" . PHP_EOL, FILE_APPEND);
+}
+
+// Load the JSON file
+if (!file_exists($games_json)) {
+    log_error("JSON file not found: $games_json", $log_file);
+    die("Error: JSON file is missing. Check log for details.");
+}
+
 $game_mappings = json_decode(file_get_contents($games_json), true);
-//file_put_contents($log_file, ""); // Clear the log file at the start
+if (json_last_error() !== JSON_ERROR_NONE) {
+    log_error("Failed to decode JSON file: " . json_last_error_msg(), $log_file);
+    die("Error: Failed to parse JSON file. Check log for details.");
+}
 
 // Fetch JSON Data from RPCN Stats API
-$api_url = "";
-$api_data = file_get_contents($api_url);
+$api_data = @file_get_contents($api_url);
+if ($api_data === false) {
+    log_error("Failed to fetch API data from $api_url", $log_file);
+    die("Error: Unable to connect to API. Check log for details.");
+}
+
 $data = json_decode($api_data, true);
+if (json_last_error() !== JSON_ERROR_NONE) {
+    log_error("Failed to decode API response: " . json_last_error_msg(), $log_file);
+    die("Error: Failed to parse API response. Check log for details.");
+}
 
 // Get the total number of users from the API
 $total_users = isset($data['num_users']) ? $data['num_users'] : 0;
@@ -25,27 +49,31 @@ function normalize_id($id) {
 }
 
 function log_missing_id($id, $log_file) {
+    $timestamp = date('Y-m-d H:i:s');
     $log_entries = file_exists($log_file) ? file($log_file, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES) : [];
     $updated_entries = [];
     $found = false;
 
     foreach ($log_entries as $entry) {
         // Check if the current entry matches the missing ID
-        if (strpos($entry, $id) === 0) {
-            // Increment the count (or add it if not already present)
+        if (strpos($entry, $id) !== false) {
+            $found = true;
+
             if (preg_match('/x(\d+)$/', $entry, $matches)) {
                 $count = (int)$matches[1] + 1;
-                $updated_entries[] = "$id x$count";
             } else {
-                $updated_entries[] = "$id x2";
+                $count = 2; // If there's no count, start from 2
             }
-            $found = true;
+
+            // Update the entry with the new timestamp and count
+            $updated_entries[] = "[$timestamp] UNKNOWN ID: $id x$count";
         } else {
             $updated_entries[] = $entry;
         }
     }
     if (!$found) {
-        $updated_entries[] = $id;
+        // Add a new entry if the ID was not found
+        $updated_entries[] = "[$timestamp] UNKNOWN ID: $id";
     }
     file_put_contents($log_file, implode(PHP_EOL, $updated_entries) . PHP_EOL);
 }
@@ -54,7 +82,7 @@ function log_missing_id($id, $log_file) {
 foreach ($game_mappings as $game_title => $ids) {
     $title_player_counts[$game_title] = 0;
     $comm_id_player_count = 0;  // Store player count from comm_ids if found
-    
+
     // Check for comm_ids (prioritize comm_ids over title_ids)
     foreach ($ids['comm_ids'] as $comm_id) {
         if (!empty($comm_id)) {  // Handle cases where comm_id might be empty
