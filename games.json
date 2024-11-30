@@ -2567,6 +2567,10 @@
         "title_ids": ["NPUB31572"],
         "comm_ids": ["NPWR07118"]
     },
+    "FIFA 08": {
+        "title_ids": ["BLUS30038"],
+        "comm_ids": [""]
+    },
     "FIFA 09": {
         "title_ids": ["BLES00314", "BLUS30176"],
         "comm_ids": ["NPWR00357"]
@@ -2618,6 +2622,10 @@
     "FIFA Street": {
         "title_ids": ["BLES01493", "BLUS30882", "BLJM60457"],
         "comm_ids": ["NPWR02719"]
+    },
+    "FIFA Street 3": {
+        "title_ids": ["BLES00188", "BLUS30099", "BLJM60079"],
+        "comm_ids": [""]
     },
     "Fight Night Champion": {
         "title_ids": ["BLES01039", "BLUS30608"],
@@ -2876,11 +2884,11 @@
         "comm_ids": ["NPWR00951"]
     },
     "God of War III": {
-        "title_ids": ["BCUS98111", "BCKS15003", "BCAS25003"],
+        "title_ids": ["BCUS98111", "BCKS15003", "BCAS25003", "BCES00510", "BCES00799", "BCJS37001"],
         "comm_ids": ["NPWR00801"]
     },
     "God of War: Ascension": {
-        "title_ids": ["BCES01741", "BCUS98232", "BCAS25016"],
+        "title_ids": ["BCES01741", "BCUS98232", "BCAS25016", "BCJS37008", "BCES01742"],
         "comm_ids": ["NPWR00802"]
     },
     "God of War: Chains of Olympus": {
@@ -2963,12 +2971,16 @@
         "title_ids": ["NPUB30334"],
         "comm_ids": ["NPWR01342"]
     },
+    "GRID": {
+        "title_ids": ["BLES00256", "BLUS30142", "BLJM60119"],
+        "comm_ids": [""]
+    },
     "GRID 2": {
-        "title_ids": ["NPUB31075", "BLES01737", "BLJM60559"],
+        "title_ids": ["NPUB31075", "BLES01737", "BLJM60559", "BLES01855", "BLUS31055"],
         "comm_ids": ["NPWR03961"]
     },
     "GRID Autosport": {
-        "title_ids": ["BLUS31452", "BLES02038"],
+        "title_ids": ["BLUS31452", "BLES02038", "BLJM61207"],
         "comm_ids": ["NPWR06542"]
     },
     "Groovin' Blocks": {
@@ -2996,11 +3008,11 @@
         "comm_ids": ["NPWR03368"]
     },
     "Guilty Gear Xrd -Revelator-": {
-        "title_ids": ["BLJS10329"],
+        "title_ids": ["BLJS10329", "BLES02232", "BLUS31588"],
         "comm_ids": ["NPWR10126"]
     },
-    "GUILTY GEAR Xrd -SIGN-": {
-        "title_ids": ["BLJS10289"],
+    "Guilty Gear Xrd -SIGN-": {
+        "title_ids": ["BLJS10289", "BLUS31467"],
         "comm_ids": ["NPWR07017"]
     },
     "GUILTY GEAR XX ΛCORE PLUS": {
@@ -4004,7 +4016,7 @@
         "comm_ids": ["NPWR00160"]
     },
     "LittleBigPlanet 2": {
-        "title_ids": ["BCUS98245", "BCES00850", "BCES01086", "BCJS30058", "BCAS20113", "BCKS10150", "NPEA00324", "NPUA80662", "NPEA00437", "BCES01693", "BCES01694", "BCUS98372", "BCUS98249", "BCAS20201", "BCET70035", "BCET70023", "NPUA07128", "NPUA70127", "NPEA90077", "NPEA90098", "NPUA70174", "NPHA80163"],
+        "title_ids": ["BCUS98245", "BCES00850", "BCES01086", "BCJS30058", "BCAS20113", "BCKS10150", "NPEA00324", "NPUA80662", "NPEA00437", "BCES01693", "BCES01694", "BCUS98372", "BCUS98249", "BCAS20201", "BCET70023", "NPUA07128", "NPUA70127", "NPEA90077", "NPEA90098", "NPUA70174", "NPHA80163"],
         "comm_ids": ["NPWR01210"]
     },
     "LittleBigPlanet 2 Beta": {
@@ -4021,7 +4033,7 @@
     },
     "LittleBigPlanet HUB": {
         "title_ids": ["NPEA00449", "BCET70055"],
-        "comm_ids": ["NPWR02010"]
+        "comm_ids": [""]
     },
     "LittleBigPlanet Karting": {
         "title_ids": ["BCUS98254", "BCES01422", "NPUA80848", "NPEA00421", "BCES01423", "BCJS30085", "BCUS99141", "BCAS20205"],
@@ -4376,7 +4388,7 @@
         "comm_ids": ["NPWR01731"]
     },
     "Metal Gear Rising: Revengeance": {
-        "title_ids": ["BLES01750", "NPEB01228", "NPJB00281"],
+        "title_ids": ["BLES01750", "NPEB01228", "NPJB00281", "BLJM60554", "BLUS31045"],
         "comm_ids": ["NPWR04001"]
     },
     "Metal Gear Solid 2: Sons of Liberty HD Edition": {
@@ -4904,7 +4916,7 @@
         "comm_ids": ["NPWR08893"]
     },
     "NBA 2K17": {
-        "title_ids": ["BLES02242"],
+        "title_ids": ["BLES02242", "BLUS31602"],
         "comm_ids": ["NPWR11444"]
     },
     "NBA 2K18": {
@@ -5356,7 +5368,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00046", "NPER00063", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00040", "NPER00046", "NPER00052", "NPER00063", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10014", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -5764,7 +5776,7 @@
         "comm_ids": ["NPWR02348"]
     },
     "Rayman 3 HD": {
-        "title_ids": ["NPEB00879"],
+        "title_ids": ["NPEB00879", "NPUB30714"],
         "comm_ids": ["NPWR02744"]
     },
     "Rayman Legends": {
@@ -5868,7 +5880,7 @@
         "comm_ids": ["NPWR07057"]
     },
     "Resident Evil 0": {
-        "title_ids": ["NPEB02226"],
+        "title_ids": ["NPEB02226", "BLJM61272"],
         "comm_ids": ["NPWR08805"]
     },
     "Resident Evil 4": {
@@ -5876,11 +5888,11 @@
         "comm_ids": ["NPWR01652"]
     },
     "Resident Evil 5": {
-        "title_ids": ["BLUS30270", "BLJM60199"],
+        "title_ids": ["BLUS30270", "BLJM60199", "BLES00485", "BLES00816", "BLUS30491", "BLJM90001"],
         "comm_ids": ["NPWR00404"]
     },
     "Resident Evil 6": {
-        "title_ids": ["BLES01465", "BLJM60405"],
+        "title_ids": ["BLES01465", "BLJM60405", "BLES01683", "BLUS30855"],
         "comm_ids": ["NPWR01577"]
     },
     "Resident Evil Code: Veronica X": {
@@ -5888,15 +5900,15 @@
         "comm_ids": ["NPWR01871"]
     },
     "Resident Evil Revelations": {
-        "title_ids": ["BLES01773"],
+        "title_ids": ["BLES01773", "BLUS31051", "BLJM60518"],
         "comm_ids": ["NPWR03903"]
     },
     "Resident Evil Revelations 2": {
-        "title_ids": ["NPUB31518", "BLJM61199"],
+        "title_ids": ["NPUB31518", "BLJM61199", "NPJB00621", "BLES02040", "BLUS31444"],
         "comm_ids": ["NPWR06575"]
     },
     "Resident Evil: Operation Raccoon City": {
-        "title_ids": ["BLES01288"],
+        "title_ids": ["BLES01288", "BLUS30750", "BLES01417", "BLJM60342"],
         "comm_ids": ["NPWR02163"]
     },
     "Resident Evil: The Darkside Chronicles": {
@@ -6215,24 +6227,28 @@
         "title_ids": ["BLUS31559"],
         "comm_ids": ["NPWR09221"]
     },
-    "Saints Row IV (EU)": {
-        "title_ids": ["NPEB01842"],
+    "Saints Row 2": {
+        "title_ids": ["BLES00373", "NPEB00637"],
+        "comm_ids": ["NPWR00475"]
+    },
+    "Saints Row IV (AU)": {
+        "title_ids": ["NPEB01842", "BLES01954"],
         "comm_ids": ["NPWR05139"]
     },
-    "Saints Row IV (US)": {
-        "title_ids": ["BLUS31205"],
+    "Saints Row IV": {
+        "title_ids": ["BLUS31205", "BLES01889", "BLJS10246", "NPUB31257", "NPEB01404", "BLES02019", "BLUS31416"],
         "comm_ids": ["NPWR04738"]
     },
     "Saints Row: Gat out of Hell": {
-        "title_ids": ["BLES02095"],
+        "title_ids": ["BLES02095", "BLUS31496"],
         "comm_ids": ["NPWR07359"]
     },
     "Saints Row: The Third": {
-        "title_ids": ["BLES01342", "BLUS30666"],
+        "title_ids": ["BLES01342", "BLUS30666", "BLKS20333", "BLES01747", "BLUS31062"],
         "comm_ids": ["NPWR01692"]
     },
-    "Saints Row: The Third (BLES01748)": {
-        "title_ids": ["BLES01748"],
+    "Saints Row: The Third (DE)": {
+        "title_ids": ["BLES01748", "BLES01343"],
         "comm_ids": ["NPWR02545"]
     },
     "Saka Tsuku: Pro Soccer Club o Tsukurou!": {
@@ -6442,10 +6458,6 @@
     "Serious Sam 3: BFE": {
         "title_ids": ["NPUB31165"],
         "comm_ids": ["NPWR04461"]
-    },
-    "SF3: Online Edition": {
-        "title_ids": ["NPEB00554"],
-        "comm_ids": ["NPWR01456"]
     },
     "Shadow of the Colossus": {
         "title_ids": ["BCES01097"],
@@ -7093,10 +7105,10 @@
     },
     "Street Fighter III: Third Strike Online Edition": {
         "title_ids": ["NPUB30301", "NPEB00554"],
-        "comm_ids": [""]
+        "comm_ids": ["NPWR01456"]
     },
     "Street Fighter IV": {
-        "title_ids": ["BLUS30265", "BLJM60130"],
+        "title_ids": ["BLUS30265", "BLJM60130", "BLES00481"],
         "comm_ids": ["NPWR00434"]
     },
     "Street Fighter x Tekken": {
@@ -7156,7 +7168,7 @@
         "comm_ids": ["NPWR00146"]
     },
     "Super Street Fighter IV": {
-        "title_ids": ["BLUS30453"],
+        "title_ids": ["BLUS30453", "BLES00770", "BLJM60203", "BLUS30793", "BLES01900", "BLJM61147", "BLUS31218"],
         "comm_ids": ["NPWR00938"]
     },
     "Supercar Challenge": {
@@ -8237,7 +8249,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250"]
+        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
