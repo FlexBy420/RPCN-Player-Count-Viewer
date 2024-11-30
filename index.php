@@ -45,7 +45,7 @@ function normalize_id($id) {
     if (preg_match('/[A-Z0-9]+-[A-Z0-9]+/', $id, $matches)) {
         return substr($matches[0], strpos($matches[0], '-') + 1);
     }
-    return preg_replace('/_00$/', '', $id);  // Remove _00 suffix
+    return preg_replace('/_\d+$/', '', $id);  // Remove _XX suffix
 }
 
 function log_missing_id($id, $log_file) {

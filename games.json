@@ -2832,7 +2832,7 @@
         "comm_ids": ["NPWR00597"]
     },
     "GoldenEye 007: Reloaded": {
-        "title_ids": ["BLES01292"],
+        "title_ids": ["BLES01292", "BLUS30755"],
         "comm_ids": ["NPWR01868"]
     },
     "Goosebumps: The Game": {
@@ -4464,7 +4464,7 @@
         "comm_ids": ["NPWR07649"]
     },
     "MONOPOLY PLUS": {
-        "title_ids": ["NPUB31582"],
+        "title_ids": ["NPUB31582", "NPEB02090"],
         "comm_ids": ["NPWR07053"]
     },
     "MONOPOLY Streets": {
@@ -4472,8 +4472,12 @@
         "comm_ids": ["NPWR01146"]
     },
     "Monster High - New Ghoul in School": {
-        "title_ids": ["BLES02199", "NPUB31754"],
-        "comm_ids": ["NPWR09895", "NPWR09251"]
+        "title_ids": ["BLES02199"],
+        "comm_ids": ["NPWR09895"]
+    },
+    "Monster High - New Ghoul in School (US)": {
+        "title_ids": ["NPUB31754"],
+        "comm_ids": ["NPWR09251"]
     },
     "Monster Hunter Frontier G": {
         "title_ids": ["NPHB00702"],
@@ -4504,7 +4508,7 @@
         "comm_ids": ["NPWR01747"]
     },
     "Mortal Kombat vs. DC Universe": {
-        "title_ids": ["BLES00441"],
+        "title_ids": ["BLES00441", "BLUS30246"],
         "comm_ids": ["NPWR00497"]
     },
     "MORTAL KOMBAT: Arcade Kollection": {
@@ -5536,7 +5540,7 @@
         "comm_ids": ["NPWR04597"]
     },
     "R.U.S.E.": {
-        "title_ids": ["BLES00786"],
+        "title_ids": ["BLES00786", "BLUS30478"],
         "comm_ids": ["NPWR00741"]
     },
     "RA.ONE The Game": {
@@ -8013,7 +8017,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00004", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977"]
+        "comm_ids": ["NPWR00004", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8524,8 +8528,12 @@
         "comm_ids": ["NPWR11055"]
     },
     "WWE All Stars": {
-        "title_ids": ["BLUS30588", "BLJM60365"],
-        "comm_ids": ["NPWR01520", "NPWR02139"]
+        "title_ids": ["BLUS30588", "BLES00995"],
+        "comm_ids": ["NPWR01520"]
+    },
+    "WWE All Stars (JP)": {
+        "title_ids": ["BLJM60365"],
+        "comm_ids": ["NPWR02139"]
     },
     "WWE Legends Of WrestleMania": {
         "title_ids": ["BLUS30269"],
