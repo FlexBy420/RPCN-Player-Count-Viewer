@@ -3632,7 +3632,7 @@
         "comm_ids": ["NPWR00153"]
     },
     "Killzone 3": {
-        "title_ids": ["BCES01007", "BCAS25008"],
+        "title_ids": ["BCES01007", "BCAS25008", "BCUS98234"],
         "comm_ids": ["NPWR01569"]
     },
     "Killzone 3 Multiplayer": {
@@ -5764,7 +5764,7 @@
         "comm_ids": ["NPWR00404"]
     },
     "Resident Evil 6": {
-        "title_ids": ["BLES01465"],
+        "title_ids": ["BLES01465", "BLJM60405"],
         "comm_ids": ["NPWR01577"]
     },
     "Resident Evil Code: Veronica X": {
@@ -6516,7 +6516,7 @@
         "comm_ids": ["NPWR11032"]
     },
     "Skylanders Spyro's Adventure": {
-        "title_ids": ["BLES01272"],
+        "title_ids": ["BLES01272", "BLUS30779"],
         "comm_ids": ["NPWR01756"]
     },
     "Skylanders SuperChargers": {
@@ -7625,7 +7625,7 @@
     },
     "TimeShift": {
         "title_ids": ["BLES00159", "BLES00160", "BLUS30090"],
-        "comm_ids": [""]
+        "comm_ids": ["NPWR00253"]
     },
     "Tiny Brains": {
         "title_ids": ["NPUB31367"],
@@ -7760,7 +7760,7 @@
         "comm_ids": ["NPWR01369"]
     },
     "Tony Hawk's Proving Ground": {
-        "title_ids": ["BLUS30071"],
+        "title_ids": ["BLUS30071", "BLES00130"],
         "comm_ids": [""]
     },
     "TOP DARTS": {
