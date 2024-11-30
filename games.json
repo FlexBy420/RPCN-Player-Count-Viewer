@@ -480,16 +480,20 @@
         "comm_ids": ["NPWR07220"]
     },
     "Assassin's Creed: Brotherhood": {
-        "title_ids": ["BLES00910"],
+        "title_ids": ["BLES00910", "BLUS30537"],
         "comm_ids": ["NPWR01254"]
     },
     "Assassin's Creed: Brotherhood Beta": {
-        "title_ids": ["NPUB90483"],
-        "comm_ids": [""]
+        "title_ids": ["NPUB90483", "BLET70013"],
+        "comm_ids": ["NPWR01499"]
     },
     "Assassin's Creed: Revelations": {
         "title_ids": ["NPUB30707"],
         "comm_ids": ["NPWR02350"]
+    },
+    "Assassin's Creed: Revelations Beta": {
+        "title_ids": ["NPUB90674", "BLET70017"],
+        "comm_ids": [""]
     },
     "Assault Heroes": {
         "title_ids": ["NPUB30028"],
@@ -8009,7 +8013,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00004", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01499"]
+        "comm_ids": ["NPWR00004", "NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
