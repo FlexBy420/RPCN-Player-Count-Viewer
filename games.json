@@ -647,8 +647,8 @@
         "title_ids": ["NPEB02428"],
         "comm_ids": ["NPWR05988"]
     },
-    "Batman: Arkham Asylum (EU)": {
-        "title_ids": ["BLES00503"],
+    "Batman: Arkham Asylum": {
+        "title_ids": ["BLES00503", "BLUS30279", "BLES00827", "BLUS30515"],
         "comm_ids": ["NPWR00626"]
     },
     "Batman: Arkham Asylum (JP)": {
@@ -656,11 +656,11 @@
         "comm_ids": ["NPWR01012"]
     },
     "Batman: Arkham City": {
-        "title_ids": ["NPUB30754", "BLES00926"],
+        "title_ids": ["NPUB30754", "BLES00926", "BLJM60989", "BLUS30538", "BLES01587", "BLUS30978"],
         "comm_ids": ["NPWR01235"]
     },
     "Batman: Arkham Origins": {
-        "title_ids": ["BLUS31207"],
+        "title_ids": ["BLUS31207", "BLES01784", "BLUS31147"],
         "comm_ids": ["NPWR04151"]
     },
     "Batman: Arkham Origins Blackgate - Deluxe Edition": {
@@ -668,7 +668,7 @@
         "comm_ids": ["NPWR05907"]
     },
     "Batman: The Telltale Series": {
-        "title_ids": ["NPUB31845"],
+        "title_ids": ["NPUB31845", "BLES02245", "BLUS31605"],
         "comm_ids": ["NPWR11244"]
     },
     "BATTLE OF TILES EX": {
@@ -700,7 +700,7 @@
         "comm_ids": ["NPWR00756"]
     },
     "Battlefield 3": {
-        "title_ids": ["BLUS30762"],
+        "title_ids": ["BLUS30762", "BLAS50380", "BLES01275", "BLJM60384"],
         "comm_ids": ["NPWR02011"]
     },
     "Battlefield 3 Beta": {
@@ -708,7 +708,7 @@
         "comm_ids": [""]
     },
     "Battlefield 4": {
-        "title_ids": ["BLUS31162"],
+        "title_ids": ["BLUS31162", "BLAS50588", "BLES01832", "BLJM61039"],
         "comm_ids": ["NPWR04412"]
     },
     "Battlefield: Bad Company": {
@@ -723,12 +723,12 @@
         "title_ids": ["NPUB90316"],
         "comm_ids": ["NPWR01025"]
     },
-    "Battlefield: Bad Company 2 Demo (EU)": {
-        "title_ids": ["NPEB90212"],
+    "Battlefield: Bad Company 2 Demo (ASIA)": {
+        "title_ids": ["NPHB00186"],
         "comm_ids": [""]
     },
-    "Battlefield: Bad Company 2 Demo (HK)": {
-        "title_ids": ["NPHB00186"],
+    "Battlefield: Bad Company 2 Demo (EU)": {
+        "title_ids": ["NPEB90212"],
         "comm_ids": [""]
     },
     "Battlefield: Bad Company 2 Demo (US)": {
@@ -736,7 +736,7 @@
         "comm_ids": ["NPWR01121"]
     },
     "Battlefield: Hardline": {
-        "title_ids": ["BLUS31440"],
+        "title_ids": ["BLUS31440", "BLES02039", "BLJM61203"],
         "comm_ids": ["NPWR06855"]
     },
     "Battleship": {
@@ -2504,7 +2504,7 @@
         "comm_ids": ["NPWR00419"]
     },
     "Far Cry 3": {
-        "title_ids": ["NPEB01096"],
+        "title_ids": ["NPEB01096", "BLES01138"],
         "comm_ids": ["NPWR03468"]
     },
     "Far Cry 3 Blood Dragon": {
@@ -3888,15 +3888,15 @@
         "comm_ids": ["NPWR04003"]
     },
     "LEGO Batman 2: DC Super Heroes": {
-        "title_ids": ["BLES01613"],
+        "title_ids": ["BLES01613", "BLUS30837"],
         "comm_ids": ["NPWR02997"]
     },
     "LEGO Batman 3": {
-        "title_ids": ["BLUS31434"],
+        "title_ids": ["BLUS31434", "BLES02033"],
         "comm_ids": ["NPWR06512"]
     },
-    "LEGO DIMENSIONS": {
-        "title_ids": ["BLUS31473"],
+    "LEGO Dimensions": {
+        "title_ids": ["BLUS31473", "BLES02105"],
         "comm_ids": ["NPWR07424"]
     },
     "LEGO Harry Potter: Years 1-4": {
