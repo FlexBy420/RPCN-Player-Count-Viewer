@@ -308,11 +308,11 @@
         "comm_ids": ["NPWR00665"]
     },
     "Angry Birds Star Wars": {
-        "title_ids": ["BLUS31273"],
+        "title_ids": ["BLUS31273", "BLES01960", "BLES01943"],
         "comm_ids": ["NPWR04893"]
     },
     "Angry Birds Trilogy": {
-        "title_ids": ["BLUS31054"],
+        "title_ids": ["BLUS31054", "BLES01732"],
         "comm_ids": ["NPWR03771"]
     },
     "Anna - Extended Edition": {
@@ -364,7 +364,7 @@
         "comm_ids": ["NPWR01678"]
     },
     "Arcana Heart 3": {
-        "title_ids": ["NPUB30425"],
+        "title_ids": ["NPUB30425", "BLES01295"],
         "comm_ids": ["NPWR01464"]
     },
     "Arcana Heart 3 LOVE MAX!!!!! (EU)": {
@@ -432,7 +432,7 @@
         "comm_ids": [""]
     },
     "Army of TWO The Devil's Cartel": {
-        "title_ids": ["BLES01763"],
+        "title_ids": ["BLES01763", "BLJM60578", "BLUS31069", "BLES01767"],
         "comm_ids": ["NPWR03984"]
     },
     "Army of TWO: The 40th Day": {
@@ -712,7 +712,7 @@
         "comm_ids": ["NPWR04412"]
     },
     "Battlefield: Bad Company": {
-        "title_ids": ["BLES00259"],
+        "title_ids": ["BLES00259", "BLES00261"],
         "comm_ids": ["NPWR00323"]
     },
     "Battlefield: Bad Company 2": {
@@ -879,28 +879,28 @@
         "title_ids": ["NPUA80002"],
         "comm_ids": ["NPWR00054"]
     },
-    "BlazBlue  Continuum Shift": {
-        "title_ids": ["BLUS30576"],
+    "BlazBlue: Continuum Shift": {
+        "title_ids": ["BLUS30576", "BLES01119", "BLJM60238"],
         "comm_ids": ["NPWR01202"]
     },
-    "BLAZBLUE CENTRALFICTION": {
-        "title_ids": ["NPJB00800", "BLES02230"],
+    "BlazBlue: Central Fiction": {
+        "title_ids": ["NPJB00800", "BLES02230", "BLUS31591", "BLJS10332"],
         "comm_ids": ["NPWR10301"]
     },
-    "BLAZBLUE CHRONOPHANTASMA": {
-        "title_ids": ["BLJS10226"],
+    "BlazBlue: Chrono Phantasma": {
+        "title_ids": ["BLJS10226", "BLUS31213"],
         "comm_ids": ["NPWR04033"]
     },
-    "BLAZBLUE CHRONOPHANTASMA EXTEND": {
-        "title_ids": ["BLJS10300"],
+    "BlazBlue: Chrono Phantasma EXTEND": {
+        "title_ids": ["BLJS10300", "BLES02207", "BLUS31513"],
         "comm_ids": ["NPWR07753"]
     },
     "BlazBlue: Calamity Trigger": {
-        "title_ids": ["BLES00820"],
+        "title_ids": ["BLES00820", "BLJM60157", "BLUS30392"],
         "comm_ids": ["NPWR00656"]
     },
     "BlazBlue: Continuum Shift EXTEND": {
-        "title_ids": ["BLUS30869"],
+        "title_ids": ["BLUS30869", "BLJM60394", "BLES01487"],
         "comm_ids": ["NPWR02565"]
     },
     "BlazeRush": {
@@ -1640,7 +1640,7 @@
         "comm_ids": ["NPWR01007"]
     },
     "Dead or Alive 5": {
-        "title_ids": ["BLES01623"],
+        "title_ids": ["BLES01623", "BLJM60513", "BLUS30971"],
         "comm_ids": ["NPWR03718"]
     },
     "Dead or Alive 5 Last Round": {
@@ -1648,7 +1648,7 @@
         "comm_ids": ["NPWR07998"]
     },
     "Dead or Alive 5 Ultimate": {
-        "title_ids": ["BLES01907"],
+        "title_ids": ["BLES01907", "BLJM61085", "BLUS31216"],
         "comm_ids": ["NPWR04575"]
     },
     "Dead Rising 2": {
@@ -1776,7 +1776,7 @@
         "comm_ids": ["NPWR01249"]
     },
     "Demon's Souls (ASIA)": {
-        "title_ids": ["BCAS20071"],
+        "title_ids": ["BCAS20071", "BCJS30022"],
         "comm_ids": ["NPWR00245"]
     },
     "Demon's Souls (US)": {
@@ -2432,7 +2432,7 @@
         "comm_ids": ["NPWR04657"]
     },
     "F1 2014": {
-        "title_ids": ["BLES02080", "BLJM61219", "BLUS31472", "BLES02101"],
+        "title_ids": ["BLES02080", "BLJM61219", "BLUS31472", "BLES02101", "NPEB02094"],
         "comm_ids": ["NPWR07143"]
     },
     "F1 Race Stars": {
@@ -5368,7 +5368,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00040", "NPER00046", "NPER00052", "NPER00063", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10014", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00040", "NPER00046", "NPER00052", "NPER00063", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10014", "NPUR10015", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -5516,7 +5516,7 @@
         "comm_ids": ["NPWR11024"]
     },
     "Pro Evolution Soccer 2017 (US)": {
-        "title_ids": ["BLUS31598"],
+        "title_ids": ["BLUS31598", "NPUB31837"],
         "comm_ids": ["NPWR11023"]
     },
     "PRO EVOLUTION SOCCER 2018 (EU)": {
@@ -6532,7 +6532,7 @@
         "comm_ids": ["NPWR01073"]
     },
     "Shoot Many Robots": {
-        "title_ids": ["NPEB00767"],
+        "title_ids": ["NPEB00767", "NPUB30600"],
         "comm_ids": ["NPWR02166"]
     },
     "Shovel Knight": {
@@ -7392,7 +7392,7 @@
         "comm_ids": ["NPWR01228"]
     },
     "Tetris": {
-        "title_ids": ["NPUB30226"],
+        "title_ids": ["NPUB30226", "NPEB00219"],
         "comm_ids": ["NPWR01307"]
     },
     "Texas Cheat 'em": {
@@ -7484,7 +7484,7 @@
         "comm_ids": ["NPWR01817"]
     },
     "The Elder Scrolls V: Skyrim": {
-        "title_ids": ["BLJM60413"],
+        "title_ids": ["BLJM60413", "BLAS50546", "BLES01329", "BLES01330", "BLUS30778", "BLAS50624", "BLES01885", "BLES01886", "BLJM61086", "BLUS31202"],
         "comm_ids": ["NPWR02631"]
     },
     "The Evil Within (ASIA)": {
@@ -7503,7 +7503,7 @@
         "title_ids": ["NPEB00923"],
         "comm_ids": ["NPWR03477"]
     },
-    "THE EYE OF JUDGMENT": {
+    "The Eye of Judgment": {
         "title_ids": ["BCUS98133"],
         "comm_ids": ["NPWR00002"]
     },
@@ -7583,12 +7583,12 @@
         "title_ids": ["NPUB31767"],
         "comm_ids": ["NPWR09774"]
     },
-    "THE KING OF FIGHTERS XII": {
-        "title_ids": ["BLJS10045"],
+    "The King of Fighters XII": {
+        "title_ids": ["BLJS10045", "BLES00610", "BLUS30353"],
         "comm_ids": ["NPWR00373"]
     },
-    "THE KING OF FIGHTERS XIII": {
-        "title_ids": ["BLUS30845"],
+    "The King of Fighters XIII": {
+        "title_ids": ["BLUS30845", "BLAS50366", "BLES01409", "BLJS10147"],
         "comm_ids": ["NPWR02645"]
     },
     "The Last Bounty Hunter": {
@@ -7604,7 +7604,7 @@
         "comm_ids": ["NPWR00723"]
     },
     "The Last of Us": {
-        "title_ids": ["BCES01585", "NPUA81175", "BCAS20270"],
+        "title_ids": ["BCES01584", "BCES01585", "NPUA81175", "BCAS20270", "BCJS37010", "BCUS98174"],
         "comm_ids": ["NPWR03073"]
     },
     "The Legend of Heroes: Trails of Cold Steel (EU)": {
@@ -7696,7 +7696,7 @@
         "comm_ids": ["NPWR02094"]
     },
     "The Smurfs 2": {
-        "title_ids": ["BLES01797"],
+        "title_ids": ["BLES01797", "BLUS31151"],
         "comm_ids": ["NPWR04529"]
     },
     "The Surfer": {
@@ -7711,11 +7711,11 @@
         "title_ids": ["NPEB02282"],
         "comm_ids": ["NPWR08916"]
     },
-    "The testament of Sherlock Holmes": {
+    "The Testament of Sherlock Holmes (EU)": {
         "title_ids": ["BLES01485"],
         "comm_ids": ["NPWR02714"]
     },
-    "The Testament of Sherlock Holmes": {
+    "The Testament of Sherlock Holmes (US)": {
         "title_ids": ["NPUB30921"],
         "comm_ids": ["NPWR03725"]
     },
@@ -8249,7 +8249,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191"]
+        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
