@@ -419,7 +419,7 @@
         "title_ids": ["BLUS30516"],
         "comm_ids": ["NPWR03050"]
     },
-    "Armored Core: Verdict Day (EU & US)": {
+    "Armored Core: Verdict Day (EU/US)": {
         "title_ids": ["BLES01898"],
         "comm_ids": ["NPWR04749"]
     },
@@ -819,6 +819,10 @@
         "title_ids": ["NPEB01040"],
         "comm_ids": ["NPWR03639"]
     },
+    "Bikkuri Pachinko: Ashita no Joe: Kyoraku Collection Vol. 1": {
+        "title_ids": ["BLJS10102"],
+        "comm_ids": ["NPWR01643"]
+    },
     "BINARY DOMAIN": {
         "title_ids": ["BLES01211"],
         "comm_ids": ["NPWR02497"]
@@ -835,7 +839,7 @@
         "title_ids": ["NPUB30131"],
         "comm_ids": ["NPWR00907"]
     },
-    "BioShock (EU & US)": {
+    "BioShock (EU/US)": {
         "title_ids": ["BLES00316", "BLUS30166"],
         "comm_ids": ["NPWR00352"]
     },
@@ -879,9 +883,9 @@
         "title_ids": ["NPUA80002"],
         "comm_ids": ["NPWR00054"]
     },
-    "BlazBlue: Continuum Shift": {
-        "title_ids": ["BLUS30576", "BLES01119", "BLJM60238"],
-        "comm_ids": ["NPWR01202"]
+    "BlazBlue: Calamity Trigger": {
+        "title_ids": ["BLES00820", "BLJM60157", "BLUS30392"],
+        "comm_ids": ["NPWR00656"]
     },
     "BlazBlue: Central Fiction": {
         "title_ids": ["NPJB00800", "BLES02230", "BLUS31591", "BLJS10332"],
@@ -895,9 +899,9 @@
         "title_ids": ["BLJS10300", "BLES02207", "BLUS31513"],
         "comm_ids": ["NPWR07753"]
     },
-    "BlazBlue: Calamity Trigger": {
-        "title_ids": ["BLES00820", "BLJM60157", "BLUS30392"],
-        "comm_ids": ["NPWR00656"]
+    "BlazBlue: Continuum Shift": {
+        "title_ids": ["BLUS30576", "BLES01119", "BLJM60238"],
+        "comm_ids": ["NPWR01202"]
     },
     "BlazBlue: Continuum Shift EXTEND": {
         "title_ids": ["BLUS30869", "BLJM60394", "BLES01487"],
@@ -991,7 +995,7 @@
         "title_ids": ["BLES00420"],
         "comm_ids": ["NPWR00398"]
     },
-    "Brink (EU & US)": {
+    "Brink (EU/US)": {
         "title_ids": ["BLES00817", "BLES01304", "BLUS30310"],
         "comm_ids": ["NPWR01139"]
     },
@@ -1240,7 +1244,7 @@
         "comm_ids": ["NPWR01823"]
     },
     "Castlevania: Lords of Shadow": {
-        "title_ids": ["BLES01047"],
+        "title_ids": ["BLES01047", "BLJM60284", "BLUS30339"],
         "comm_ids": ["NPWR01452"]
     },
     "Castlevania: Lords of Shadow - Mirror of Fate HD": {
@@ -1248,14 +1252,14 @@
         "comm_ids": ["NPWR04817"]
     },
     "Castlevania: Lords of Shadow 2": {
-        "title_ids": ["BLUS30999"],
+        "title_ids": ["BLUS30999", "BLES01644"],
         "comm_ids": ["NPWR04918"]
     },
     "Catan": {
         "title_ids": ["NPHB00092"],
         "comm_ids": ["NPWR00534"]
     },
-    "Catherine (JP & KOR)": {
+    "Catherine (JP/KOR)": {
         "title_ids": ["BLJM60215", "BCKS10161"],
         "comm_ids": ["NPWR00906"]
     },
@@ -1620,15 +1624,15 @@
         "comm_ids": ["NPWR01706"]
     },
     "Dead Island": {
-        "title_ids": ["BLES01681", "BLUS30790"],
+        "title_ids": ["BLES01681", "BLUS30790", "BLES00749", "BLUS31026", "BLES01958"],
         "comm_ids": ["NPWR00956"]
     },
     "Dead Island (JP)": {
-        "title_ids": ["BLJS10148"],
+        "title_ids": ["BLJS10148", "BLJS10198"],
         "comm_ids": ["NPWR02471"]
     },
-    "Dead Island Riptide (EU)": {
-        "title_ids": ["BLES01739"],
+    "Dead Island Riptide": {
+        "title_ids": ["BLES01739", "BLES01956", "BLUS31052"],
         "comm_ids": ["NPWR03806"]
     },
     "Dead Island Riptide (JP)": {
@@ -2344,7 +2348,7 @@
         "comm_ids": ["NPWR05999"]
     },
     "Escape Dead Island": {
-        "title_ids": ["BLUS31433"],
+        "title_ids": ["BLUS31433", "BLES02026"],
         "comm_ids": ["NPWR06370"]
     },
     "Ethan: Meteor Hunter": {
@@ -2378,6 +2382,14 @@
     "Everybody's Golf 6": {
         "title_ids": ["BCAS20276", "NPHA80248"],
         "comm_ids": ["NPWR04429"]
+    },
+    "Everybody's Golf 6 (JP)": {
+        "title_ids": ["BCJS30089"],
+        "comm_ids": ["NPWR03752"]
+    },
+    "Everybody's Putter Golf with Toro": {
+        "title_ids": ["NPJA00041", "NPHA80057"],
+        "comm_ids": ["NPWR00577"]
     },
     "Everyday Together": {
         "title_ids": ["NPJA00001"],
@@ -2767,9 +2779,13 @@
         "title_ids": ["NPEB00876"],
         "comm_ids": ["NPWR03045"]
     },
-    "Full Auto 2: Battlelines": {
+    "Full Auto 2: Battlelines (EU)": {
         "title_ids": ["BLES00015"],
         "comm_ids": ["BLES00015"]
+    },
+    "Full Auto 2: Battlelines (US)": {
+        "title_ids": ["BLUS30009"],
+        "comm_ids": ["BLUS30009"]
     },
     "Funky Lab Rat": {
         "title_ids": ["NPEB00349"],
@@ -2920,7 +2936,7 @@
         "comm_ids": ["NPWR09453"]
     },
     "Gotham City Impostors": {
-        "title_ids": ["NPUB30252"],
+        "title_ids": ["NPUB30252", "NPEB00239"],
         "comm_ids": ["NPWR01542"]
     },
     "Gran Turismo 5": {
@@ -2944,7 +2960,7 @@
         "comm_ids": ["NPWR03885"]
     },
     "Grand Theft Auto: San Andreas": {
-        "title_ids": ["NPEB02369", "BLJM61327"],
+        "title_ids": ["NPEB02369", "BLJM61327", "BLUS31584"],
         "comm_ids": ["NPWR10029"]
     },
     "Gravity Crash": {
@@ -3066,6 +3082,10 @@
     "Gunstar Heroes": {
         "title_ids": ["NPUB30078"],
         "comm_ids": ["NPWR00593"]
+    },
+    "Hajime no Ippo: The Fighting!": {
+        "title_ids": ["BLJS10295"],
+        "comm_ids": ["NPWR07543"]
     },
     "Hakuoki: Stories of the Shinsengumi": {
         "title_ids": ["BLUS31187"],
@@ -3194,6 +3214,10 @@
     "High Velocity Bowling": {
         "title_ids": ["NPEA00047"],
         "comm_ids": ["NPWR00129"]
+    },
+    "Higurashi no Naku Koro ni Sui": {
+        "title_ids": ["BLJM61255"],
+        "comm_ids": ["NPWR07876"]
     },
     "Hiiro no Kakera Aizouban: Akane Iro no Tsuioku": {
         "title_ids": ["BLJM60328"],
@@ -3583,7 +3607,7 @@
         "title_ids": ["NPEB00956"],
         "comm_ids": ["NPWR03165"]
     },
-    "JoJo's Bizarre Adventure: All-Star Battle (EU & US)": {
+    "JoJo's Bizarre Adventure: All-Star Battle (EU/US)": {
         "title_ids": ["BLES01986", "BLUS31405", "NPEB01922", "NPUB31391"],
         "comm_ids": ["NPWR05840"]
     },
@@ -4255,6 +4279,10 @@
         "title_ids": ["NPUA80797"],
         "comm_ids": ["NPWR01415"]
     },
+    "Mamoru-kun wa Norowarete Shimatta! Meikai Katsugeki Wide-ban": {
+        "title_ids": ["BLJM60323"],
+        "comm_ids": ["NPWR01636"]
+    },
     "Mamorukun Curse!": {
         "title_ids": ["NPUB30934"],
         "comm_ids": ["NPWR04173"]
@@ -4308,7 +4336,7 @@
         "comm_ids": ["NPWR04000"]
     },
     "Mass Effect 2": {
-        "title_ids": ["BLES01133"],
+        "title_ids": ["BLES01133", "BLUS30650"],
         "comm_ids": ["NPWR01580"]
     },
     "Mass Effect 3": {
@@ -4448,7 +4476,7 @@
         "comm_ids": ["NPWR05400"]
     },
     "Midnight Club: Los Angeles": {
-        "title_ids": ["BLES00362", "BLES00652", "BLUS30442", "NPEB00546"],
+        "title_ids": ["BLES00362", "BLES00652", "BLUS30442", "NPEB00546", "BLJM60368", "BLJS10046", "BLUS30190"],
         "comm_ids": ["NPWR00180"]
     },
     "Midway Arcade Origins": {
@@ -4488,7 +4516,7 @@
         "comm_ids": ["NPWR00621"]
     },
     "Mirror's Edge": {
-        "title_ids": ["BLES00322", "BLKS20094"],
+        "title_ids": ["BLES00322", "BLKS20094", "BLUS30179", "BLJM60104"],
         "comm_ids": ["NPWR00499"]
     },
     "Misato Katsuragi's Reporting Plan": {
@@ -4803,20 +4831,24 @@
         "title_ids": ["NPEB01373"],
         "comm_ids": ["NPWR03934"]
     },
+    "Naruto Shippuden: Ultimate Ninja Storm": {
+        "title_ids": ["BLES00371", "BLUS30200", "BLJS10043"],
+        "comm_ids": [""]
+    },
     "Naruto Shippuden: Ultimate Ninja Storm 2": {
-        "title_ids": ["BLES00952"],
+        "title_ids": ["BLES00952", "BLUS30495", "BLJS10084"],
         "comm_ids": ["NPWR00637"]
     },
     "Naruto Shippuden: Ultimate Ninja Storm 3": {
-        "title_ids": ["BLES01764"],
+        "title_ids": ["BLES01764", "BLUS31066", "BLES01951", "BLUS31350", "BLJS10200"],
         "comm_ids": ["NPWR03525"]
     },
     "Naruto Shippuden: Ultimate Ninja Storm Generations": {
-        "title_ids": ["BLJS10156"],
+        "title_ids": ["BLJS10156", "BLES01481", "BLUS30792"],
         "comm_ids": ["NPWR01886"]
     },
     "Naruto Shippuden: Ultimate Ninja Storm Revolution": {
-        "title_ids": ["BLES02014"],
+        "title_ids": ["BLES02014", "BLUS31421", "BLJS10267"],
         "comm_ids": ["NPWR06010"]
     },
     "NASCAR '14": {
@@ -4879,40 +4911,40 @@
         "title_ids": ["BCUS98165"],
         "comm_ids": ["NPWR00471"]
     },
+    "NBA 2K10 (EU/US)": {
+        "title_ids": ["BLUS30402", "BLES00655"],
+        "comm_ids": ["NPWR00582"]
+    },
     "NBA 2K10 (JP)": {
         "title_ids": ["BLJS10064"],
         "comm_ids": ["NPWR00982"]
-    },
-    "NBA 2K10 (US)": {
-        "title_ids": ["BLUS30402"],
-        "comm_ids": ["NPWR00582"]
     },
     "NBA 2K10: Draft Combine": {
         "title_ids": ["NPUB30129"],
         "comm_ids": ["NPWR00888"]
     },
     "NBA 2K11": {
-        "title_ids": ["BLUS30574"],
+        "title_ids": ["BLUS30574", "BLES01008", "BLJM60277", "BLUS30689"],
         "comm_ids": ["NPWR01217"]
     },
     "NBA 2K12": {
-        "title_ids": ["BLUS30830"],
+        "title_ids": ["BLUS30830", "BLES01418", "BLJS10136", "BLUS30944"],
         "comm_ids": ["NPWR02284"]
     },
     "NBA 2K13": {
-        "title_ids": ["BLES01713"],
+        "title_ids": ["BLES01713", "BLJS10196", "BLUS31028"],
         "comm_ids": ["NPWR03709"]
     },
     "NBA 2K14": {
-        "title_ids": ["BLUS31204"],
+        "title_ids": ["BLUS31204", "BLES01920", "BLJS10232"],
         "comm_ids": ["NPWR04773"]
     },
     "NBA 2K15": {
-        "title_ids": ["BLUS31456"],
+        "title_ids": ["BLUS31456", "BLES02067", "BLJS10287"],
         "comm_ids": ["NPWR06760"]
     },
     "NBA 2K16": {
-        "title_ids": ["BLUS31542"],
+        "title_ids": ["BLUS31542", "BLES02191", "BLJS10322"],
         "comm_ids": ["NPWR08893"]
     },
     "NBA 2K17": {
@@ -4920,7 +4952,7 @@
         "comm_ids": ["NPWR11444"]
     },
     "NBA 2K18": {
-        "title_ids": ["BLES02255"],
+        "title_ids": ["BLES02255", "BLUS31614"],
         "comm_ids": ["NPWR13383"]
     },
     "NBA 2K7": {
@@ -5115,6 +5147,10 @@
         "title_ids": ["NPUA80319"],
         "comm_ids": ["NPWR00559"]
     },
+    "Nurarihyon no Mago: Hyakki Ryouran Taisen": {
+        "title_ids": ["BLJM60255"],
+        "comm_ids": ["NPWR01387"]
+    },
     "Obut Pétanque": {
         "title_ids": ["BLES01340"],
         "comm_ids": ["NPWR01345"]
@@ -5223,6 +5259,10 @@
         "title_ids": ["NPUB31383"],
         "comm_ids": ["NPWR05474"]
     },
+    "Pachinko Hissatsu Shigotonin IV: Kyoraku Collection Vol. 2": {
+        "title_ids": ["BLJS10192"],
+        "comm_ids": ["NPWR03335"]
+    },
     "Pacific Rim": {
         "title_ids": ["NPUB31387"],
         "comm_ids": ["NPWR05136"]
@@ -5279,7 +5319,7 @@
         "title_ids": ["NPJB00599"],
         "comm_ids": ["NPWR06200"]
     },
-    "Persona 5 (EU & US)": {
+    "Persona 5 (EU/US)": {
         "title_ids": ["BLES02247", "BLUS31604", "NPEB02436", "NPUB31848"],
         "comm_ids": ["NPWR11866"]
     },
@@ -5368,7 +5408,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00027", "NPER00040", "NPER00046", "NPER00052", "NPER00063", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10014", "NPUR10015", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00024", "NPER00027", "NPER00040", "NPER00046", "NPER00052", "NPER00063", "NPER00071", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -5598,6 +5638,10 @@
     "Putty Squad": {
         "title_ids": ["BLES01501"],
         "comm_ids": ["NPWR01753"]
+    },
+    "Puyo Puyo Tetris": {
+        "title_ids": ["BLJM61097"],
+        "comm_ids": ["NPWR05487"]
     },
     "Puzzle Chronicles": {
         "title_ids": ["NPUB30076"],
@@ -6163,6 +6207,10 @@
         "title_ids": ["BLES02174"],
         "comm_ids": ["NPWR08705"]
     },
+    "Rui wa Tomo o Yobu": {
+        "title_ids": ["BLJM61088"],
+        "comm_ids": ["NPWR04775"]
+    },
     "Rune Factory Oceans": {
         "title_ids": ["BLES01550"],
         "comm_ids": ["NPWR03063"]
@@ -6231,13 +6279,13 @@
         "title_ids": ["BLES00373", "NPEB00637"],
         "comm_ids": ["NPWR00475"]
     },
-    "Saints Row IV (AU)": {
-        "title_ids": ["NPEB01842", "BLES01954"],
-        "comm_ids": ["NPWR05139"]
-    },
     "Saints Row IV": {
         "title_ids": ["BLUS31205", "BLES01889", "BLJS10246", "NPUB31257", "NPEB01404", "BLES02019", "BLUS31416"],
         "comm_ids": ["NPWR04738"]
+    },
+    "Saints Row IV (AU)": {
+        "title_ids": ["NPEB01842", "BLES01954"],
+        "comm_ids": ["NPWR05139"]
     },
     "Saints Row: Gat out of Hell": {
         "title_ids": ["BLES02095", "BLUS31496"],
@@ -6819,7 +6867,7 @@
         "title_ids": ["BCES00819", "BCAS20235"],
         "comm_ids": ["NPWR03025"]
     },
-    "SoulCalibur II HD Online (EU & US)": {
+    "SoulCalibur II HD Online (EU/US)": {
         "title_ids": ["NPEB01828", "NPUB31366"],
         "comm_ids": ["NPWR05209"]
     },
@@ -6939,7 +6987,7 @@
         "title_ids": ["BCUS98177", "BCAS20125"],
         "comm_ids": ["NPWR00553"]
     },
-    "Sports Champions 2 (ASIA & US)": {
+    "Sports Champions 2 (ASIA/US)": {
         "title_ids": ["BCUS98278", "BCAS20254"],
         "comm_ids": ["NPWR03087"]
     },
@@ -7126,6 +7174,10 @@
     "Strider": {
         "title_ids": ["NPJB00349"],
         "comm_ids": ["NPWR04372"]
+    },
+    "Stuntman: Ignition": {
+        "title_ids": ["BLUS30073", "BLES00135", "BLJM60052"],
+        "comm_ids": ["NPWR00131"]
     },
     "Summer Challenge": {
         "title_ids": ["BLES01011"],
@@ -7363,8 +7415,8 @@
         "title_ids": ["BLUS30318"],
         "comm_ids": ["NPWR00623"]
     },
-    "Terraria (EU & US)": {
-        "title_ids": ["BLES01938", "BLUS31537", "NPUB30943"],
+    "Terraria (EU/US)": {
+        "title_ids": ["BLES01938", "BLUS31537", "NPUB30943", "NPEB01270"],
         "comm_ids": ["NPWR04270"]
     },
     "Terraria (JP)": {
@@ -7471,7 +7523,7 @@
         "title_ids": ["BLES01299"],
         "comm_ids": ["NPWR01866"]
     },
-    "The Cursed Crusade (JP & KOR)": {
+    "The Cursed Crusade (JP/KOR)": {
         "title_ids": ["BLKS20320", "BLJM60395"],
         "comm_ids": ["NPWR01867"]
     },
@@ -8249,7 +8301,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446"]
+        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -9026,46 +9078,6 @@
     "たっち、しよっ！ ～Love Application～": {
         "title_ids": ["BLJM60444"],
         "comm_ids": ["NPWR03052"]
-    },
-    "ぬらりひょんの孫": {
-        "title_ids": ["BLJM60255"],
-        "comm_ids": ["NPWR01387"]
-    },
-    "はじめの一歩": {
-        "title_ids": ["BLJS10295"],
-        "comm_ids": ["NPWR07543"]
-    },
-    "ぱちんこ 必殺仕事人Ⅳ　KYORAKUコレクション Vol.2": {
-        "title_ids": ["BLJS10192"],
-        "comm_ids": ["NPWR03335"]
-    },
-    "ひぐらしのなく頃に粋": {
-        "title_ids": ["BLJM61255"],
-        "comm_ids": ["NPWR07876"]
-    },
-    "びっくりぱちんこ　あしたのジョー KYORAKU コレクション Vol.1": {
-        "title_ids": ["BLJS10102"],
-        "comm_ids": ["NPWR01643"]
-    },
-    "ぷよぷよテトリス": {
-        "title_ids": ["BLJM61097"],
-        "comm_ids": ["NPWR05487"]
-    },
-    "まもるクンは呪われてしまった！ ～冥界活劇ワイド版～": {
-        "title_ids": ["BLJM60323"],
-        "comm_ids": ["NPWR01636"]
-    },
-    "みんなのGOLF 6": {
-        "title_ids": ["BCJS30089"],
-        "comm_ids": ["NPWR03752"]
-    },
-    "みんニャのパターGOLF": {
-        "title_ids": ["NPJA00041"],
-        "comm_ids": ["NPWR00577"]
-    },
-    "るいは智を呼ぶ": {
-        "title_ids": ["BLJM61088"],
-        "comm_ids": ["NPWR04775"]
     },
     "アイドルマスター シンデレラガールズグラビアフォーユー！ VOL.1": {
         "title_ids": ["BLJS10302"],
