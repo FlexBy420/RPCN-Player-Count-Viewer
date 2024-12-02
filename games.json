@@ -12,11 +12,11 @@
         "comm_ids": ["NPWR01946"]
     },
     "007 Legends": {
-        "title_ids": ["BLUS30983"],
+        "title_ids": ["BLUS30983", "BLES01614", "BLES01690"],
         "comm_ids": ["NPWR03297"]
     },
     "007: Quantum of Solace": {
-        "title_ids": ["BLUS30198", "BLJM60137"],
+        "title_ids": ["BLUS30198", "BLJM60137", "BLES00406", "BLUS30199", "BLES00411"],
         "comm_ids": ["NPWR00359"]
     },
     "100 Yen Trash Panic": {
@@ -912,7 +912,7 @@
         "comm_ids": ["NPWR01859"]
     },
     "BLEACH: Soul Resurreccion": {
-        "title_ids": ["BCAS20186"],
+        "title_ids": ["BCAS20186", "BCJS30077", "BLES01315", "BLUS30769"],
         "comm_ids": ["NPWR01599"]
     },
     "Blitz: The League II": {
@@ -939,7 +939,7 @@
         "title_ids": ["NPUB31493"],
         "comm_ids": ["NPWR07551"]
     },
-    "BLOODBATH": {
+    "Bloodbath": {
         "title_ids": ["BLES01988"],
         "comm_ids": ["NPWR05479"]
     },
@@ -1816,7 +1816,7 @@
         "comm_ids": ["NPWR03120"]
     },
     "Destiny": {
-        "title_ids": ["BLES01857"],
+        "title_ids": ["BLES01857", "BLUS31181"],
         "comm_ids": ["NPWR04936"]
     },
     "Deus Ex: Human Revolution": {
@@ -2080,7 +2080,7 @@
         "comm_ids": ["NPWR01628"]
     },
     "Dragon Ball Xenoverse": {
-        "title_ids": ["BLJS10292", "NPJB00671"],
+        "title_ids": ["BLJS10292", "NPJB00671", "BLES02096", "BLUS31507"],
         "comm_ids": ["NPWR04128"]
     },
     "Dragon Ball Xenoverse Network Test": {
@@ -2088,11 +2088,11 @@
         "comm_ids": [""]
     },
     "Dragon Ball Z Budokai HD Collection": {
-        "title_ids": ["BLES01658"],
+        "title_ids": ["BLES01658", "BLUS30966"],
         "comm_ids": ["NPWR03514"]
     },
     "Dragon Ball Z Ultimate Tenkaichi": {
-        "title_ids": ["BLES01401"],
+        "title_ids": ["BLES01401", "BLUS30823"],
         "comm_ids": ["NPWR02201"]
     },
     "Dragon Ball Z: Battle of Z": {
@@ -2100,7 +2100,7 @@
         "comm_ids": ["NPWR04847"]
     },
     "Dragon Ball: Raging Blast": {
-        "title_ids": ["BLES00693"],
+        "title_ids": ["BLES00693", "BLUS30431"],
         "comm_ids": ["NPWR00631"]
     },
     "Dragon Ball: Raging Blast 2": {
@@ -2124,7 +2124,7 @@
         "comm_ids": ["NPWR03852"]
     },
     "Dragon's Dogma": {
-        "title_ids": ["BLES01356"],
+        "title_ids": ["BLES01356", "BLJM60379", "BLUS30720", "BLES01794", "BLJM61012", "BLUS31155"],
         "comm_ids": ["NPWR01682"]
     },
     "Dragon's Lair": {
@@ -2143,8 +2143,8 @@
         "title_ids": ["BLES01373"],
         "comm_ids": ["NPWR02009"]
     },
-    "DRIVER San Francisco": {
-        "title_ids": ["BLES00891", "BLUS30536"],
+    "Driver San Francisco": {
+        "title_ids": ["BLES00891", "BLES00892", "BLUS30536", "BLJM60231", "BLES00951"],
         "comm_ids": ["NPWR00331"]
     },
     "Droplitz": {
@@ -2496,7 +2496,7 @@
         "comm_ids": ["NPWR02817"]
     },
     "Family Game Night 3": {
-        "title_ids": ["BLUS30578"],
+        "title_ids": ["BLUS30578", "BLES00973"],
         "comm_ids": ["NPWR01321"]
     },
     "Family Game Night 4 (EU)": {
@@ -2508,15 +2508,15 @@
         "comm_ids": ["NPWR02720"]
     },
     "Family Guy: Back To The Multiverse": {
-        "title_ids": ["BLUS30824"],
+        "title_ids": ["BLUS30824", "BLES01625"],
         "comm_ids": ["NPWR02171"]
     },
     "Far Cry 2": {
-        "title_ids": ["BLUS30178", "BLJM60108"],
+        "title_ids": ["BLUS30178", "BLJM60108", "BLES00324", "BLES00325"],
         "comm_ids": ["NPWR00419"]
     },
     "Far Cry 3": {
-        "title_ids": ["NPEB01096", "BLES01138"],
+        "title_ids": ["NPEB01096", "BLES01137", "BLES01138", "BLES01995", "BLJM60532", "BLUS30687", "BLUS31393"],
         "comm_ids": ["NPWR03468"]
     },
     "Far Cry 3 Blood Dragon": {
@@ -2524,7 +2524,7 @@
         "comm_ids": ["NPWR04319"]
     },
     "Far Cry 4": {
-        "title_ids": ["BLUS31420", "BLJM61179"],
+        "title_ids": ["BLUS31420", "BLJM61179", "BLES02011", "BLES02012"],
         "comm_ids": ["NPWR06955"]
     },
     "Far Cry Classic": {
@@ -2643,6 +2643,10 @@
         "title_ids": ["BLES01039", "BLUS30608"],
         "comm_ids": ["NPWR01421"]
     },
+    "Fight Night Champion Demo": {
+        "title_ids": ["NPUB90513"],
+        "comm_ids": [""]
+    },
     "Fight Night Round 4": {
         "title_ids": ["BLES00538", "BLUS30285", "BLJM60194"],
         "comm_ids": ["NPWR00617"]
@@ -2683,8 +2687,8 @@
         "title_ids": ["NPUB30087"],
         "comm_ids": ["NPWR00897"]
     },
-    "Fist of the North Star: Ken's Rage (EU)": {
-        "title_ids": ["BLES01062"],
+    "Fist of the North Star: Ken's Rage (EU/US)": {
+        "title_ids": ["BLES01062", "BLUS30504"],
         "comm_ids": ["NPWR01455"]
     },
     "Fist of the North Star: Ken's Rage (JP)": {
@@ -3268,7 +3272,7 @@
         "comm_ids": ["NPWR04447"]
     },
     "Hot Wheels World's Best Driver": {
-        "title_ids": ["BLUS31200"],
+        "title_ids": ["BLUS31200", "BLES01881"],
         "comm_ids": ["NPWR04714"]
     },
     "Hotline Miami": {
@@ -3516,7 +3520,7 @@
         "comm_ids": ["NPWR02148"]
     },
     "James Bond 007: Blood Stone": {
-        "title_ids": ["BLES01017"],
+        "title_ids": ["BLES01017", "BLJM60301", "BLUS30289"],
         "comm_ids": ["NPWR00661"]
     },
     "James Cameron's AVATAR: THE GAME": {
@@ -4656,7 +4660,7 @@
         "comm_ids": ["NPWR01511"]
     },
     "Mortal Kombat": {
-        "title_ids": ["BLES01132", "BLUS30522"],
+        "title_ids": ["BLES01132", "BLUS30522", "BLES01508", "BLUS30902"],
         "comm_ids": ["NPWR01747"]
     },
     "Mortal Kombat vs. DC Universe": {
@@ -4971,8 +4975,12 @@
         "title_ids": ["NPEB00650", "NPUB30558"],
         "comm_ids": ["NPWR02355"]
     },
+    "NBA LIVE 09": {
+        "title_ids": ["BLUS30173"],
+        "comm_ids": ["NPWR00444"]
+    },
     "NBA LIVE 10": {
-        "title_ids": ["BLES00637"],
+        "title_ids": ["BLES00637", "BLUS30393", "BLJM60171"],
         "comm_ids": ["NPWR00776"]
     },
     "NBA Unrivaled": {
@@ -5196,7 +5204,7 @@
         "comm_ids": ["NPWR05470"]
     },
     "One Piece Unlimited World Red": {
-        "title_ids": ["BLJS10272"],
+        "title_ids": ["BLJS10272", "BLUS31427", "BLES02020", "BLAS50699"],
         "comm_ids": ["NPWR06110"]
     },
     "One Piece: Pirate Warriors (EU)": {
@@ -5211,8 +5219,12 @@
         "title_ids": ["BLES01913"],
         "comm_ids": ["NPWR04898"]
     },
+    "One Piece: Pirate Warriors 2 (ASIA/JP)": {
+        "title_ids": ["BLJM60572", "BLAS50597"],
+        "comm_ids": ["NPWR04085"]
+    },
     "One Piece: Pirate Warriors 3": {
-        "title_ids": ["NPUB31676"],
+        "title_ids": ["NPUB31676", "BLES02140"],
         "comm_ids": ["NPWR08617"]
     },
     "Operation Flashpoint: Dragon Rising": {
@@ -5408,7 +5420,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00024", "NPER00027", "NPER00040", "NPER00046", "NPER00052", "NPER00063", "NPER00071", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00009", "NPER00024", "NPER00027", "NPER00040", "NPER00046", "NPER00052", "NPER00063", "NPER00071", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00120", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -5716,7 +5728,7 @@
         "comm_ids": ["NPWR04597"]
     },
     "R.U.S.E.": {
-        "title_ids": ["BLES00786", "BLUS30478"],
+        "title_ids": ["BLES00785", "BLES00786", "BLUS30478", "BLJM60198"],
         "comm_ids": ["NPWR00741"]
     },
     "RA.ONE The Game": {
@@ -5768,7 +5780,7 @@
         "comm_ids": ["NPWR03135"]
     },
     "Rambo The Video Game": {
-        "title_ids": ["BLES01963"],
+        "title_ids": ["BLES01963", "BLUS31387"],
         "comm_ids": ["NPWR05256"]
     },
     "Rango": {
@@ -6716,7 +6728,7 @@
         "comm_ids": ["NPWR04402"]
     },
     "Skylanders Trap Team": {
-        "title_ids": ["BLES02055"],
+        "title_ids": ["BLES02055", "BLUS31442"],
         "comm_ids": ["NPWR06717"]
     },
     "Slam Bolt Scrappers": {
@@ -6888,7 +6900,7 @@
         "comm_ids": ["NPWR01738"]
     },
     "Sound Shapes": {
-        "title_ids": ["NPUA80543"],
+        "title_ids": ["NPUA80543", "NPEA00289"],
         "comm_ids": ["NPWR03207"]
     },
     "South Park: The Stick of Truth": {
@@ -7996,7 +8008,7 @@
         "comm_ids": ["NPWR00319"]
     },
     "Tomb Raider": {
-        "title_ids": ["BLES01780", "BCAS20272"],
+        "title_ids": ["BLES01780", "BCAS20272", "BLUS31036"],
         "comm_ids": ["NPWR02569"]
     },
     "Tomb Raider: Anniversary": {
@@ -8301,7 +8313,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137"]
+        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR00322"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8448,7 +8460,7 @@
         "comm_ids": ["NPWR00855"]
     },
     "Warhawk": {
-        "title_ids": ["BCUS98117"],
+        "title_ids": ["BCUS98117", "BCES00008"],
         "comm_ids": ["NPWR00163"]
     },
     "Warlords": {
@@ -9454,10 +9466,6 @@
     "ロロナのアトリエ～アーランドの錬金術士～": {
         "title_ids": ["BLJM60154"],
         "comm_ids": ["NPWR00712"]
-    },
-    "ワンピース 海賊無双２": {
-        "title_ids": ["BLJM60572"],
-        "comm_ids": ["NPWR04085"]
     },
     "ワンピース 海賊無双３": {
         "title_ids": ["BLJM61261"],
