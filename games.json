@@ -23,6 +23,10 @@
         "title_ids": ["NPJA00044"],
         "comm_ids": ["NPWR00832"]
     },
+    "1942: Joint Strike": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00148"]
+    },
     "2010 FIFA World Cup South Africa": {
         "title_ids": ["BLES00796", "BLUS30474", "BLJM60222"],
         "comm_ids": ["NPWR01022"]
@@ -2267,6 +2271,10 @@
         "title_ids": ["BLUS30471"],
         "comm_ids": ["NPWR01068"]
     },
+    "E.X. Troopers": {
+        "title_ids": ["BLJM60528"],
+        "comm_ids": ["NPWR03493"]
+    },
     "EA SPORTS Active 2": {
         "title_ids": ["BLES00965"],
         "comm_ids": ["NPWR01325"]
@@ -3082,6 +3090,10 @@
     "Guitar Hero: World Tour": {
         "title_ids": ["BLES00299", "BLUS30164"],
         "comm_ids": ["NPWR00349"]
+    },
+    "Gundam Breaker 2": {
+        "title_ids": ["BLAS50770", "BLJS10286", "NPHB00710", "PCSH00132"],
+        "comm_ids": ["NPWR06959"]
     },
     "GundeadliGne": {
         "title_ids": ["NPUA30031"],
@@ -6623,6 +6635,10 @@
         "title_ids": ["BLUS30496", "BLES00838"],
         "comm_ids": ["NPWR00913"]
     },
+    "Sid Meier's Civilization: Revolution Demo": {
+        "title_ids": ["NPUB90101"],
+        "comm_ids": [""]
+    },
     "Sideway": {
         "title_ids": ["NPUA30066"],
         "comm_ids": ["NPWR01717"]
@@ -8345,7 +8361,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378"]
+        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -9199,10 +9215,6 @@
         "title_ids": ["BLJS93011"],
         "comm_ids": ["NPWR03609"]
     },
-    "エクストルーパーズ": {
-        "title_ids": ["BLJM60528"],
-        "comm_ids": ["NPWR03493"]
-    },
     "エスカ＆ロジーのアトリエ　～黄昏の空の錬金術士～": {
         "title_ids": ["BLJM61050"],
         "comm_ids": ["NPWR04652"]
@@ -9214,10 +9226,6 @@
     "ガンダムブレイカー": {
         "title_ids": ["BLJS10197"],
         "comm_ids": ["NPWR03754"]
-    },
-    "ガンダムブレイカー2": {
-        "title_ids": ["BLAS50770"],
-        "comm_ids": ["NPWR06959"]
     },
     "ケツイ ～絆地獄たち～ EXTRA": {
         "title_ids": ["BLJM61060"],
