@@ -42,5 +42,17 @@
     "Crunchyroll": {
         "title_ids": ["NPEB02307"],
         "comm_ids": [""]
+    },
+    "PlayStation Vue": {
+        "title_ids": ["NPUO00038", "NPUO00034"],
+        "comm_ids": ["NPWR05939"]
+    },
+    "Plex": {
+        "title_ids": ["NPEB02214"],
+        "comm_ids": ["NPWR08213"]
+    },
+    "dailyburn": {
+        "title_ids": ["NPUP31344"],
+        "comm_ids": [""]
     }
 }

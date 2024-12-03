@@ -1968,7 +1968,7 @@
         "comm_ids": ["NPWR00785"]
     },
     "Disney Universe": {
-        "title_ids": ["BLUS30773"],
+        "title_ids": ["BLUS30773", "BLES01354"],
         "comm_ids": ["NPWR01994"]
     },
     "DISORDER6": {
@@ -2739,6 +2739,10 @@
         "title_ids": ["NPUB31407"],
         "comm_ids": ["NPWR05742"]
     },
+    "Fracture": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00298"]
+    },
     "Free Realms": {
         "title_ids": ["NPUA30048", "NPEA00299"],
         "comm_ids": ["NPWR01279"]
@@ -3077,7 +3081,7 @@
     },
     "Guitar Hero: World Tour": {
         "title_ids": ["BLES00299", "BLUS30164"],
-        "comm_ids": [""]
+        "comm_ids": ["NPWR00349"]
     },
     "GundeadliGne": {
         "title_ids": ["NPUA30031"],
@@ -3416,7 +3420,7 @@
         "comm_ids": ["NPWR00660"]
     },
     "inFamous 2": {
-        "title_ids": ["BCUS98125", "BCES01143"],
+        "title_ids": ["BCUS98125", "BCES01143", "BCES01229"],
         "comm_ids": ["NPWR01730"]
     },
     "inFAMOUS: Festival of Blood": {
@@ -4615,6 +4619,10 @@
         "title_ids": ["BLES01191"],
         "comm_ids": ["NPWR01656"]
     },
+    "Mong Mong Blade": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00022"]
+    },
     "Monkey Island 2 Special Edition LeChuck's Revenge": {
         "title_ids": [""],
         "comm_ids": ["NPWR01192"]
@@ -5428,7 +5436,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPEQ00001", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00008", "NPER00009", "NPER00024", "NPER00027", "NPER00035", "NPER00040", "NPER00046", "NPER00052", "NPER00063", "NPER00071", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00120", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPEQ00001", "NPEQ10001", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00008", "NPER00009", "NPER00024", "NPER00027", "NPER00035", "NPER00040", "NPER00046", "NPER00052", "NPER00063", "NPER00071", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00120", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -6048,7 +6056,7 @@
         "comm_ids": ["NPWR00472"]
     },
     "Ridge Racer 7": {
-        "title_ids": ["BCES00009"],
+        "title_ids": ["BCES00009", "BLUS30001"],
         "comm_ids": ["NPWR00001"]
     },
     "Ridge Racer Driftopia": {
@@ -6150,6 +6158,10 @@
     "Rock of the Dead": {
         "title_ids": ["BLUS30658"],
         "comm_ids": ["NPWR01318"]
+    },
+    "Rock Revolution": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00322"]
     },
     "Rocket Knight": {
         "title_ids": ["NPEB00186"],
@@ -6897,7 +6909,7 @@
     },
     "SoulCalibur IV": {
         "title_ids": ["BLES00296", "BLUS30160", "BLJS10026"],
-        "comm_ids": [""]
+        "comm_ids": ["NPWR00175"]
     },
     "SoulCalibur Lost Swords": {
         "title_ids": ["NPJB00466"],
@@ -7995,9 +8007,17 @@
         "title_ids": ["BLES00924"],
         "comm_ids": ["NPWR00848"]
     },
+    "Tom Clancy's H.A.W.X": {
+        "title_ids": ["BLES00330"],
+        "comm_ids": ["NPWR00319"]
+    },
     "Tom Clancy's H.A.W.X. 2": {
         "title_ids": ["BLES00928", "BLUS30488"],
         "comm_ids": ["NPWR01304"]
+    },
+    "Tom Clancy's Rainbow Six: Vegas 2": {
+        "title_ids": ["BLES00237", "BLUS30125", "BLES00755", "BLES01590", "NPEB00394", "NPUB30503"],
+        "comm_ids": ["NPWR00247"]
     },
     "Tom Clancy's Splinter Cell Blacklist": {
         "title_ids": ["BLUS31025"],
@@ -8014,10 +8034,6 @@
     "Tom Clancy's Splinter Cell Pandora Tomorrow HD": {
         "title_ids": ["NPUB30455"],
         "comm_ids": ["NPWR01812"]
-    },
-    "Tom Clancy’s H.A.W.X": {
-        "title_ids": ["BLES00330"],
-        "comm_ids": ["NPWR00319"]
     },
     "Tomb Raider": {
         "title_ids": ["BLES01780", "BCAS20272", "BLUS31036"],
@@ -8207,6 +8223,10 @@
         "title_ids": ["BLUS31171"],
         "comm_ids": ["NPWR04492"]
     },
+    "Turok": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00258"]
+    },
     "TV Show King": {
         "title_ids": ["NPEB00156"],
         "comm_ids": ["NPWR00421"]
@@ -8325,7 +8345,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR00022", "NPWR00247", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR00175", "NPWR00298", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR00322", "NPWR03015", "NPWR04378"]
+        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8342,6 +8362,10 @@
     "Unreal Tournament  3": {
         "title_ids": ["BLES00200"],
         "comm_ids": ["NPWR00194"]
+    },
+    "Untold Legends: Dark Kingdom": {
+        "title_ids": ["BLES00019"],
+        "comm_ids": [""]
     },
     "UP": {
         "title_ids": ["BLUS30305", "BLES00550", "BLES00552"],
@@ -8472,7 +8496,7 @@
         "comm_ids": ["NPWR00855"]
     },
     "Warhawk": {
-        "title_ids": ["BCUS98117", "BCES00008"],
+        "title_ids": ["BCUS98117", "BCES00008", "NPUA80093"],
         "comm_ids": ["NPWR00163"]
     },
     "Warlords": {
