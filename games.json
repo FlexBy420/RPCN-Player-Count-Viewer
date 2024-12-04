@@ -2208,7 +2208,7 @@
         "comm_ids": ["NPWR04346"]
     },
     "Dungeons & Dragons: Daggerdale": {
-        "title_ids": ["NPEB00385"],
+        "title_ids": ["NPEB00385", "NPUB30318"],
         "comm_ids": ["NPWR01414"]
     },
     "Dustforce": {
@@ -2426,6 +2426,10 @@
     "EyePet & Friends": {
         "title_ids": ["BCES00865", "BCAS20212"],
         "comm_ids": ["NPWR02125"]
+    },
+    "F.E.A.R. - First Encounter Assault Recon": {
+        "title_ids": ["BLUS30003"],
+        "comm_ids": ["NPWR00026"]
     },
     "F.E.A.R. 2: Project Origin (JP)": {
         "title_ids": ["BLJM60160"],
@@ -2906,6 +2910,10 @@
     "GLADIATOR VS": {
         "title_ids": ["BLJM60398"],
         "comm_ids": ["NPWR02544"]
+    },
+    "Go! Sudoku": {
+        "title_ids": ["NPUA80011"],
+        "comm_ids": [""]
     },
     "Goat Simulator": {
         "title_ids": ["NPUB31749"],
@@ -6324,7 +6332,7 @@
         "comm_ids": ["NPWR09221"]
     },
     "Saints Row 2": {
-        "title_ids": ["BLES00373", "NPEB00637"],
+        "title_ids": ["BLES00373", "NPEB00637", "BLUS30201"],
         "comm_ids": ["NPWR00475"]
     },
     "Saints Row IV": {
@@ -8028,7 +8036,7 @@
         "comm_ids": ["NPWR00441"]
     },
     "Tom Clancy's Ghost Recon Future Soldier": {
-        "title_ids": ["BLES00924"],
+        "title_ids": ["BLES00924", "BLUS30521"],
         "comm_ids": ["NPWR00848"]
     },
     "Tom Clancy's H.A.W.X": {
@@ -8384,12 +8392,12 @@
         "comm_ids": ["NPWR00707"]
     },
     "Unreal Tournament  3": {
-        "title_ids": ["BLES00200"],
+        "title_ids": ["BLES00200", "BLUS30086"],
         "comm_ids": ["NPWR00194"]
     },
     "Untold Legends: Dark Kingdom": {
-        "title_ids": ["BLES00019"],
-        "comm_ids": [""]
+        "title_ids": ["BLES00019", "BLUS30002"],
+        "comm_ids": ["NPWR00017"]
     },
     "UP": {
         "title_ids": ["BLUS30305", "BLES00550", "BLES00552"],
