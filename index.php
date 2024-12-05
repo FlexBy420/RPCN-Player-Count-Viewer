@@ -87,9 +87,11 @@ foreach ($game_mappings as $game_title => $ids) {
     foreach ($ids['comm_ids'] as $comm_id) {
         if (!empty($comm_id)) {  // Handle cases where comm_id might be empty
             $normalized_comm_id = normalize_id($comm_id);
-            foreach ($data['psn_games'] as $api_comm_id => $count) {
-                if (normalize_id($api_comm_id) === $normalized_comm_id) {
-                    $comm_id_player_count += $count;
+            if (!empty($data['psn_games'])) { 
+                foreach ($data['psn_games'] as $api_comm_id => $count) {
+                    if (normalize_id($api_comm_id) === $normalized_comm_id) {
+                        $comm_id_player_count += $count;
+                    }
                 }
             }
         }
@@ -101,9 +103,11 @@ foreach ($game_mappings as $game_title => $ids) {
         // If no comm_ids found, count players based on title_ids
         foreach ($ids['title_ids'] as $title_id) {
             $normalized_title_id = normalize_id($title_id);
-            foreach ($data['ticket_games'] as $api_title_id => $count) {
-                if (normalize_id($api_title_id) === $normalized_title_id) {
-                    $title_player_counts[$game_title] += $count;
+            if (!empty($data['ticket_games'])) { 
+                foreach ($data['ticket_games'] as $api_title_id => $count) {
+                    if (normalize_id($api_title_id) === $normalized_title_id) {
+                        $title_player_counts[$game_title] += $count;
+                    }
                 }
             }
         }
@@ -111,33 +115,37 @@ foreach ($game_mappings as $game_title => $ids) {
 }
 
 // Check for IDs in the API data that are not in the JSON file
-foreach ($data['psn_games'] as $api_comm_id => $count) {
-    $found = false;
-    foreach ($game_mappings as $ids) {
-        foreach ($ids['comm_ids'] as $comm_id) {
-            if (normalize_id($api_comm_id) === normalize_id($comm_id)) {
-                $found = true;
-                break 2;
+if (!empty($data['psn_games'])) { 
+    foreach ($data['psn_games'] as $api_comm_id => $count) {
+        $found = false;
+        foreach ($game_mappings as $ids) {
+            foreach ($ids['comm_ids'] as $comm_id) {
+                if (normalize_id($api_comm_id) === normalize_id($comm_id)) {
+                    $found = true;
+                    break 2;
+                }
             }
         }
-    }
-    if (!$found) {
-        log_missing_id($api_comm_id, $log_file);
+        if (!$found) {
+            log_missing_id($api_comm_id, $log_file);
+        }
     }
 }
 
-foreach ($data['ticket_games'] as $api_title_id => $count) {
-    $found = false;
-    foreach ($game_mappings as $ids) {
-        foreach ($ids['title_ids'] as $title_id) {
-            if (normalize_id($api_title_id) === normalize_id($title_id)) {
-                $found = true;
-                break 2;
+if (!empty($data['ticket_games'])) { 
+    foreach ($data['ticket_games'] as $api_title_id => $count) {
+        $found = false;
+        foreach ($game_mappings as $ids) {
+            foreach ($ids['title_ids'] as $title_id) {
+                if (normalize_id($api_title_id) === normalize_id($title_id)) {
+                    $found = true;
+                    break 2;
+                }
             }
         }
-    }
-    if (!$found) {
-        log_missing_id($api_title_id, $log_file);
+        if (!$found) {
+            log_missing_id($api_title_id, $log_file);
+        }
     }
 }
 // Sort the results by player count in descending order
