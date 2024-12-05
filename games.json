@@ -39,15 +39,15 @@
         "title_ids": ["NPEB00080"],
         "comm_ids": ["NPWR00549"]
     },
-    "3D Dot Game Heroes (EU)": {
+    "3D Dot Game Heroes [EU]": {
         "title_ids": ["BLES00875"],
         "comm_ids": ["NPWR01180"]
     },
-    "3D Dot Game Heroes (JP)": {
+    "3D Dot Game Heroes [JP]": {
         "title_ids": ["BLJM60180"],
         "comm_ids": ["NPWR00947"]
     },
-    "3D Dot Game Heroes (US)": {
+    "3D Dot Game Heroes [US]": {
         "title_ids": ["BLUS30490"],
         "comm_ids": ["NPWR01097"]
     },
@@ -67,19 +67,19 @@
         "title_ids": ["NPUB31705"],
         "comm_ids": ["NPWR08486"]
     },
-    "50 Cent: Blood On The Sand (JP)": {
+    "50 Cent: Blood On The Sand [JP]": {
         "title_ids": ["BLJS10056"],
         "comm_ids": ["NPWR00804"]
     },
-    "50 Cent: Blood On The Sand (US)": {
+    "50 Cent: Blood On The Sand [US]": {
         "title_ids": ["BLUS30256"],
         "comm_ids": [""]
     },
-    "99Vidas (EU)": {
+    "99Vidas [EU]": {
         "title_ids": ["NPEB02458"],
         "comm_ids": ["NPWR14085"]
     },
-    "99Vidas (US)": {
+    "99Vidas [US]": {
         "title_ids": ["NPUB31842"],
         "comm_ids": ["NPWR11170"]
     },
@@ -135,11 +135,11 @@
         "title_ids": ["NPJB90677", "BLET70052"],
         "comm_ids": ["NPWR05566"]
     },
-    "Adam's Venture: Chronicles (Brazil)": {
+    "Adam's Venture: Chronicles [Brazil]": {
         "title_ids": ["NPUB31753", "BLUS31570"],
         "comm_ids": ["NPWR09409"]
     },
-    "Adam's Venture: Chronicles (NPUB30867)": {
+    "Adam's Venture: Chronicles [NPUB30867]": {
         "title_ids": ["NPUB30867"],
         "comm_ids": ["NPWR03931"]
     },
@@ -155,11 +155,11 @@
         "title_ids": ["BLUS31450"],
         "comm_ids": ["NPWR06596"]
     },
-    "Aegis of Earth: Protonovus Assault (EU)": {
+    "Aegis of Earth: Protonovus Assault [EU]": {
         "title_ids": ["NPEB02396"],
         "comm_ids": ["NPWR10459"]
     },
-    "Aegis of Earth: Protonovus Assault (US)": {
+    "Aegis of Earth: Protonovus Assault [US]": {
         "title_ids": ["NPUB31805"],
         "comm_ids": ["NPWR10310"]
     },
@@ -247,11 +247,11 @@
         "title_ids": ["NPEB01088"],
         "comm_ids": ["NPWR03983"]
     },
-    "Alien Shooter (EU)": {
+    "Alien Shooter [EU]": {
         "title_ids": ["NPEB02017"],
         "comm_ids": ["NPWR08355"]
     },
-    "Alien Shooter (US)": {
+    "Alien Shooter [US]": {
         "title_ids": ["NPUB31773"],
         "comm_ids": ["NPWR10044"]
     },
@@ -375,11 +375,11 @@
         "title_ids": ["NPUB30425", "BLES01295"],
         "comm_ids": ["NPWR01464"]
     },
-    "Arcana Heart 3 LOVE MAX!!!!! (EU)": {
+    "Arcana Heart 3 LOVE MAX!!!!! [EU]": {
         "title_ids": ["BLES02126"],
         "comm_ids": ["NPWR07830"]
     },
-    "Arcana Heart 3 LOVE MAX!!!!! (US)": {
+    "Arcana Heart 3 LOVE MAX!!!!! [US]": {
         "title_ids": ["BLUS31424"],
         "comm_ids": ["NPWR06231"]
     },
@@ -411,19 +411,19 @@
         "title_ids": ["BLUS30027", "BLES00039", "BLJM60012", "BLJM60062"],
         "comm_ids": ["NPWR00004"]
     },
-    "Armored Core V (ASIA)": {
+    "Armored Core V [ASIA]": {
         "title_ids": ["BLAS50448"],
         "comm_ids": ["NPWR03098"]
     },
-    "Armored Core V (EU)": {
+    "Armored Core V [EU]": {
         "title_ids": ["BLES01440"],
         "comm_ids": ["NPWR03067"]
     },
-    "Armored Core V (JP)": {
+    "Armored Core V [JP]": {
         "title_ids": ["BLJM60378"],
         "comm_ids": ["NPWR02037"]
     },
-    "Armored Core V (US)": {
+    "Armored Core V [US]": {
         "title_ids": ["BLUS30516"],
         "comm_ids": ["NPWR03050"]
     },
@@ -431,11 +431,11 @@
         "title_ids": ["BLES00370", "BLUS30187", "BLJM60066", "NPHB00033", "NPJB90067"],
         "comm_ids": ["NPWR00275"]
     },
-    "Armored Core: Verdict Day (EU/US)": {
+    "Armored Core: Verdict Day [EU/US]": {
         "title_ids": ["BLES01898"],
         "comm_ids": ["NPWR04749"]
     },
-    "Armored Core: Verdict Day (JP)": {
+    "Armored Core: Verdict Day [JP]": {
         "title_ids": ["BLJM61014"],
         "comm_ids": ["NPWR04352"]
     },
@@ -451,7 +451,7 @@
         "title_ids": ["BLES00659", "BLUS30408"],
         "comm_ids": ["NPWR00685"]
     },
-    "Army of TWO: The 40th Day (JP)": {
+    "Army of TWO: The 40th Day [JP]": {
         "title_ids": ["BLJM60216"],
         "comm_ids": ["NPWR01118"]
     },
@@ -575,11 +575,11 @@
         "title_ids": ["NPUB30536"],
         "comm_ids": ["NPWR02123"]
     },
-    "Back to Bed (JP)": {
+    "Back to Bed [JP]": {
         "title_ids": ["NPJB00830"],
         "comm_ids": ["NPWR12608"]
     },
-    "Back to Bed (US)": {
+    "Back to Bed [US]": {
         "title_ids": ["NPUB31732"],
         "comm_ids": ["NPWR08986"]
     },
@@ -647,11 +647,11 @@
         "title_ids": ["NPEB01219"],
         "comm_ids": ["NPWR07841"]
     },
-    "Barbie and Her Sisters Puppy Rescue (EU)": {
+    "Barbie and Her Sisters Puppy Rescue [EU]": {
         "title_ids": ["BLES02189"],
         "comm_ids": ["NPWR09684"]
     },
-    "Barbie and Her Sisters Puppy Rescue (US)": {
+    "Barbie and Her Sisters Puppy Rescue [US]": {
         "title_ids": ["NPUB31740"],
         "comm_ids": ["NPWR09091"]
     },
@@ -663,7 +663,7 @@
         "title_ids": ["BLES00503", "BLUS30279", "BLES00827", "BLUS30515"],
         "comm_ids": ["NPWR00626"]
     },
-    "Batman: Arkham Asylum (JP)": {
+    "Batman: Arkham Asylum [JP]": {
         "title_ids": ["BLJM60193"],
         "comm_ids": ["NPWR01012"]
     },
@@ -735,15 +735,15 @@
         "title_ids": ["NPUB90316"],
         "comm_ids": ["NPWR01025"]
     },
-    "Battlefield: Bad Company 2 Demo (ASIA)": {
+    "Battlefield: Bad Company 2 Demo [ASIA]": {
         "title_ids": ["NPHB00186"],
         "comm_ids": [""]
     },
-    "Battlefield: Bad Company 2 Demo (EU)": {
+    "Battlefield: Bad Company 2 Demo [EU]": {
         "title_ids": ["NPEB90212"],
         "comm_ids": [""]
     },
-    "Battlefield: Bad Company 2 Demo (US)": {
+    "Battlefield: Bad Company 2 Demo [US]": {
         "title_ids": ["NPUB90347"],
         "comm_ids": ["NPWR01121"]
     },
@@ -851,11 +851,11 @@
         "title_ids": ["NPUB30131"],
         "comm_ids": ["NPWR00907"]
     },
-    "BioShock (EU/US)": {
+    "BioShock [EU/US]": {
         "title_ids": ["BLES00316", "BLUS30166"],
         "comm_ids": ["NPWR00352"]
     },
-    "BioShock (JP)": {
+    "BioShock [JP]": {
         "title_ids": ["BLJS10041"],
         "comm_ids": ["NPWR00607"]
     },
@@ -939,11 +939,11 @@
         "title_ids": ["MRTC00011"],
         "comm_ids": ["NPWR01322"]
     },
-    "Blood Knights (NPEB00981)": {
+    "Blood Knights [NPEB00981]": {
         "title_ids": ["NPEB00981"],
         "comm_ids": ["NPWR03411"]
     },
-    "Blood Knights (NPEB01901)": {
+    "Blood Knights [NPEB01901]": {
         "title_ids": ["NPEB01901"],
         "comm_ids": ["NPWR05543"]
     },
@@ -991,11 +991,11 @@
         "title_ids": ["BLUS31445"],
         "comm_ids": ["NPWR06740"]
     },
-    "Bound by Flame (EU)": {
+    "Bound by Flame [EU]": {
         "title_ids": ["BLES01952"],
         "comm_ids": ["NPWR05746"]
     },
-    "Bound by Flame (KOR)": {
+    "Bound by Flame [KOR]": {
         "title_ids": ["BLKS20481"],
         "comm_ids": ["NPWR06989"]
     },
@@ -1007,11 +1007,11 @@
         "title_ids": ["BLES00420"],
         "comm_ids": ["NPWR00398"]
     },
-    "Brink (EU/US)": {
+    "Brink [EU/US]": {
         "title_ids": ["BLES00817", "BLES01304", "BLUS30310"],
         "comm_ids": ["NPWR01139"]
     },
-    "Brink (JP)": {
+    "Brink [JP]": {
         "title_ids": ["BLJM60355"],
         "comm_ids": ["NPWR01990"]
     },
@@ -1023,11 +1023,11 @@
         "title_ids": ["BLUS30165", "BLES00318", "BLES00319", "NPUB30565", "BLJM60100"],
         "comm_ids": [""]
     },
-    "Brunswick Pro Bowling (EU)": {
+    "Brunswick Pro Bowling [EU]": {
         "title_ids": ["BLES01130"],
         "comm_ids": ["NPWR01600"]
     },
-    "Brunswick Pro Bowling (US)": {
+    "Brunswick Pro Bowling [US]": {
         "title_ids": ["BLUS30532"],
         "comm_ids": ["NPWR01302"]
     },
@@ -1227,15 +1227,15 @@
         "title_ids": ["BLES00620"],
         "comm_ids": ["NPWR00798"]
     },
-    "Cartoon Network Punch Time Explosion XL (BLUS30834)": {
+    "Cartoon Network Punch Time Explosion XL [BLUS30834]": {
         "title_ids": ["BLUS30834"],
         "comm_ids": ["NPWR02314"]
     },
-    "Cartoon Network Punch Time Explosion XL (EU)": {
+    "Cartoon Network Punch Time Explosion XL [EU]": {
         "title_ids": ["NPEB01152", "BLES01622"],
         "comm_ids": ["NPWR03322"]
     },
-    "Cartoon Network Punch Time Explosion XL (NPUB31494)": {
+    "Cartoon Network Punch Time Explosion XL [NPUB31494]": {
         "title_ids": ["NPUB31494"],
         "comm_ids": ["NPWR06364"]
     },
@@ -1271,11 +1271,11 @@
         "title_ids": ["NPHB00092"],
         "comm_ids": ["NPWR00534"]
     },
-    "Catherine (JP/KOR)": {
+    "Catherine [JP/KOR]": {
         "title_ids": ["BLJM60215", "BCKS10161"],
         "comm_ids": ["NPWR00906"]
     },
-    "Catherine (US)": {
+    "Catherine [US]": {
         "title_ids": ["BLES01459"],
         "comm_ids": ["NPWR02635"]
     },
@@ -1287,11 +1287,11 @@
         "title_ids": ["NPUB30042"],
         "comm_ids": ["NPWR00602"]
     },
-    "Champion Jockey: G1 Jockey & Gallop Racer (EU)": {
+    "Champion Jockey: G1 Jockey & Gallop Racer [EU]": {
         "title_ids": ["BLES01235"],
         "comm_ids": ["NPWR01750"]
     },
-    "Champion Jockey: G1 Jockey & Gallop Racer (US)": {
+    "Champion Jockey: G1 Jockey & Gallop Racer [US]": {
         "title_ids": ["BLUS30863"],
         "comm_ids": ["NPWR02537"]
     },
@@ -1351,15 +1351,15 @@
         "title_ids": ["BLJM60329"],
         "comm_ids": ["NPWR01746"]
     },
-    "Clash of The Titans (EU)": {
+    "Clash of The Titans [EU]": {
         "title_ids": ["BLES00841"],
         "comm_ids": ["NPWR01128"]
     },
-    "Clash of The Titans (JP)": {
+    "Clash of The Titans [JP]": {
         "title_ids": ["BLJS10080"],
         "comm_ids": ["NPWR01126"]
     },
-    "Clash of The Titans (US)": {
+    "Clash of The Titans [US]": {
         "title_ids": ["BLUS30505"],
         "comm_ids": ["NPWR01127"]
     },
@@ -1399,11 +1399,11 @@
         "title_ids": ["NPUB31506"],
         "comm_ids": ["NPWR06380"]
     },
-    "Contrast (JP)": {
+    "Contrast [JP]": {
         "title_ids": ["NPJB00584"],
         "comm_ids": ["NPWR05964"]
     },
-    "Contrast (US)": {
+    "Contrast [US]": {
         "title_ids": ["NPUB31364"],
         "comm_ids": ["NPWR05188"]
     },
@@ -1467,11 +1467,11 @@
         "title_ids": ["NPUB30059"],
         "comm_ids": ["NPWR00469"]
     },
-    "Cross Edge (EU)": {
+    "Cross Edge [EU]": {
         "title_ids": ["BLES00650"],
         "comm_ids": ["NPWR00849"]
     },
-    "Cross Edge (US)": {
+    "Cross Edge [US]": {
         "title_ids": ["BLUS30348"],
         "comm_ids": ["NPWR00691"]
     },
@@ -1599,11 +1599,11 @@
         "title_ids": ["BLES00705"],
         "comm_ids": ["NPWR00986"]
     },
-    "Darksiders II (EU)": {
+    "Darksiders II [EU]": {
         "title_ids": ["BLES01597"],
         "comm_ids": ["NPWR03174"]
     },
-    "Darksiders II (JP)": {
+    "Darksiders II [JP]": {
         "title_ids": ["BLJS10199"],
         "comm_ids": ["NPWR03948"]
     },
@@ -1639,7 +1639,7 @@
         "title_ids": ["BLES01681", "BLUS30790", "BLES00749", "BLUS31026", "BLES01958"],
         "comm_ids": ["NPWR00956"]
     },
-    "Dead Island (JP)": {
+    "Dead Island [JP]": {
         "title_ids": ["BLJS10148", "BLJS10198"],
         "comm_ids": ["NPWR02471"]
     },
@@ -1647,7 +1647,7 @@
         "title_ids": ["BLES01739", "BLES01956", "BLUS31052"],
         "comm_ids": ["NPWR03806"]
     },
-    "Dead Island Riptide (JP)": {
+    "Dead Island Riptide [JP]": {
         "title_ids": ["BLJS10228", "NPJB00413"],
         "comm_ids": ["NPWR04746"]
     },
@@ -1683,7 +1683,7 @@
         "title_ids": ["BLES01190", "BLUS30717"],
         "comm_ids": ["NPWR01438"]
     },
-    "Dead Space 2 (DE)": {
+    "Dead Space 2 [DE]": {
         "title_ids": ["BLES01267"],
         "comm_ids": ["NPWR01782"]
     },
@@ -1747,19 +1747,19 @@
         "title_ids": ["NPUB30292"],
         "comm_ids": ["NPWR01375"]
     },
-    "Deception IV: Blood Ties (EU)": {
+    "Deception IV: Blood Ties [EU]": {
         "title_ids": ["BLES01997"],
         "comm_ids": ["NPWR06035"]
     },
-    "Deception IV: Blood Ties (US)": {
+    "Deception IV: Blood Ties [US]": {
         "title_ids": ["NPUB31442"],
         "comm_ids": ["NPWR06034"]
     },
-    "Deception IV: The Nightmare Princess (EU)": {
+    "Deception IV: The Nightmare Princess [EU]": {
         "title_ids": ["NPEB02325"],
         "comm_ids": ["NPWR09250"]
     },
-    "Deception IV: The Nightmare Princess (US)": {
+    "Deception IV: The Nightmare Princess [US]": {
         "title_ids": ["NPUB31752"],
         "comm_ids": ["NPWR09249"]
     },
@@ -1791,11 +1791,11 @@
         "title_ids": ["BLES00932"],
         "comm_ids": ["NPWR01249"]
     },
-    "Demon's Souls (ASIA)": {
+    "Demon's Souls [ASIA]": {
         "title_ids": ["BCAS20071", "BCJS30022"],
         "comm_ids": ["NPWR00245"]
     },
-    "Demon's Souls (US)": {
+    "Demon's Souls [US]": {
         "title_ids": ["BLUS30443"],
         "comm_ids": ["NPWR00881"]
     },
@@ -1803,19 +1803,19 @@
         "title_ids": ["BLUD80018"],
         "comm_ids": ["NPWR00919"]
     },
-    "Dengeki Bunko: Fighting Climax (ASIA)": {
+    "Dengeki Bunko: Fighting Climax [ASIA]": {
         "title_ids": ["BLAS50781"],
         "comm_ids": ["NPWR08354"]
     },
-    "Dengeki Bunko: Fighting Climax (EU)": {
+    "Dengeki Bunko: Fighting Climax [EU]": {
         "title_ids": ["NPEB02243"],
         "comm_ids": ["NPWR08862"]
     },
-    "Dengeki Bunko: Fighting Climax (JP)": {
+    "Dengeki Bunko: Fighting Climax [JP]": {
         "title_ids": ["NPJB00580"],
         "comm_ids": ["NPWR07672"]
     },
-    "Dengeki Bunko: Fighting Climax (US)": {
+    "Dengeki Bunko: Fighting Climax [US]": {
         "title_ids": ["BLUS31535"],
         "comm_ids": ["NPWR08852"]
     },
@@ -1887,47 +1887,47 @@
         "title_ids": ["BLES01578"],
         "comm_ids": ["NPWR03108"]
     },
-    "Disgaea 3: Absence of Justice (EU)": {
+    "Disgaea 3: Absence of Justice [EU]": {
         "title_ids": ["BLES00452"],
         "comm_ids": ["NPWR00827"]
     },
-    "Disgaea 3: Absence of Justice (JP)": {
+    "Disgaea 3: Absence of Justice [JP]": {
         "title_ids": ["BLJS10011"],
         "comm_ids": ["NPWR00400"]
     },
-    "Disgaea 3: Absence of Justice (US)": {
+    "Disgaea 3: Absence of Justice [US]": {
         "title_ids": ["BLUS30181"],
         "comm_ids": ["NPWR00416"]
     },
-    "Disgaea 4: A Promise Unforgotten (ASIA)": {
+    "Disgaea 4: A Promise Unforgotten [ASIA]": {
         "title_ids": ["BCAS20185"],
         "comm_ids": ["NPWR02063"]
     },
-    "Disgaea 4: A Promise Unforgotten (EU)": {
+    "Disgaea 4: A Promise Unforgotten [EU]": {
         "title_ids": ["BLES01225"],
         "comm_ids": ["NPWR02062"]
     },
-    "Disgaea 4: A Promise Unforgotten (JP)": {
+    "Disgaea 4: A Promise Unforgotten [JP]": {
         "title_ids": ["BLJS10095"],
         "comm_ids": ["NPWR01631"]
     },
-    "Disgaea 4: A Promise Unforgotten (KOR)": {
+    "Disgaea 4: A Promise Unforgotten [KOR]": {
         "title_ids": ["BCKS10178"],
         "comm_ids": ["NPWR02064"]
     },
-    "Disgaea 4: A Promise Unforgotten (US)": {
+    "Disgaea 4: A Promise Unforgotten [US]": {
         "title_ids": ["BLUS30727"],
         "comm_ids": ["NPWR02060"]
     },
-    "Disgaea D2: A Brighter Darkness (ASIA)": {
+    "Disgaea D2: A Brighter Darkness [ASIA]": {
         "title_ids": ["BCAS20301"],
         "comm_ids": ["NPWR05116"]
     },
-    "Disgaea D2: A Brighter Darkness (EU)": {
+    "Disgaea D2: A Brighter Darkness [EU]": {
         "title_ids": ["BLES01939"],
         "comm_ids": ["NPWR05031"]
     },
-    "Disgaea D2: A Brighter Darkness (US)": {
+    "Disgaea D2: A Brighter Darkness [US]": {
         "title_ids": ["BLUS31313"],
         "comm_ids": ["NPWR05028"]
     },
@@ -1959,11 +1959,11 @@
         "title_ids": ["BLES01730"],
         "comm_ids": ["NPWR03780"]
     },
-    "Disney Sing It: Family Hits (EU)": {
+    "Disney Sing It: Family Hits [EU]": {
         "title_ids": ["BLES00889"],
         "comm_ids": ["NPWR01230"]
     },
-    "Disney Sing It: Family Hits (US)": {
+    "Disney Sing It: Family Hits [US]": {
         "title_ids": ["BLUS30508"],
         "comm_ids": ["NPWR01147"]
     },
@@ -1983,11 +1983,11 @@
         "title_ids": ["BLJM61067"],
         "comm_ids": ["NPWR04716"]
     },
-    "Divekick (JP)": {
+    "Divekick [JP]": {
         "title_ids": ["NPJB00656"],
         "comm_ids": ["NPWR07305"]
     },
-    "Divekick (US)": {
+    "Divekick [US]": {
         "title_ids": ["NPUB31279"],
         "comm_ids": ["NPWR04810"]
     },
@@ -2035,19 +2035,19 @@
         "title_ids": ["NPUB31590"],
         "comm_ids": ["NPWR08012"]
     },
-    "Doodle Devil (EU)": {
+    "Doodle Devil [EU]": {
         "title_ids": ["NPEB02315"],
         "comm_ids": ["NPWR09164"]
     },
-    "Doodle Devil (US)": {
+    "Doodle Devil [US]": {
         "title_ids": ["NPUB31775"],
         "comm_ids": ["NPWR10183"]
     },
-    "Doodle God (EU)": {
+    "Doodle God [EU]": {
         "title_ids": ["NPEB01233"],
         "comm_ids": ["NPWR08993"]
     },
-    "Doodle God (US)": {
+    "Doodle God [US]": {
         "title_ids": ["NPUB30954"],
         "comm_ids": ["NPWR10182"]
     },
@@ -2075,7 +2075,7 @@
         "title_ids": ["BLES01084", "BLUS30645"],
         "comm_ids": ["NPWR01512"]
     },
-    "Dragon Age II (JP)": {
+    "Dragon Age II [JP]": {
         "title_ids": ["BLJS10161"],
         "comm_ids": ["NPWR02747"]
     },
@@ -2087,7 +2087,7 @@
         "title_ids": ["BLES00699", "BLUS30415"],
         "comm_ids": ["NPWR00845"]
     },
-    "Dragon Age: Origins (JP)": {
+    "Dragon Age: Origins [JP]": {
         "title_ids": ["BLJS10103"],
         "comm_ids": ["NPWR01628"]
     },
@@ -2175,11 +2175,11 @@
         "title_ids": ["NPEB01882"],
         "comm_ids": ["NPWR05834"]
     },
-    "Duke Nukem Forever (JP)": {
+    "Duke Nukem Forever [JP]": {
         "title_ids": ["BLJS10121"],
         "comm_ids": ["NPWR02582"]
     },
-    "Duke Nukem Forever (US)": {
+    "Duke Nukem Forever [US]": {
         "title_ids": ["BLUS30615"],
         "comm_ids": ["NPWR01392"]
     },
@@ -2227,11 +2227,11 @@
         "title_ids": ["BLUS30306"],
         "comm_ids": ["NPWR00720"]
     },
-    "Dynasty Warriors 7 (ASIA)": {
+    "Dynasty Warriors 7 [ASIA]": {
         "title_ids": ["BLAS50308"],
         "comm_ids": ["NPWR01740"]
     },
-    "Dynasty Warriors 7 (US)": {
+    "Dynasty Warriors 7 [US]": {
         "title_ids": ["BLUS30690"],
         "comm_ids": ["NPWR01739"]
     },
@@ -2263,11 +2263,11 @@
         "title_ids": ["BLES01301"],
         "comm_ids": ["NPWR01386"]
     },
-    "Dynasty Warriors: Gundam Reborn (EU)": {
+    "Dynasty Warriors: Gundam Reborn [EU]": {
         "title_ids": ["BLES02057"],
         "comm_ids": ["NPWR06751"]
     },
-    "Dynasty Warriors: Gundam Reborn (JP)": {
+    "Dynasty Warriors: Gundam Reborn [JP]": {
         "title_ids": ["BLJM61140"],
         "comm_ids": ["NPWR05321"]
     },
@@ -2291,11 +2291,11 @@
         "title_ids": ["BLES00987", "BLUS30567", "BLJM60266"],
         "comm_ids": ["NPWR01360"]
     },
-    "Earth Defense Force 2025 (JP)": {
+    "Earth Defense Force 2025 [JP]": {
         "title_ids": ["BLJS10209"],
         "comm_ids": ["NPWR04336"]
     },
-    "Earth Defense Force 2025 (US)": {
+    "Earth Defense Force 2025 [US]": {
         "title_ids": ["BLUS31160"],
         "comm_ids": ["NPWR05300"]
     },
@@ -2323,11 +2323,11 @@
         "title_ids": ["NPUA80473", "BCAS20133"],
         "comm_ids": ["NPWR01262"]
     },
-    "Eiyuu Senki: The World Conquest (EU)": {
+    "Eiyuu Senki: The World Conquest [EU]": {
         "title_ids": ["NPEB02102"],
         "comm_ids": ["NPWR07172"]
     },
-    "Eiyuu Senki: The World Conquest (JP)": {
+    "Eiyuu Senki: The World Conquest [JP]": {
         "title_ids": ["BLJM61072"],
         "comm_ids": ["NPWR04986"]
     },
@@ -2399,7 +2399,7 @@
         "title_ids": ["BCAS20276", "NPHA80248"],
         "comm_ids": ["NPWR04429"]
     },
-    "Everybody's Golf 6 (JP)": {
+    "Everybody's Golf 6 [JP]": {
         "title_ids": ["BCJS30089"],
         "comm_ids": ["NPWR03752"]
     },
@@ -2435,11 +2435,11 @@
         "title_ids": ["BLUS30003"],
         "comm_ids": ["NPWR00026"]
     },
-    "F.E.A.R. 2: Project Origin (JP)": {
+    "F.E.A.R. 2: Project Origin [JP]": {
         "title_ids": ["BLJM60160"],
         "comm_ids": ["NPWR00819"]
     },
-    "F.E.A.R. 2: Project Origin (US)": {
+    "F.E.A.R. 2: Project Origin [US]": {
         "title_ids": ["BLUS30251"],
         "comm_ids": ["NPWR00468"]
     },
@@ -2479,11 +2479,11 @@
         "title_ids": ["NPUB30250"],
         "comm_ids": ["NPWR01454"]
     },
-    "Fairy Fencer F (KO)": {
+    "Fairy Fencer F [KO]": {
         "title_ids": ["BLKS20475"],
         "comm_ids": ["NPWR06224"]
     },
-    "Fairy Fencer F (US)": {
+    "Fairy Fencer F [US]": {
         "title_ids": ["BLUS31423"],
         "comm_ids": ["NPWR06363"]
     },
@@ -2491,11 +2491,11 @@
         "title_ids": ["BLUS30456", "NPHB00206"],
         "comm_ids": ["NPWR00870"]
     },
-    "Falling Skies: The Game (EU)": {
+    "Falling Skies: The Game [EU]": {
         "title_ids": ["NPEB02043"],
         "comm_ids": ["NPWR07178"]
     },
-    "Falling Skies: The Game (US)": {
+    "Falling Skies: The Game [US]": {
         "title_ids": ["BLUS31195"],
         "comm_ids": ["NPWR06264"]
     },
@@ -2519,11 +2519,11 @@
         "title_ids": ["BLUS30578", "BLES00973"],
         "comm_ids": ["NPWR01321"]
     },
-    "Family Game Night 4 (EU)": {
+    "Family Game Night 4 [EU]": {
         "title_ids": ["BLES01364"],
         "comm_ids": ["NPWR01878"]
     },
-    "Family Game Night 4 (US)": {
+    "Family Game Night 4 [US]": {
         "title_ids": ["BLUS30802"],
         "comm_ids": ["NPWR02720"]
     },
@@ -2679,11 +2679,11 @@
         "title_ids": ["NPUB30929"],
         "comm_ids": ["NPWR03868"]
     },
-    "Final Exam (EU)": {
+    "Final Exam [EU]": {
         "title_ids": ["NPEB01409"],
         "comm_ids": ["NPWR04731"]
     },
-    "Final Exam (JP)": {
+    "Final Exam [JP]": {
         "title_ids": ["NPJB00546"],
         "comm_ids": ["NPWR05741"]
     },
@@ -2711,11 +2711,11 @@
         "title_ids": ["NPUB30087"],
         "comm_ids": ["NPWR00897"]
     },
-    "Fist of the North Star: Ken's Rage (EU/US)": {
+    "Fist of the North Star: Ken's Rage [EU/US]": {
         "title_ids": ["BLES01062", "BLUS30504"],
         "comm_ids": ["NPWR01455"]
     },
-    "Fist of the North Star: Ken's Rage (JP)": {
+    "Fist of the North Star: Ken's Rage [JP]": {
         "title_ids": ["BLJM60196"],
         "comm_ids": ["NPWR01024"]
     },
@@ -2723,7 +2723,7 @@
         "title_ids": ["BLES01801"],
         "comm_ids": ["NPWR04298"]
     },
-    "Fist of the North Star: Ken's Rage 2 (JP)": {
+    "Fist of the North Star: Ken's Rage 2 [JP]": {
         "title_ids": ["BLJM60553"],
         "comm_ids": ["NPWR03982"]
     },
@@ -2775,11 +2775,11 @@
         "title_ids": ["BLES00559"],
         "comm_ids": ["NPWR00710"]
     },
-    "Frogger Returns (EU)": {
+    "Frogger Returns [EU]": {
         "title_ids": ["NPEB00162"],
         "comm_ids": ["NPWR00944"]
     },
-    "Frogger Returns (US)": {
+    "Frogger Returns [US]": {
         "title_ids": ["NPUB30118"],
         "comm_ids": ["NPWR00893"]
     },
@@ -2811,11 +2811,11 @@
         "title_ids": ["NPEB00876"],
         "comm_ids": ["NPWR03045"]
     },
-    "Full Auto 2: Battlelines (EU)": {
+    "Full Auto 2: Battlelines [EU]": {
         "title_ids": ["BLES00015"],
         "comm_ids": ["BLES00015"]
     },
-    "Full Auto 2: Battlelines (US)": {
+    "Full Auto 2: Battlelines [US]": {
         "title_ids": ["BLUS30009"],
         "comm_ids": ["BLUS30009"]
     },
@@ -2831,11 +2831,11 @@
         "title_ids": ["BLES00574", "BLUS30354"],
         "comm_ids": ["NPWR00701"]
     },
-    "G.I. Joe: The Rise of Cobra (EU)": {
+    "G.I. Joe: The Rise of Cobra [EU]": {
         "title_ids": ["BLES00590"],
         "comm_ids": ["NPWR00742"]
     },
-    "G.I. Joe: The Rise of Cobra (US)": {
+    "G.I. Joe: The Rise of Cobra [US]": {
         "title_ids": ["BLUS30326"],
         "comm_ids": ["NPWR00721"]
     },
@@ -2847,15 +2847,15 @@
         "title_ids": ["NPUB30321"],
         "comm_ids": ["NPWR01703"]
     },
-    "Game of Thrones (EU)": {
+    "Game of Thrones [EU]": {
         "title_ids": ["NPEB01098"],
         "comm_ids": ["NPWR03138"]
     },
-    "Game of Thrones (US)": {
+    "Game of Thrones [US]": {
         "title_ids": ["BLUS30939"],
         "comm_ids": ["NPWR03221"]
     },
-    "Game of Thrones: A Telltale Games Series (EU)": {
+    "Game of Thrones: A Telltale Games Series [EU]": {
         "title_ids": ["NPEB02183"],
         "comm_ids": ["NPWR07881"]
     },
@@ -2951,11 +2951,11 @@
         "title_ids": [""],
         "comm_ids": ["NPWR02071"]
     },
-    "Godzilla (EU)": {
+    "Godzilla [EU]": {
         "title_ids": ["BLES02164"],
         "comm_ids": ["NPWR08709"]
     },
-    "Godzilla (JP)": {
+    "Godzilla [JP]": {
         "title_ids": ["BLJS10291"],
         "comm_ids": ["NPWR07292"]
     },
@@ -3047,11 +3047,11 @@
         "title_ids": ["NPEB00060"],
         "comm_ids": ["NPWR00284"]
     },
-    "Guacamelee! (EU)": {
+    "Guacamelee! [EU]": {
         "title_ids": ["NPEB01141"],
         "comm_ids": ["NPWR03776"]
     },
-    "Guacamelee! (JP)": {
+    "Guacamelee! [JP]": {
         "title_ids": ["NPJB00612"],
         "comm_ids": ["NPWR06387"]
     },
@@ -3199,15 +3199,15 @@
         "title_ids": ["NPJB00201"],
         "comm_ids": ["NPWR03492"]
     },
-    "Hatsune Miku: Project DIVA F (JP)": {
+    "Hatsune Miku: Project DIVA F [JP]": {
         "title_ids": ["BLJM60527"],
         "comm_ids": ["NPWR03591"]
     },
-    "Hatsune Miku: Project DIVA F (US)": {
+    "Hatsune Miku: Project DIVA F [US]": {
         "title_ids": ["BLUS31319"],
         "comm_ids": ["NPWR04679"]
     },
-    "Hatsune Miku: Project DIVA F 2nd (US)": {
+    "Hatsune Miku: Project DIVA F 2nd [US]": {
         "title_ids": ["BLUS31431"],
         "comm_ids": ["NPWR05394"]
     },
@@ -3215,11 +3215,11 @@
         "title_ids": ["BLUS31000", "BLJM60570"],
         "comm_ids": ["NPWR03830"]
     },
-    "Heavy Fire: Afghanistan (EU)": {
+    "Heavy Fire: Afghanistan [EU]": {
         "title_ids": ["BLES01602"],
         "comm_ids": ["NPWR02575"]
     },
-    "Heavy Fire: Afghanistan (JP)": {
+    "Heavy Fire: Afghanistan [JP]": {
         "title_ids": ["BLJM60504"],
         "comm_ids": ["NPWR03594"]
     },
@@ -3227,11 +3227,11 @@
         "title_ids": ["BCUS98164", "BCAS20107"],
         "comm_ids": ["NPWR00324"]
     },
-    "Heavy Weapon (EU)": {
+    "Heavy Weapon [EU]": {
         "title_ids": ["NPEA00130"],
         "comm_ids": ["NPWR00829"]
     },
-    "Heavy Weapon (US)": {
+    "Heavy Weapon [US]": {
         "title_ids": ["NPUA30004"],
         "comm_ids": ["NPWR00570"]
     },
@@ -3331,11 +3331,11 @@
         "title_ids": ["BLUS31388"],
         "comm_ids": ["NPWR06265"]
     },
-    "Hunted: The Demon's Forge (EU)": {
+    "Hunted: The Demon's Forge [EU]": {
         "title_ids": ["BLES01309"],
         "comm_ids": ["NPWR01431"]
     },
-    "Hunted: The Demon's Forge (JP)": {
+    "Hunted: The Demon's Forge [JP]": {
         "title_ids": ["BLJM60333"],
         "comm_ids": ["NPWR02036"]
     },
@@ -3375,31 +3375,31 @@
         "title_ids": ["BLJM60992"],
         "comm_ids": ["NPWR02157"]
     },
-    "Hyperdimension Neptunia (EU)": {
+    "Hyperdimension Neptunia [EU]": {
         "title_ids": ["BLES01178"],
         "comm_ids": ["NPWR01663"]
     },
-    "Hyperdimension Neptunia (JP)": {
+    "Hyperdimension Neptunia [JP]": {
         "title_ids": ["BLJM60247"],
         "comm_ids": ["NPWR01314"]
     },
-    "Hyperdimension Neptunia (KO)": {
+    "Hyperdimension Neptunia [KO]": {
         "title_ids": ["BLKS20241"],
         "comm_ids": ["NPWR01688"]
     },
-    "Hyperdimension Neptunia mk2 (KO)": {
+    "Hyperdimension Neptunia mk2 [KO]": {
         "title_ids": ["BLKS20353"],
         "comm_ids": ["NPWR03114"]
     },
-    "Hyperdimension Neptunia mk2 (US)": {
+    "Hyperdimension Neptunia mk2 [US]": {
         "title_ids": ["BLUS30901"],
         "comm_ids": ["NPWR02849"]
     },
-    "Hyperdimension Neptunia Victory (KO)": {
+    "Hyperdimension Neptunia Victory [KO]": {
         "title_ids": ["BLKS20417"],
         "comm_ids": ["NPWR04454"]
     },
-    "Hyperdimension Neptunia Victory (US)": {
+    "Hyperdimension Neptunia Victory [US]": {
         "title_ids": ["BLUS31150"],
         "comm_ids": ["NPWR04202"]
     },
@@ -3431,15 +3431,15 @@
         "title_ids": ["BLES00648"],
         "comm_ids": ["NPWR00709"]
     },
-    "In Space We Brawl (EU)": {
+    "In Space We Brawl [EU]": {
         "title_ids": ["NPEB02160"],
         "comm_ids": ["NPWR07661"]
     },
-    "In Space We Brawl (JP)": {
+    "In Space We Brawl [JP]": {
         "title_ids": ["NPJB00775"],
         "comm_ids": ["NPWR09621"]
     },
-    "In Space We Brawl (US)": {
+    "In Space We Brawl [US]": {
         "title_ids": ["NPUB31625"],
         "comm_ids": ["NPWR07794"]
     },
@@ -3507,11 +3507,11 @@
         "title_ids": ["BCES01700", "BCES01970"],
         "comm_ids": ["NPWR04605"]
     },
-    "Invokers Tournament (EU)": {
+    "Invokers Tournament [EU]": {
         "title_ids": ["NPEB02029"],
         "comm_ids": ["NPWR06502"]
     },
-    "Invokers Tournament (US)": {
+    "Invokers Tournament [US]": {
         "title_ids": ["NPUB31671"],
         "comm_ids": ["NPWR08655"]
     },
@@ -3527,15 +3527,15 @@
         "title_ids": ["BLES01786"],
         "comm_ids": ["NPWR04211"]
     },
-    "J-STARS Victory VS+ (EU)": {
+    "J-STARS Victory VS+ [EU]": {
         "title_ids": ["BLES02136"],
         "comm_ids": ["NPWR08153"]
     },
-    "J-STARS Victory VS+ (JP)": {
+    "J-STARS Victory VS+ [JP]": {
         "title_ids": ["BLJS10258"],
         "comm_ids": ["NPWR05794"]
     },
-    "J-STARS Victory VS+ (US)": {
+    "J-STARS Victory VS+ [US]": {
         "title_ids": ["NPUB31647"],
         "comm_ids": ["NPWR08138"]
     },
@@ -3623,11 +3623,11 @@
         "title_ids": ["BLJM61317"],
         "comm_ids": ["NPWR09648"]
     },
-    "Jimmie Johnson's Anything With An Engine (Digital)": {
+    "Jimmie Johnson's Anything With An Engine [NPUB31471]": {
         "title_ids": ["NPUB31471"],
         "comm_ids": ["NPWR06314"]
     },
-    "Jimmie Johnson's Anything With An Engine (Disc)": {
+    "Jimmie Johnson's Anything With An Engine [BLUS30897]": {
         "title_ids": ["BLUS30897"],
         "comm_ids": ["NPWR01736"]
     },
@@ -3647,11 +3647,11 @@
         "title_ids": ["NPEB00956"],
         "comm_ids": ["NPWR03165"]
     },
-    "JoJo's Bizarre Adventure: All-Star Battle (EU/US)": {
+    "JoJo's Bizarre Adventure: All-Star Battle [EU/US]": {
         "title_ids": ["BLES01986", "BLUS31405", "NPEB01922", "NPUB31391"],
         "comm_ids": ["NPWR05840"]
     },
-    "JoJo's Bizarre Adventure: All-Star Battle (JP)": {
+    "JoJo's Bizarre Adventure: All-Star Battle [JP]": {
         "title_ids": ["BLJS10217", "NPJB00331"],
         "comm_ids": ["NPWR03545"]
     },
@@ -3839,11 +3839,11 @@
         "title_ids": [""],
         "comm_ids": ["NPWR06246"]
     },
-    "Kingdoms of Amalur: Reckoning (EU)": {
+    "Kingdoms of Amalur: Reckoning [EU]": {
         "title_ids": ["BLES01251"],
         "comm_ids": ["NPWR02553"]
     },
-    "Kingdoms of Amalur: Reckoning (JP)": {
+    "Kingdoms of Amalur: Reckoning [JP]": {
         "title_ids": ["BLJS10191"],
         "comm_ids": ["NPWR03670"]
     },
@@ -3859,11 +3859,11 @@
         "title_ids": ["NPUB30820"],
         "comm_ids": ["NPWR04144"]
     },
-    "Krinkle Krusher (EU)": {
+    "Krinkle Krusher [EU]": {
         "title_ids": ["NPEB02403"],
         "comm_ids": ["NPWR10757"]
     },
-    "Krinkle Krusher (US)": {
+    "Krinkle Krusher [US]": {
         "title_ids": ["NPUB31670"],
         "comm_ids": ["NPWR08376"]
     },
@@ -3915,11 +3915,11 @@
         "title_ids": ["NPEB00311"],
         "comm_ids": ["NPWR01275"]
     },
-    "Last Rebellion (EU)": {
+    "Last Rebellion [EU]": {
         "title_ids": ["BLES00861"],
         "comm_ids": ["NPWR01116"]
     },
-    "Last Rebellion (JP)": {
+    "Last Rebellion [JP]": {
         "title_ids": ["BLJS10070"],
         "comm_ids": ["NPWR00990"]
     },
@@ -3947,19 +3947,19 @@
         "title_ids": ["BLES00405", "BLUS30210"],
         "comm_ids": [""]
     },
-    "Legends of War: Patton (US Digital)": {
+    "Legends of War: Patton [NPUB31185]": {
         "title_ids": ["NPUB31185"],
         "comm_ids": ["NPWR04503"]
     },
-    "Legends of War: Patton's Campaign (EU Digital)": {
+    "Legends of War: Patton's Campaign [NPEB01311]": {
         "title_ids": ["NPEB01311"],
         "comm_ids": ["NPWR04433"]
     },
-    "Legends of War: Patton's Campaign (EU Disc)": {
+    "Legends of War: Patton's Campaign [BLES01744]": {
         "title_ids": ["BLES01744"],
         "comm_ids": ["NPWR03821"]
     },
-    "Legends of War: Patton's Campaign (US Disc)": {
+    "Legends of War: Patton's Campaign [BLUS31079]": {
         "title_ids": ["BLUS31079"],
         "comm_ids": ["NPWR04003"]
     },
@@ -3983,11 +3983,11 @@
         "title_ids": ["BLES01348"],
         "comm_ids": ["NPWR02159"]
     },
-    "LEGO Indiana Jones 2: The Adventure Continues (EU)": {
+    "LEGO Indiana Jones 2: The Adventure Continues [EU]": {
         "title_ids": ["BLES00763"],
         "comm_ids": ["NPWR00994"]
     },
-    "LEGO Indiana Jones 2: The Adventure Continues (US)": {
+    "LEGO Indiana Jones 2: The Adventure Continues [US]": {
         "title_ids": ["BLUS30425"],
         "comm_ids": ["NPWR00808"]
     },
@@ -4031,15 +4031,15 @@
         "title_ids": ["BLUS30331"],
         "comm_ids": ["NPWR00687"]
     },
-    "Lemmings (EU)": {
+    "Lemmings [EU]": {
         "title_ids": ["NPEA00004"],
         "comm_ids": ["NPWR00032"]
     },
-    "Lemmings (JP)": {
+    "Lemmings [JP]": {
         "title_ids": ["NPJA00005"],
         "comm_ids": ["NPWR00049"]
     },
-    "Lemmings (US)": {
+    "Lemmings [US]": {
         "title_ids": ["NPUA80012"],
         "comm_ids": ["NPWR00044"]
     },
@@ -4135,15 +4135,15 @@
         "title_ids": ["BLUS31004"],
         "comm_ids": ["NPWR03500"]
     },
-    "Lost Dimension (EU)": {
+    "Lost Dimension [EU]": {
         "title_ids": ["NPEB02326", "BLES02197"],
         "comm_ids": ["NPWR09212"]
     },
-    "Lost Dimension (JP)": {
+    "Lost Dimension [JP]": {
         "title_ids": ["BLJM61166"],
         "comm_ids": ["NPWR05952"]
     },
-    "Lost Dimension (US)": {
+    "Lost Dimension [US]": {
         "title_ids": ["BLUS31554"],
         "comm_ids": ["NPWR08809"]
     },
@@ -4235,7 +4235,7 @@
         "title_ids": ["NPUB30656", "BLES01165", "BLES01166"],
         "comm_ids": ["NPWR00772"]
     },
-    "Mafia II (JP)": {
+    "Mafia II [JP]": {
         "title_ids": ["BLJM60270"],
         "comm_ids": ["NPWR01436"]
     },
@@ -4243,7 +4243,7 @@
         "title_ids": ["BCES00818", "NPUA70052", "BCAS20081"],
         "comm_ids": ["NPWR00380"]
     },
-    "MAG (JP)": {
+    "MAG [JP]": {
         "title_ids": ["BCJS30036"],
         "comm_ids": ["NPWR01037"]
     },
@@ -4287,31 +4287,31 @@
         "title_ids": ["BLUS30472"],
         "comm_ids": ["NPWR01558"]
     },
-    "Major League Baseball 2K10 (JP)": {
+    "Major League Baseball 2K10 [JP]": {
         "title_ids": ["BLJS10090"],
         "comm_ids": ["NPWR01311"]
     },
-    "Major League Baseball 2K10 (US)": {
+    "Major League Baseball 2K10 [US]": {
         "title_ids": ["BLUS30506"],
         "comm_ids": ["NPWR00989"]
     },
-    "Major League Baseball 2K11 (EU)": {
+    "Major League Baseball 2K11 [EU]": {
         "title_ids": ["BLES01321"],
         "comm_ids": ["NPWR01894"]
     },
-    "Major League Baseball 2K11 (JP)": {
+    "Major League Baseball 2K11 [JP]": {
         "title_ids": ["BLJS10112"],
         "comm_ids": ["NPWR01887"]
     },
-    "Major League Baseball 2K11 (US)": {
+    "Major League Baseball 2K11 [US]": {
         "title_ids": ["BLUS30719"],
         "comm_ids": ["NPWR01718"]
     },
-    "Major League Baseball 2K12 (JP)": {
+    "Major League Baseball 2K12 [JP]": {
         "title_ids": ["BLJS10169"],
         "comm_ids": ["NPWR03279"]
     },
-    "Major League Baseball 2K12 (US)": {
+    "Major League Baseball 2K12 [US]": {
         "title_ids": ["BLUS30931"],
         "comm_ids": ["NPWR03109"]
     },
@@ -4427,11 +4427,11 @@
         "title_ids": ["BLES01636", "BLUS30990", "BLJM60541"],
         "comm_ids": ["NPWR03622"]
     },
-    "Medieval Moves (EU)": {
+    "Medieval Moves [EU]": {
         "title_ids": ["NPEA00334"],
         "comm_ids": ["NPWR02777"]
     },
-    "Medieval Moves (US)": {
+    "Medieval Moves [US]": {
         "title_ids": ["BCUS98279", "BCAS20204"],
         "comm_ids": ["NPWR02260"]
     },
@@ -4495,11 +4495,11 @@
         "title_ids": ["BLUS31184"],
         "comm_ids": ["NPWR03198"]
     },
-    "Metropolis Defenders (ASIA)": {
+    "Metropolis Defenders [ASIA]": {
         "title_ids": ["NPHB00727"],
         "comm_ids": ["NPWR09422"]
     },
-    "Metropolis Defenders (JP)": {
+    "Metropolis Defenders [JP]": {
         "title_ids": ["NPJB00608"],
         "comm_ids": ["NPWR06310"]
     },
@@ -4615,11 +4615,11 @@
         "title_ids": ["BLJS10050"],
         "comm_ids": ["NPWR00134"]
     },
-    "Mobile Suit Gundam Side Stories (ASIA)": {
+    "Mobile Suit Gundam Side Stories [ASIA]": {
         "title_ids": ["BLAS50710"],
         "comm_ids": ["NPWR06754"]
     },
-    "Mobile Suit Gundam Side Stories (JP)": {
+    "Mobile Suit Gundam Side Stories [JP]": {
         "title_ids": ["BLJS10270"],
         "comm_ids": ["NPWR06202"]
     },
@@ -4675,7 +4675,7 @@
         "title_ids": ["BLES02199"],
         "comm_ids": ["NPWR09895"]
     },
-    "Monster High - New Ghoul in School (US)": {
+    "Monster High - New Ghoul in School [US]": {
         "title_ids": ["NPUB31754"],
         "comm_ids": ["NPWR09251"]
     },
@@ -4803,23 +4803,23 @@
         "title_ids": ["BLUS31154"],
         "comm_ids": ["NPWR02908"]
     },
-    "Mugen Souls (EU)": {
+    "Mugen Souls [EU]": {
         "title_ids": ["BLES01723"],
         "comm_ids": ["NPWR03686"]
     },
-    "Mugen Souls (JP)": {
+    "Mugen Souls [JP]": {
         "title_ids": ["BLJM60456"],
         "comm_ids": ["NPWR03137"]
     },
-    "Mugen Souls Z (JP)": {
+    "Mugen Souls Z [JP]": {
         "title_ids": ["BLJM61028"],
         "comm_ids": ["NPWR04416"]
     },
-    "Mugen Souls Z (KOR)": {
+    "Mugen Souls Z [KOR]": {
         "title_ids": ["BLKS20444"],
         "comm_ids": ["NPWR05120"]
     },
-    "Mugen Souls Z (US)": {
+    "Mugen Souls Z [US]": {
         "title_ids": ["NPUB31464"],
         "comm_ids": ["NPWR06308"]
     },
@@ -4935,11 +4935,11 @@
         "title_ids": ["BLJS10273"],
         "comm_ids": ["NPWR08075"]
     },
-    "NAtURAL DOCtRINE (JP)": {
+    "NAtURAL DOCtRINE [JP]": {
         "title_ids": ["BLJS10268"],
         "comm_ids": ["NPWR04020"]
     },
-    "NAtURAL DOCtRINE (US)": {
+    "NAtURAL DOCtRINE [US]": {
         "title_ids": ["BLUS31453"],
         "comm_ids": ["NPWR06992"]
     },
@@ -4959,11 +4959,11 @@
         "title_ids": ["BCUS98165"],
         "comm_ids": ["NPWR00471"]
     },
-    "NBA 2K10 (EU/US)": {
+    "NBA 2K10 [EU/US]": {
         "title_ids": ["BLUS30402", "BLES00655"],
         "comm_ids": ["NPWR00582"]
     },
-    "NBA 2K10 (JP)": {
+    "NBA 2K10 [JP]": {
         "title_ids": ["BLJS10064"],
         "comm_ids": ["NPWR00982"]
     },
@@ -5131,11 +5131,11 @@
         "title_ids": ["BLUS31540"],
         "comm_ids": ["NPWR08503"]
     },
-    "Ni no Kuni: Wrath of the White Witch (EU)": {
+    "Ni no Kuni: Wrath of the White Witch [EU]": {
         "title_ids": ["BLES01555"],
         "comm_ids": ["NPWR03632"]
     },
-    "Ni no Kuni: Wrath of the White Witch (JP)": {
+    "Ni no Kuni: Wrath of the White Witch [JP]": {
         "title_ids": ["BLJS10150"],
         "comm_ids": ["NPWR02389"]
     },
@@ -5227,11 +5227,11 @@
         "title_ids": ["NPEB00645"],
         "comm_ids": ["NPWR02292"]
     },
-    "Odin Sphere Leifthrasir (JP)": {
+    "Odin Sphere Leifthrasir [JP]": {
         "title_ids": ["BLJM61239"],
         "comm_ids": ["NPWR07394"]
     },
-    "Odin Sphere Leifthrasir (US)": {
+    "Odin Sphere Leifthrasir [US]": {
         "title_ids": ["NPUB31840"],
         "comm_ids": ["NPWR10696"]
     },
@@ -5255,11 +5255,11 @@
         "title_ids": ["BLJS10272", "BLUS31427", "BLES02020", "BLAS50699"],
         "comm_ids": ["NPWR06110"]
     },
-    "One Piece: Pirate Warriors (EU)": {
+    "One Piece: Pirate Warriors [EU]": {
         "title_ids": ["BLES01672", "BLES02131"],
         "comm_ids": ["NPWR03526"]
     },
-    "One Piece: Pirate Warriors (JP)": {
+    "One Piece: Pirate Warriors [JP]": {
         "title_ids": ["BLJM60416"],
         "comm_ids": ["NPWR02652"]
     },
@@ -5267,7 +5267,7 @@
         "title_ids": ["BLES01913"],
         "comm_ids": ["NPWR04898"]
     },
-    "One Piece: Pirate Warriors 2 (ASIA/JP)": {
+    "One Piece: Pirate Warriors 2 [ASIA/JP]": {
         "title_ids": ["BLJM60572", "BLAS50597"],
         "comm_ids": ["NPWR04085"]
     },
@@ -5379,11 +5379,11 @@
         "title_ids": ["NPJB00599"],
         "comm_ids": ["NPWR06200"]
     },
-    "Persona 5 (EU/US)": {
+    "Persona 5 [EU/US]": {
         "title_ids": ["BLES02247", "BLUS31604", "NPEB02436", "NPUB31848"],
         "comm_ids": ["NPWR11866"]
     },
-    "Persona 5 (JP)": {
+    "Persona 5 [JP]": {
         "title_ids": ["BLJM61346", "NPJB00769"],
         "comm_ids": ["NPWR08958"]
     },
@@ -5555,83 +5555,83 @@
         "title_ids": ["BLES00765"],
         "comm_ids": ["NPWR00949"]
     },
-    "Pro Evolution Soccer 2010 (EU)": {
+    "Pro Evolution Soccer 2010 [EU]": {
         "title_ids": ["BLES00688"],
         "comm_ids": ["NPWR00673"]
     },
-    "Pro Evolution Soccer 2010 (US)": {
+    "Pro Evolution Soccer 2010 [US]": {
         "title_ids": ["BLUS30404"],
         "comm_ids": ["NPWR00862"]
     },
-    "Pro Evolution Soccer 2011 (EU)": {
+    "Pro Evolution Soccer 2011 [EU]": {
         "title_ids": ["BLES01020"],
         "comm_ids": ["NPWR01405"]
     },
-    "Pro Evolution Soccer 2011 (US)": {
+    "Pro Evolution Soccer 2011 [US]": {
         "title_ids": ["BLUS30610"],
         "comm_ids": ["NPWR01450"]
     },
-    "Pro Evolution Soccer 2012 (EU)": {
+    "Pro Evolution Soccer 2012 [EU]": {
         "title_ids": ["BLES01408"],
         "comm_ids": ["NPWR02300"]
     },
-    "Pro Evolution Soccer 2012 (US)": {
+    "Pro Evolution Soccer 2012 [US]": {
         "title_ids": ["BLUS30805"],
         "comm_ids": ["NPWR02490"]
     },
-    "Pro Evolution Soccer 2013 (EU)": {
+    "Pro Evolution Soccer 2013 [EU]": {
         "title_ids": ["BLES01709"],
         "comm_ids": ["NPWR03692"]
     },
-    "Pro Evolution Soccer 2013 (US)": {
+    "Pro Evolution Soccer 2013 [US]": {
         "title_ids": ["BLUS31029"],
         "comm_ids": ["NPWR03760"]
     },
-    "Pro Evolution Soccer 2014 (EU)": {
+    "Pro Evolution Soccer 2014 [EU]": {
         "title_ids": ["BLES01930"],
         "comm_ids": ["NPWR05005"]
     },
-    "Pro Evolution Soccer 2014 (US)": {
+    "Pro Evolution Soccer 2014 [US]": {
         "title_ids": ["BLUS31322"],
         "comm_ids": ["NPWR05076"]
     },
-    "Pro Evolution Soccer 2015 (EU)": {
+    "Pro Evolution Soccer 2015 [EU]": {
         "title_ids": ["BLES02088"],
         "comm_ids": ["NPWR07334"]
     },
-    "Pro Evolution Soccer 2015 (US)": {
+    "Pro Evolution Soccer 2015 [US]": {
         "title_ids": ["BLUS31480"],
         "comm_ids": ["NPWR07335"]
     },
-    "Pro Evolution Soccer 2016 (EU)": {
+    "Pro Evolution Soccer 2016 [EU]": {
         "title_ids": ["BLES02187"],
         "comm_ids": ["NPWR09148"]
     },
-    "Pro Evolution Soccer 2016 (US)": {
+    "Pro Evolution Soccer 2016 [US]": {
         "title_ids": ["BLUS31564"],
         "comm_ids": ["NPWR09147"]
     },
-    "Pro Evolution Soccer 2017 (EU)": {
+    "Pro Evolution Soccer 2017 [EU]": {
         "title_ids": ["BLES02237"],
         "comm_ids": ["NPWR11024"]
     },
-    "Pro Evolution Soccer 2017 (US)": {
+    "Pro Evolution Soccer 2017 [US]": {
         "title_ids": ["BLUS31598", "NPUB31837"],
         "comm_ids": ["NPWR11023"]
     },
-    "PRO EVOLUTION SOCCER 2018 (EU)": {
+    "PRO EVOLUTION SOCCER 2018 [EU]": {
         "title_ids": ["BLES02252"],
         "comm_ids": ["NPWR13117"]
     },
-    "PRO EVOLUTION SOCCER 2018 (US)": {
+    "PRO EVOLUTION SOCCER 2018 [US]": {
         "title_ids": ["BLUS31612", "NPUB31864"],
         "comm_ids": ["NPWR13116"]
     },
-    "Pro Foosball (EU)": {
+    "Pro Foosball [EU]": {
         "title_ids": ["NPEA00396"],
         "comm_ids": ["NPWR03641"]
     },
-    "Pro Foosball (US)": {
+    "Pro Foosball [US]": {
         "title_ids": ["NPUB31238"],
         "comm_ids": ["NPWR04670"]
     },
@@ -5719,11 +5719,11 @@
         "title_ids": ["NPUB30125"],
         "comm_ids": ["NPWR00871"]
     },
-    "Q*bert: Rebooted (EU)": {
+    "Q*bert: Rebooted [EU]": {
         "title_ids": ["NPEB02172"],
         "comm_ids": ["NPWR07966"]
     },
-    "Q*bert: Rebooted (US)": {
+    "Q*bert: Rebooted [US]": {
         "title_ids": ["NPUB31624"],
         "comm_ids": ["NPWR07965"]
     },
@@ -5743,11 +5743,11 @@
         "title_ids": ["NPUA80191"],
         "comm_ids": [""]
     },
-    "Quantum Conundrum (JP)": {
+    "Quantum Conundrum [JP]": {
         "title_ids": ["NPJB00208"],
         "comm_ids": ["NPWR03395"]
     },
-    "Quantum Conundrum (US)": {
+    "Quantum Conundrum [US]": {
         "title_ids": ["NPUB30601"],
         "comm_ids": ["NPWR02911"]
     },
@@ -5795,11 +5795,11 @@
         "title_ids": ["BLES01000"],
         "comm_ids": ["NPWR01469"]
     },
-    "Racquet Sports (JP)": {
+    "Racquet Sports [JP]": {
         "title_ids": ["BLJM60320"],
         "comm_ids": ["NPWR01675"]
     },
-    "Racquet Sports (US)": {
+    "Racquet Sports [US]": {
         "title_ids": ["BLUS30571"],
         "comm_ids": ["NPWR01175"]
     },
@@ -5835,11 +5835,11 @@
         "title_ids": ["BLES01164", "BLUS30678"],
         "comm_ids": ["NPWR01674"]
     },
-    "Ranko Tsukigime's Longest Day (EU)": {
+    "Ranko Tsukigime's Longest Day [EU]": {
         "title_ids": ["BLES02007"],
         "comm_ids": ["NPWR06070"]
     },
-    "Ranko Tsukigime's Longest Day (US)": {
+    "Ranko Tsukigime's Longest Day [US]": {
         "title_ids": ["NPUB31427"],
         "comm_ids": ["NPWR05973"]
     },
@@ -5891,11 +5891,11 @@
         "title_ids": ["BLES01386", "BLES01387", "BLUS30836"],
         "comm_ids": ["NPWR02249"]
     },
-    "Rayman Origins (BLES01510)": {
+    "Rayman Origins [BLES01510]": {
         "title_ids": ["BLES01510"],
         "comm_ids": ["NPWR02839"]
     },
-    "Rayman Origins (JP)": {
+    "Rayman Origins [JP]": {
         "title_ids": ["BLJM60431"],
         "comm_ids": ["NPWR02836"]
     },
@@ -5907,11 +5907,11 @@
         "title_ids": ["NPEB00754"],
         "comm_ids": ["NPWR02524"]
     },
-    "Realms of Ancient War (EU)": {
+    "Realms of Ancient War [EU]": {
         "title_ids": ["NPEB00940"],
         "comm_ids": ["NPWR03356"]
     },
-    "Realms of Ancient War (JP)": {
+    "Realms of Ancient War [JP]": {
         "title_ids": ["NPJB00351"],
         "comm_ids": ["NPWR04377"]
     },
@@ -5919,27 +5919,27 @@
         "title_ids": ["NPUB30142"],
         "comm_ids": ["NPWR00996"]
     },
-    "Record of Agarest War 2 (JP)": {
+    "Record of Agarest War 2 [JP]": {
         "title_ids": ["BLJM60273"],
         "comm_ids": ["NPWR01297"]
     },
-    "Record of Agarest War 2 (KO)": {
+    "Record of Agarest War 2 [KO]": {
         "title_ids": ["BLKS20300"],
         "comm_ids": ["NPWR02377"]
     },
-    "Record of Agarest War 2 (US)": {
+    "Record of Agarest War 2 [US]": {
         "title_ids": ["BLUS30881"],
         "comm_ids": ["NPWR02642"]
     },
-    "Record of Agarest War Zero (JP)": {
+    "Record of Agarest War Zero [JP]": {
         "title_ids": ["BLJM60156"],
         "comm_ids": ["NPWR00758"]
     },
-    "Record of Agarest War Zero (KO)": {
+    "Record of Agarest War Zero [KO]": {
         "title_ids": ["BLKS20147"],
         "comm_ids": ["NPWR00933"]
     },
-    "Record of Agarest War Zero (US)": {
+    "Record of Agarest War Zero [US]": {
         "title_ids": ["BLUS30686"],
         "comm_ids": ["NPWR01783"]
     },
@@ -6135,11 +6135,11 @@
         "title_ids": ["NPEB00516"],
         "comm_ids": ["NPWR01793"]
     },
-    "ROBOTICS;NOTES (ASIA)": {
+    "ROBOTICS;NOTES [ASIA]": {
         "title_ids": ["BLAS50713"],
         "comm_ids": ["NPWR06752"]
     },
-    "ROBOTICS;NOTES (JP)": {
+    "ROBOTICS;NOTES [JP]": {
         "title_ids": ["BLJM60446"],
         "comm_ids": ["NPWR03378"]
     },
@@ -6179,11 +6179,11 @@
         "title_ids": ["BLUS30327"],
         "comm_ids": ["NPWR00680"]
     },
-    "Rock of Ages (JP)": {
+    "Rock of Ages [JP]": {
         "title_ids": ["NPJB00373"],
         "comm_ids": ["NPWR04506"]
     },
-    "Rock of Ages (US)": {
+    "Rock of Ages [US]": {
         "title_ids": ["NPUB30332"],
         "comm_ids": ["NPWR01748"]
     },
@@ -6211,11 +6211,11 @@
         "title_ids": ["BLUS31182"],
         "comm_ids": ["NPWR04531"]
     },
-    "Rogue Legacy (JP)": {
+    "Rogue Legacy [JP]": {
         "title_ids": ["NPJB00739"],
         "comm_ids": ["NPWR08581"]
     },
-    "Rogue Legacy (US)": {
+    "Rogue Legacy [US]": {
         "title_ids": ["NPUB31512"],
         "comm_ids": ["NPWR06724"]
     },
@@ -6307,11 +6307,11 @@
         "title_ids": ["NPEB02048"],
         "comm_ids": ["NPWR06662"]
     },
-    "Sacred 2 - Fallen Angel (JP)": {
+    "Sacred 2 - Fallen Angel [JP]": {
         "title_ids": ["BLJS10071"],
         "comm_ids": ["NPWR01005"]
     },
-    "Sacred 2 - Fallen Angel (US)": {
+    "Sacred 2 - Fallen Angel [US]": {
         "title_ids": ["BLUS30312"],
         "comm_ids": ["NPWR00447"]
     },
@@ -6331,11 +6331,11 @@
         "title_ids": ["BLES01421"],
         "comm_ids": ["NPWR01952"]
     },
-    "Saint Seiya: Soldiers' Soul (EU)": {
+    "Saint Seiya: Soldiers' Soul [EU]": {
         "title_ids": ["BLES02181"],
         "comm_ids": ["NPWR08976"]
     },
-    "Saint Seiya: Soldiers' Soul (US)": {
+    "Saint Seiya: Soldiers' Soul [US]": {
         "title_ids": ["BLUS31559"],
         "comm_ids": ["NPWR09221"]
     },
@@ -6347,7 +6347,7 @@
         "title_ids": ["BLUS31205", "BLES01889", "BLJS10246", "NPUB31257", "NPEB01404", "BLES02019", "BLUS31416"],
         "comm_ids": ["NPWR04738"]
     },
-    "Saints Row IV (AU)": {
+    "Saints Row IV [AU]": {
         "title_ids": ["NPEB01842", "BLES01954"],
         "comm_ids": ["NPWR05139"]
     },
@@ -6359,7 +6359,7 @@
         "title_ids": ["BLES01342", "BLUS30666", "BLKS20333", "BLES01747", "BLUS31062"],
         "comm_ids": ["NPWR01692"]
     },
-    "Saints Row: The Third (DE)": {
+    "Saints Row: The Third [DE]": {
         "title_ids": ["BLES01748", "BLES01343"],
         "comm_ids": ["NPWR02545"]
     },
@@ -6423,11 +6423,11 @@
         "title_ids": ["NPUB31799"],
         "comm_ids": ["NPWR10432"]
     },
-    "Samurai Warriors 4-II (JP)": {
+    "Samurai Warriors 4-II [JP]": {
         "title_ids": ["BLJM61257"],
         "comm_ids": ["NPWR08071"]
     },
-    "Samurai Warriors 4-II (US)": {
+    "Samurai Warriors 4-II [US]": {
         "title_ids": ["NPUB31751"],
         "comm_ids": ["NPWR09318"]
     },
@@ -6467,11 +6467,11 @@
         "title_ids": ["NPEB00406"],
         "comm_ids": ["NPWR01661"]
     },
-    "SBK 09: Superbike World Championship (EU)": {
+    "SBK 09: Superbike World Championship [EU]": {
         "title_ids": ["BLES00536"],
         "comm_ids": ["NPWR00634"]
     },
-    "SBK 09: Superbike World Championship (US)": {
+    "SBK 09: Superbike World Championship [US]": {
         "title_ids": ["BLUS30519"],
         "comm_ids": ["NPWR01270"]
     },
@@ -6483,11 +6483,11 @@
         "title_ids": ["BLES01647"],
         "comm_ids": ["NPWR03287"]
     },
-    "SBK X: Superbike World Championship (EU)": {
+    "SBK X: Superbike World Championship [EU]": {
         "title_ids": ["BLES00774"],
         "comm_ids": ["NPWR00934"]
     },
-    "SBK X: Superbike World Championship (US)": {
+    "SBK X: Superbike World Championship [US]": {
         "title_ids": ["BLUS30683"],
         "comm_ids": ["NPWR01585"]
     },
@@ -6575,11 +6575,11 @@
         "title_ids": ["BCES01097"],
         "comm_ids": ["NPWR01503"]
     },
-    "Shadows of the Damned (EU)": {
+    "Shadows of the Damned [EU]": {
         "title_ids": ["BLES01276"],
         "comm_ids": ["NPWR01840"]
     },
-    "Shadows of the Damned (US)": {
+    "Shadows of the Damned [US]": {
         "title_ids": ["BLUS30653"],
         "comm_ids": ["NPWR01839"]
     },
@@ -6587,11 +6587,11 @@
         "title_ids": ["NPEB01426"],
         "comm_ids": ["NPWR04780"]
     },
-    "Shank (EU)": {
+    "Shank [EU]": {
         "title_ids": ["NPEB00310"],
         "comm_ids": ["NPWR01313"]
     },
-    "Shank (US)": {
+    "Shank [US]": {
         "title_ids": ["NPUB30232"],
         "comm_ids": ["NPWR01266"]
     },
@@ -6695,7 +6695,7 @@
         "title_ids": ["NPEA00374", "BCES02042", "BCES02045", "BCES02046", "BCES02111", "BCES02112", "BCES02118", "BCES02120"],
         "comm_ids": ["NPWR03204"]
     },
-    "SingStar (US)": {
+    "SingStar [US]": {
         "title_ids": ["NPUA80756"],
         "comm_ids": ["NPWR04066"]
     },
@@ -6723,7 +6723,7 @@
         "title_ids": ["BLES00461", "BLJM60134", "BLUS30253"],
         "comm_ids": ["NPWR00430"]
     },
-    "Skate 2 (DE)": {
+    "Skate 2 [DE]": {
         "title_ids": ["BLES00489"],
         "comm_ids": ["NPWR00630"]
     },
@@ -6731,11 +6731,11 @@
         "title_ids": ["BLUS30464", "BLES00760", "BLJM60296"],
         "comm_ids": ["NPWR01002"]
     },
-    "Ski-Doo Snowmobile Challenge (EU)": {
+    "Ski-Doo Snowmobile Challenge [EU]": {
         "title_ids": ["BLES01486"],
         "comm_ids": ["NPWR03275"]
     },
-    "Ski-Doo Snowmobile Challenge (US)": {
+    "Ski-Doo Snowmobile Challenge [US]": {
         "title_ids": ["BLUS30272"],
         "comm_ids": ["NPWR00535"]
     },
@@ -6935,11 +6935,11 @@
         "title_ids": ["BCES00819", "BCAS20235"],
         "comm_ids": ["NPWR03025"]
     },
-    "SoulCalibur II HD Online (EU/US)": {
+    "SoulCalibur II HD Online [EU/US]": {
         "title_ids": ["NPEB01828", "NPUB31366"],
         "comm_ids": ["NPWR05209"]
     },
-    "SoulCalibur II HD Online (JP)": {
+    "SoulCalibur II HD Online [JP]": {
         "title_ids": ["NPJB00590"],
         "comm_ids": ["NPWR05922"]
     },
@@ -6971,15 +6971,15 @@
         "title_ids": ["NPUB30353"],
         "comm_ids": ["NPWR01507"]
     },
-    "Space Hulk (ASIA)": {
+    "Space Hulk [ASIA]": {
         "title_ids": ["NPHB00736"],
         "comm_ids": ["NPWR10682"]
     },
-    "Space Hulk (EU)": {
+    "Space Hulk [EU]": {
         "title_ids": ["NPEB02244", "BLES02154"],
         "comm_ids": ["NPWR08464"]
     },
-    "Space Hulk (US)": {
+    "Space Hulk [US]": {
         "title_ids": ["NPUB31662"],
         "comm_ids": ["NPWR08994"]
     },
@@ -7015,11 +7015,11 @@
         "title_ids": ["NPJB00289"],
         "comm_ids": ["NPWR04073"]
     },
-    "SPELUNKER HD (JP)": {
+    "SPELUNKER HD [JP]": {
         "title_ids": ["NPJB00187"],
         "comm_ids": ["NPWR00409"]
     },
-    "SPELUNKER HD (US)": {
+    "SPELUNKER HD [US]": {
         "title_ids": ["NPUB30152"],
         "comm_ids": ["NPWR01403"]
     },
@@ -7055,11 +7055,11 @@
         "title_ids": ["BCUS98177", "BCAS20125"],
         "comm_ids": ["NPWR00553"]
     },
-    "Sports Champions 2 (ASIA/US)": {
+    "Sports Champions 2 [ASIA/US]": {
         "title_ids": ["BCUS98278", "BCAS20254"],
         "comm_ids": ["NPWR03087"]
     },
-    "Sports Champions 2 (EU)": {
+    "Sports Champions 2 [EU]": {
         "title_ids": ["BCES01598"],
         "comm_ids": ["NPWR03690"]
     },
@@ -7131,19 +7131,19 @@
         "title_ids": ["BCES00747"],
         "comm_ids": ["NPWR01013"]
     },
-    "Start the Party! Save the World (EU)": {
+    "Start the Party! Save the World [EU]": {
         "title_ids": ["BCES01273"],
         "comm_ids": ["NPWR02500"]
     },
-    "Start the Party! Save the World (US)": {
+    "Start the Party! Save the World [US]": {
         "title_ids": ["NPUA80747"],
         "comm_ids": ["NPWR03024"]
     },
-    "STARWHAL (EU)": {
+    "STARWHAL [EU]": {
         "title_ids": ["NPEB02251"],
         "comm_ids": ["NPWR08265"]
     },
-    "STARWHAL (US)": {
+    "STARWHAL [US]": {
         "title_ids": ["NPUB31648"],
         "comm_ids": ["NPWR08047"]
     },
@@ -7159,23 +7159,23 @@
         "title_ids": ["NPJB00657"],
         "comm_ids": ["NPWR07140"]
     },
-    "STEINS;GATE (ASIA)": {
+    "STEINS;GATE [ASIA]": {
         "title_ids": ["BLAS50532"],
         "comm_ids": ["NPWR03880"]
     },
-    "STEINS;GATE (EU)": {
+    "STEINS;GATE [EU]": {
         "title_ids": ["BLES02142"],
         "comm_ids": ["NPWR08279"]
     },
-    "STEINS;GATE (JP)": {
+    "STEINS;GATE [JP]": {
         "title_ids": ["BLJM60462"],
         "comm_ids": ["NPWR03123"]
     },
-    "STEINS;GATE (KOR)": {
+    "STEINS;GATE [KOR]": {
         "title_ids": ["BLKS20467"],
         "comm_ids": ["NPWR05944"]
     },
-    "STEINS;GATE (US)": {
+    "STEINS;GATE [US]": {
         "title_ids": ["BLUS31538"],
         "comm_ids": ["NPWR08418"]
     },
@@ -7203,11 +7203,11 @@
         "title_ids": ["NPEB02443"],
         "comm_ids": ["NPWR12538"]
     },
-    "Stick It To the Man (EU)": {
+    "Stick It To the Man [EU]": {
         "title_ids": ["NPEB01798"],
         "comm_ids": ["NPWR05420"]
     },
-    "Stick It To the Man (US)": {
+    "Stick It To the Man [US]": {
         "title_ids": ["NPUB31298"],
         "comm_ids": ["NPWR05421"]
     },
@@ -7263,11 +7263,11 @@
         "title_ids": ["NPUB31554"],
         "comm_ids": ["NPWR06967"]
     },
-    "Super Motherload (EU)": {
+    "Super Motherload [EU]": {
         "title_ids": ["NPEB01866"],
         "comm_ids": ["NPWR05246"]
     },
-    "Super Motherload (US)": {
+    "Super Motherload [US]": {
         "title_ids": ["NPUB31341"],
         "comm_ids": ["NPWR05200"]
     },
@@ -7311,11 +7311,11 @@
         "title_ids": ["BLES00771"],
         "comm_ids": ["NPWR00935"]
     },
-    "Superstars V8 Racing (EU)": {
+    "Superstars V8 Racing [EU]": {
         "title_ids": ["BLES00529"],
         "comm_ids": ["NPWR00678"]
     },
-    "Superstars V8 Racing (US)": {
+    "Superstars V8 Racing [US]": {
         "title_ids": ["NPUB30338"],
         "comm_ids": ["NPWR01236"]
     },
@@ -7371,11 +7371,11 @@
         "title_ids": ["BLJS10330"],
         "comm_ids": ["NPWR10267"]
     },
-    "Tales of Graces f (EU)": {
+    "Tales of Graces f [EU]": {
         "title_ids": ["BLES01617"],
         "comm_ids": ["NPWR03410"]
     },
-    "Tales of Graces f (US)": {
+    "Tales of Graces f [US]": {
         "title_ids": ["BLUS30903"],
         "comm_ids": ["NPWR02812"]
     },
@@ -7407,27 +7407,27 @@
         "title_ids": [""],
         "comm_ids": ["NPWR05416"]
     },
-    "Tales of Xillia (EU)": {
+    "Tales of Xillia [EU]": {
         "title_ids": ["BLES01815"],
         "comm_ids": ["NPWR04382"]
     },
-    "Tales of Xillia (US)": {
+    "Tales of Xillia [US]": {
         "title_ids": ["BLUS31006"],
         "comm_ids": ["NPWR04338"]
     },
-    "Tales of Xillia 2 (EU)": {
+    "Tales of Xillia 2 [EU]": {
         "title_ids": ["BLES01962"],
         "comm_ids": ["NPWR06172"]
     },
-    "Tales of Xillia 2 (US)": {
+    "Tales of Xillia 2 [US]": {
         "title_ids": ["BLUS31397"],
         "comm_ids": ["NPWR06032"]
     },
-    "Tales of Zestiria (EU)": {
+    "Tales of Zestiria [EU]": {
         "title_ids": ["NPEB02235"],
         "comm_ids": ["NPWR08560"]
     },
-    "Tales of Zestiria (US)": {
+    "Tales of Zestiria [US]": {
         "title_ids": ["BLUS31533"],
         "comm_ids": ["NPWR08584"]
     },
@@ -7435,11 +7435,11 @@
         "title_ids": ["NPUB30154"],
         "comm_ids": ["NPWR00718"]
     },
-    "Tears to Tiara II Heir of the Overlord (EU)": {
+    "Tears to Tiara II Heir of the Overlord [EU]": {
         "title_ids": ["BLES02115"],
         "comm_ids": ["NPWR07697"]
     },
-    "Tears to Tiara II Heir of the Overlord (US)": {
+    "Tears to Tiara II Heir of the Overlord [US]": {
         "title_ids": ["BLUS31476"],
         "comm_ids": ["NPWR07296"]
     },
@@ -7487,11 +7487,11 @@
         "title_ids": ["BLUS30318"],
         "comm_ids": ["NPWR00623"]
     },
-    "Terraria (EU/US)": {
+    "Terraria [EU/US]": {
         "title_ids": ["BLES01938", "BLUS31537", "NPUB30943", "NPEB01270"],
         "comm_ids": ["NPWR04270"]
     },
-    "Terraria (JP)": {
+    "Terraria [JP]": {
         "title_ids": ["BLJS10222"],
         "comm_ids": ["NPWR04563"]
     },
@@ -7499,11 +7499,11 @@
         "title_ids": ["NPUA30037"],
         "comm_ids": ["NPWR01291"]
     },
-    "Teslagrad (ASIA)": {
+    "Teslagrad [ASIA]": {
         "title_ids": ["NPHB00733"],
         "comm_ids": ["NPWR09957"]
     },
-    "Teslagrad (EU)": {
+    "Teslagrad [EU]": {
         "title_ids": ["NPEB01928"],
         "comm_ids": ["NPWR06764"]
     },
@@ -7527,11 +7527,11 @@
         "title_ids": ["NPUB30805"],
         "comm_ids": ["NPWR02029"]
     },
-    "The Adventures of Tintin: The Secret of the Unicorn (BLES01306)": {
+    "The Adventures of Tintin: The Secret of the Unicorn [BLES01306]": {
         "title_ids": ["BLES01306"],
         "comm_ids": ["NPWR02586"]
     },
-    "The Adventures of Tintin: The Secret of the Unicorn (BLES01464)": {
+    "The Adventures of Tintin: The Secret of the Unicorn [BLES01464]": {
         "title_ids": ["BLES01464"],
         "comm_ids": ["NPWR01855"]
     },
@@ -7583,23 +7583,23 @@
         "title_ids": ["BLES00311"],
         "comm_ids": ["NPWR00206"]
     },
-    "The Cube (BLES01471)": {
+    "The Cube [BLES01471]": {
         "title_ids": ["BLES01471"],
         "comm_ids": ["NPWR02724"]
     },
-    "The Cube (NPEB01927)": {
+    "The Cube [NPEB01927]": {
         "title_ids": ["NPEB01927"],
         "comm_ids": ["NPWR05735"]
     },
-    "The Cursed Crusade (EU)": {
+    "The Cursed Crusade [EU]": {
         "title_ids": ["BLES01299"],
         "comm_ids": ["NPWR01866"]
     },
-    "The Cursed Crusade (JP/KOR)": {
+    "The Cursed Crusade [JP/KOR]": {
         "title_ids": ["BLKS20320", "BLJM60395"],
         "comm_ids": ["NPWR01867"]
     },
-    "The Cursed Crusade (US)": {
+    "The Cursed Crusade [US]": {
         "title_ids": ["NPUB30683"],
         "comm_ids": ["NPWR01865"]
     },
@@ -7611,15 +7611,15 @@
         "title_ids": ["BLJM60413", "BLAS50546", "BLES01329", "BLES01330", "BLUS30778", "BLAS50624", "BLES01885", "BLES01886", "BLJM61086", "BLUS31202"],
         "comm_ids": ["NPWR02631"]
     },
-    "The Evil Within (ASIA)": {
+    "The Evil Within [ASIA]": {
         "title_ids": ["BCAS20333"],
         "comm_ids": ["NPWR07534"]
     },
-    "The Evil Within (EU)": {
+    "The Evil Within [EU]": {
         "title_ids": ["BLES01916"],
         "comm_ids": ["NPWR06384"]
     },
-    "The Evil Within (KO)": {
+    "The Evil Within [KO]": {
         "title_ids": ["BCKS10276"],
         "comm_ids": ["NPWR07535"]
     },
@@ -7640,7 +7640,7 @@
         "comm_ids": ["NPWR01263"]
     },
     "The Godfather II": {
-        "title_ids": ["BLUS30261", "BLES00501"],
+        "title_ids": ["BLUS30261", "BLES00501", "BLES00477"],
         "comm_ids": ["NPWR00518"]
     },
     "The Guided Fate Paradox": {
@@ -7735,23 +7735,23 @@
         "title_ids": ["BCES01584", "BCES01585", "NPUA81175", "BCAS20270", "BCJS37010", "BCUS98174"],
         "comm_ids": ["NPWR03073"]
     },
-    "The Legend of Heroes: Trails of Cold Steel (EU)": {
+    "The Legend of Heroes: Trails of Cold Steel [EU]": {
         "title_ids": ["NPEB02353"],
         "comm_ids": ["NPWR10040"]
     },
-    "The Legend of Heroes: Trails of Cold Steel (JP)": {
+    "The Legend of Heroes: Trails of Cold Steel [JP]": {
         "title_ids": ["BLJM61059"],
         "comm_ids": ["NPWR04672"]
     },
-    "The Legend of Heroes: Trails of Cold Steel (US)": {
+    "The Legend of Heroes: Trails of Cold Steel [US]": {
         "title_ids": ["BLUS31572"],
         "comm_ids": ["NPWR09815"]
     },
-    "The Legend of Heroes: Trails of Cold Steel II (ASIA)": {
+    "The Legend of Heroes: Trails of Cold Steel II [ASIA]": {
         "title_ids": ["BLAS50740"],
         "comm_ids": ["NPWR06494"]
     },
-    "The Legend of Heroes: Trails of Cold Steel II (US)": {
+    "The Legend of Heroes: Trails of Cold Steel II [US]": {
         "title_ids": ["NPUB31836"],
         "comm_ids": ["NPWR11597"]
     },
@@ -7839,11 +7839,11 @@
         "title_ids": ["NPEB02282"],
         "comm_ids": ["NPWR08916"]
     },
-    "The Testament of Sherlock Holmes (EU)": {
+    "The Testament of Sherlock Holmes [EU]": {
         "title_ids": ["BLES01485"],
         "comm_ids": ["NPWR02714"]
     },
-    "The Testament of Sherlock Holmes (US)": {
+    "The Testament of Sherlock Holmes [US]": {
         "title_ids": ["NPUB30921"],
         "comm_ids": ["NPWR03725"]
     },
@@ -7875,11 +7875,11 @@
         "title_ids": ["BLUS31065"],
         "comm_ids": ["NPWR04008"]
     },
-    "The Walking Dead: A Telltale Games Series (EU)": {
+    "The Walking Dead: A Telltale Games Series [EU]": {
         "title_ids": ["BLES01833"],
         "comm_ids": ["NPWR03267"]
     },
-    "The Walking Dead: A Telltale Games Series (JP)": {
+    "The Walking Dead: A Telltale Games Series [JP]": {
         "title_ids": ["BLJM61108"],
         "comm_ids": ["NPWR05185"]
     },
@@ -7891,11 +7891,11 @@
         "title_ids": ["NPEB01911", "BLES02099"],
         "comm_ids": ["NPWR05836"]
     },
-    "The Witch and the Hundred Knight (EU)": {
+    "The Witch and the Hundred Knight [EU]": {
         "title_ids": ["BLES01987"],
         "comm_ids": ["NPWR05915"]
     },
-    "The Witch and the Hundred Knight (JP)": {
+    "The Witch and the Hundred Knight [JP]": {
         "title_ids": ["BLJS10160"],
         "comm_ids": ["NPWR03505"]
     },
@@ -7947,11 +7947,11 @@
         "title_ids": ["BLUS31063"],
         "comm_ids": ["NPWR03990"]
     },
-    "Time and Eternity (EU)": {
+    "Time and Eternity [EU]": {
         "title_ids": ["BLES01848"],
         "comm_ids": ["NPWR04500"]
     },
-    "Time and Eternity (JP)": {
+    "Time and Eternity [JP]": {
         "title_ids": ["BLJS10181"],
         "comm_ids": ["NPWR03210"]
     },
@@ -7979,11 +7979,11 @@
         "title_ids": ["NPEB00942"],
         "comm_ids": ["NPWR02829"]
     },
-    "Tiny Troopers Joint Ops (JP)": {
+    "Tiny Troopers Joint Ops [JP]": {
         "title_ids": ["NPJB00719"],
         "comm_ids": ["NPWR08329"]
     },
-    "Tiny Troopers Joint Ops (US)": {
+    "Tiny Troopers Joint Ops [US]": {
         "title_ids": ["NPUB31483"],
         "comm_ids": ["NPWR06349"]
     },
@@ -8023,15 +8023,15 @@
         "title_ids": ["BCJS30069", "BCAS20233"],
         "comm_ids": ["NPWR01344"]
     },
-    "Tokyo Twilight Ghost Hunters (EU)": {
+    "Tokyo Twilight Ghost Hunters [EU]": {
         "title_ids": ["NPEB02147", "BLES02107"],
         "comm_ids": ["NPWR07556"]
     },
-    "Tokyo Twilight Ghost Hunters (JP)": {
+    "Tokyo Twilight Ghost Hunters [JP]": {
         "title_ids": ["BLJS10265"],
         "comm_ids": ["NPWR05640"]
     },
-    "Tokyo Twilight Ghost Hunters (US)": {
+    "Tokyo Twilight Ghost Hunters [US]": {
         "title_ids": ["BLUS31474"],
         "comm_ids": ["NPWR07128"]
     },
@@ -8223,11 +8223,11 @@
         "title_ids": ["BLJM60212"],
         "comm_ids": ["NPWR01148"]
     },
-    "Trinity Universe (JP)": {
+    "Trinity Universe [JP]": {
         "title_ids": ["BLJM60162"],
         "comm_ids": ["NPWR00759"]
     },
-    "Trinity Universe (US)": {
+    "Trinity Universe [US]": {
         "title_ids": ["BLUS30535"],
         "comm_ids": ["NPWR01255"]
     },
@@ -8275,11 +8275,11 @@
         "title_ids": ["BCJS30063"],
         "comm_ids": ["NPWR01617"]
     },
-    "TV Superstars (ASIA)": {
+    "TV Superstars [ASIA]": {
         "title_ids": ["BCAS20128"],
         "comm_ids": ["NPWR01618"]
     },
-    "TV Superstars (EU)": {
+    "TV Superstars [EU]": {
         "title_ids": ["BCES01077"],
         "comm_ids": ["NPWR01268"]
     },
@@ -8335,11 +8335,11 @@
         "title_ids": ["BCUS98123", "NPEA00364", "BCAS20097", "BCES00509"],
         "comm_ids": ["NPWR00462"]
     },
-    "Uncharted 2: Among Thieves Beta (EU)": {
+    "Uncharted 2: Among Thieves Beta [EU]": {
         "title_ids": ["BCET70015"],
         "comm_ids": [""]
     },
-    "Uncharted 2: Among Thieves Beta (US)": {
+    "Uncharted 2: Among Thieves Beta [US]": {
         "title_ids": ["NPUA70051"],
         "comm_ids": [""]
     },
@@ -8415,11 +8415,11 @@
         "title_ids": ["NPEB01238"],
         "comm_ids": ["NPWR04062"]
     },
-    "Valiant Hearts: The Great War (JP)": {
+    "Valiant Hearts: The Great War [JP]": {
         "title_ids": ["NPJB00660"],
         "comm_ids": ["NPWR07170"]
     },
-    "Valiant Hearts: The Great War (US)": {
+    "Valiant Hearts: The Great War [US]": {
         "title_ids": ["NPUB31400"],
         "comm_ids": ["NPWR06174"]
     },
@@ -8427,15 +8427,15 @@
         "title_ids": ["BLES00660"],
         "comm_ids": ["NPWR00560"]
     },
-    "Vandal Hearts: Flames of Judgment (EU)": {
+    "Vandal Hearts: Flames of Judgment [EU]": {
         "title_ids": ["NPEB00148"],
         "comm_ids": ["NPWR00877"]
     },
-    "Vandal Hearts: Flames of Judgment (JP)": {
+    "Vandal Hearts: Flames of Judgment [JP]": {
         "title_ids": ["NPJB00038"],
         "comm_ids": ["NPWR00876"]
     },
-    "Vandal Hearts: Flames of Judgment (US)": {
+    "Vandal Hearts: Flames of Judgment [US]": {
         "title_ids": ["NPUB30075"],
         "comm_ids": ["NPWR00875"]
     },
@@ -8451,11 +8451,11 @@
         "title_ids": ["BLUS30636"],
         "comm_ids": ["NPWR01528"]
     },
-    "Vessel (EU)": {
+    "Vessel [EU]": {
         "title_ids": ["NPEB01875"],
         "comm_ids": ["NPWR05431"]
     },
-    "Vessel (US)": {
+    "Vessel [US]": {
         "title_ids": ["NPUB31447"],
         "comm_ids": ["NPWR06009"]
     },
@@ -8491,19 +8491,19 @@
         "title_ids": ["NPEB00594"],
         "comm_ids": ["NPWR02049"]
     },
-    "Voodo Dice (EU)": {
+    "Voodo Dice [EU]": {
         "title_ids": ["NPEB00183"],
         "comm_ids": ["NPWR01181"]
     },
-    "Voodoo Chronicles (EU)": {
+    "Voodoo Chronicles [EU]": {
         "title_ids": ["NPEB01110"],
         "comm_ids": ["NPWR03832"]
     },
-    "Voodoo Chronicles (US)": {
+    "Voodoo Chronicles [US]": {
         "title_ids": ["NPUB30977"],
         "comm_ids": ["NPWR04835"]
     },
-    "Voodoo Dice (JP)": {
+    "Voodoo Dice [JP]": {
         "title_ids": ["NPJB00069"],
         "comm_ids": ["NPWR01381"]
     },
@@ -8515,19 +8515,19 @@
         "title_ids": ["BLJM60028"],
         "comm_ids": ["NPWR00097"]
     },
-    "Wanted (EU)": {
+    "Wanted [EU]": {
         "title_ids": ["BLES00527"],
         "comm_ids": ["NPWR00703"]
     },
-    "Wanted (US)": {
+    "Wanted [US]": {
         "title_ids": ["BLUS30275"],
         "comm_ids": ["NPWR00512"]
     },
-    "Wanted Corp. (EU)": {
+    "Wanted Corp. [EU]": {
         "title_ids": ["BLES01416"],
         "comm_ids": ["NPWR02117"]
     },
-    "Wanted Corp. (US)": {
+    "Wanted Corp. [US]": {
         "title_ids": ["NPUB30446"],
         "comm_ids": ["NPWR01524"]
     },
@@ -8571,11 +8571,11 @@
         "title_ids": [""],
         "comm_ids": ["NPWR00686"]
     },
-    "Way of the Samurai 3 (EU)": {
+    "Way of the Samurai 3 [EU]": {
         "title_ids": ["BLES00712"],
         "comm_ids": ["NPWR00909"]
     },
-    "Way of the Samurai 3 (US)": {
+    "Way of the Samurai 3 [US]": {
         "title_ids": ["BLUS30398"],
         "comm_ids": ["NPWR00885"]
     },
@@ -8603,11 +8603,11 @@
         "title_ids": ["BLES00707"],
         "comm_ids": ["NPWR00251"]
     },
-    "Wheel of Fortune (2009)": {
+    "Wheel of Fortune [2009]": {
         "title_ids": ["NPUA80137"],
         "comm_ids": ["NPWR00106"]
     },
-    "Wheel of Fortune (2012)": {
+    "Wheel of Fortune [2012]": {
         "title_ids": ["BLUS30923"],
         "comm_ids": ["NPWR02961"]
     },
@@ -8779,11 +8779,11 @@
         "title_ids": ["NPUB30660"],
         "comm_ids": ["NPWR02886"]
     },
-    "World Hunter (EU)": {
+    "World Hunter [EU]": {
         "title_ids": ["NPEB02293"],
         "comm_ids": ["NPWR08913"]
     },
-    "World Hunter (US)": {
+    "World Hunter [US]": {
         "title_ids": ["NPUB31660"],
         "comm_ids": ["NPWR08168"]
     },
@@ -8803,35 +8803,35 @@
         "title_ids": ["BLJM60271"],
         "comm_ids": ["NPWR01448"]
     },
-    "WORLD SOCCER Winning Eleven 2012 (ASIA)": {
+    "WORLD SOCCER Winning Eleven 2012 [ASIA]": {
         "title_ids": ["BLAS50365"],
         "comm_ids": ["NPWR02379"]
     },
-    "WORLD SOCCER Winning Eleven 2012 (JP)": {
+    "WORLD SOCCER Winning Eleven 2012 [JP]": {
         "title_ids": ["BLJM60385"],
         "comm_ids": ["NPWR02223"]
     },
-    "WORLD SOCCER Winning Eleven 2013 (ASIA)": {
+    "WORLD SOCCER Winning Eleven 2013 [ASIA]": {
         "title_ids": ["BLAS50498"],
         "comm_ids": ["NPWR03722"]
     },
-    "WORLD SOCCER Winning Eleven 2013 (JP)": {
+    "WORLD SOCCER Winning Eleven 2013 [JP]": {
         "title_ids": ["BLJM60522"],
         "comm_ids": ["NPWR03714"]
     },
-    "WORLD SOCCER Winning Eleven 2014 (ASIA)": {
+    "WORLD SOCCER Winning Eleven 2014 [ASIA]": {
         "title_ids": ["BLAS50619"],
         "comm_ids": ["NPWR04997"]
     },
-    "WORLD SOCCER Winning Eleven 2014 (JP)": {
+    "WORLD SOCCER Winning Eleven 2014 [JP]": {
         "title_ids": ["BLJM61106"],
         "comm_ids": ["NPWR05072"]
     },
-    "WORLD SOCCER Winning Eleven 2015 (ASIA)": {
+    "WORLD SOCCER Winning Eleven 2015 [ASIA]": {
         "title_ids": ["BLAS50744"],
         "comm_ids": ["NPWR07333"]
     },
-    "WORLD SOCCER Winning Eleven 2015 (JP)": {
+    "WORLD SOCCER Winning Eleven 2015 [JP]": {
         "title_ids": ["BLJM61237"],
         "comm_ids": ["NPWR07332"]
     },
@@ -8915,7 +8915,7 @@
         "title_ids": ["BLUS30588", "BLES00995"],
         "comm_ids": ["NPWR01520"]
     },
-    "WWE All Stars (JP)": {
+    "WWE All Stars [JP]": {
         "title_ids": ["BLJM60365"],
         "comm_ids": ["NPWR02139"]
     },
@@ -8947,23 +8947,23 @@
         "title_ids": ["BLUS30746"],
         "comm_ids": ["NPWR01884"]
     },
-    "XBlaze Code: Embryo (EU)": {
+    "XBlaze Code: Embryo [EU]": {
         "title_ids": ["NPEB02250"],
         "comm_ids": ["NPWR08511"]
     },
-    "XBlaze Code: Embryo (JP)": {
+    "XBlaze Code: Embryo [JP]": {
         "title_ids": ["BLJS10227"],
         "comm_ids": ["NPWR04032"]
     },
-    "XBlaze Code: Embryo (US)": {
+    "XBlaze Code: Embryo [US]": {
         "title_ids": ["BLUS31367"],
         "comm_ids": ["NPWR05439"]
     },
-    "XBlaze Lost: Memories (JP)": {
+    "XBlaze Lost: Memories [JP]": {
         "title_ids": ["BLJS10293"],
         "comm_ids": ["NPWR07399"]
     },
-    "XBlaze Lost: Memories (US)": {
+    "XBlaze Lost: Memories [US]": {
         "title_ids": ["BLUS31523"],
         "comm_ids": ["NPWR08253"]
     },
@@ -8991,27 +8991,27 @@
         "title_ids": [""],
         "comm_ids": ["NPWR03824"]
     },
-    "Yakuza 3 (BLJM55012)": {
+    "Yakuza 3 [BLJM55012]": {
         "title_ids": ["BLJM55012"],
         "comm_ids": ["NPWR00844"]
     },
-    "Yakuza 3 (BLJM60132)": {
+    "Yakuza 3 [BLJM60132]": {
         "title_ids": ["BLJM60132"],
         "comm_ids": ["NPWR00508"]
     },
-    "Yakuza 3 (US)": {
+    "Yakuza 3 [US]": {
         "title_ids": ["BLUS30494"],
         "comm_ids": ["NPWR01101"]
     },
-    "Yakuza 4 (JP)": {
+    "Yakuza 4 [JP]": {
         "title_ids": ["BLJM60208"],
         "comm_ids": ["NPWR00859"]
     },
-    "Yakuza 4 (US)": {
+    "Yakuza 4 [US]": {
         "title_ids": ["BLUS30643"],
         "comm_ids": ["NPWR01642"]
     },
-    "Yakuza 5 (JP)": {
+    "Yakuza 5 [JP]": {
         "title_ids": ["BLJM60489"],
         "comm_ids": ["NPWR03465"]
     },
@@ -9023,11 +9023,11 @@
         "title_ids": ["BLJM61313"],
         "comm_ids": ["NPWR09930"]
     },
-    "Yakuza: Dead Souls (EU)": {
+    "Yakuza: Dead Souls [EU]": {
         "title_ids": ["BLES01399"],
         "comm_ids": ["NPWR02712"]
     },
-    "Yakuza: Dead Souls (JP)": {
+    "Yakuza: Dead Souls [JP]": {
         "title_ids": ["BLJM60316"],
         "comm_ids": ["NPWR01610"]
     },
@@ -9091,11 +9091,11 @@
         "title_ids": ["NPUB30922"],
         "comm_ids": ["NPWR04108"]
     },
-    "Zombie Tycoon 2: Brainhov's Revenge (JP)": {
+    "Zombie Tycoon 2: Brainhov's Revenge [JP]": {
         "title_ids": ["NPJB00539"],
         "comm_ids": ["NPWR05520"]
     },
-    "Zombie Tycoon 2: Brainhov's Revenge (US)": {
+    "Zombie Tycoon 2: Brainhov's Revenge [US]": {
         "title_ids": ["NPUB30859"],
         "comm_ids": ["NPWR03664"]
     },
@@ -9115,11 +9115,11 @@
         "title_ids": ["NPUB30881"],
         "comm_ids": ["NPWR03696"]
     },
-    "Zumba (EU)": {
+    "Zumba [EU]": {
         "title_ids": ["BLES01159"],
         "comm_ids": ["NPWR01626"]
     },
-    "Zumba (US)": {
+    "Zumba [US]": {
         "title_ids": ["BLUS30587"],
         "comm_ids": ["NPWR01398"]
     },
