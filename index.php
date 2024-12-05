@@ -157,31 +157,34 @@ arsort($title_player_counts);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="refresh" content="60">
+    <link rel="stylesheet" href="style.css">
     <title>RPCN Player Counts</title>
 </head>
 <body>
-    <h1>Current Players in Games</h1>
-    <table border="1">
-        <thead>
-        <tr>
-                <td><strong>Total Users</strong></td>
-                <td><?php echo htmlspecialchars($total_users); ?></td>
-        </tr>
-            <tr>
-                <th>Game Title</th>
-                <th>Current Players</th>
-            </tr>
-        </thead>
-        <tbody>
-            <?php foreach ($title_player_counts as $game_title => $count): ?>
-                <?php if ($count > 0): // Only show games with more than 0 players ?>
-                    <tr>
-                        <td><?php echo htmlspecialchars($game_title); ?></td>
-                        <td><?php echo htmlspecialchars($count); ?></td>
-                    </tr>
-                <?php endif; ?>
-            <?php endforeach; ?>
-        </tbody>
-    </table>
+    <h1>RPCN Player Counts</h1>
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <td><strong>Total Users</strong></td>
+                    <td><?php echo htmlspecialchars($total_users); ?></td>
+                </tr>
+                <tr>
+                    <th>Game Title</th>
+                    <th>Current Players</th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php foreach ($title_player_counts as $game_title => $count): ?>
+                    <?php if ($count > 0): ?>
+                        <tr>
+                            <td><?php echo htmlspecialchars($game_title); ?></td>
+                            <td><?php echo htmlspecialchars($count); ?></td>
+                        </tr>
+                    <?php endif; ?>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+    </div>
 </body>
 </html>
