@@ -851,6 +851,10 @@
         "title_ids": ["NPUB30131"],
         "comm_ids": ["NPWR00907"]
     },
+    "BioShock 2": {
+        "title_ids": ["BLES00728"],
+        "comm_ids": ["NPWR00722"]
+    },
     "BioShock [EU/US]": {
         "title_ids": ["BLES00316", "BLUS30166"],
         "comm_ids": ["NPWR00352"]
@@ -858,10 +862,6 @@
     "BioShock [JP]": {
         "title_ids": ["BLJS10041"],
         "comm_ids": ["NPWR00607"]
-    },
-    "BioShock 2": {
-        "title_ids": ["BLES00728"],
-        "comm_ids": ["NPWR00722"]
     },
     "BioShock Infinite": {
         "title_ids": ["BLES01705"],
@@ -2711,14 +2711,6 @@
         "title_ids": ["NPUB30087"],
         "comm_ids": ["NPWR00897"]
     },
-    "Fist of the North Star: Ken's Rage [EU/US]": {
-        "title_ids": ["BLES01062", "BLUS30504"],
-        "comm_ids": ["NPWR01455"]
-    },
-    "Fist of the North Star: Ken's Rage [JP]": {
-        "title_ids": ["BLJM60196"],
-        "comm_ids": ["NPWR01024"]
-    },
     "Fist of the North Star: Ken's Rage 2": {
         "title_ids": ["BLES01801"],
         "comm_ids": ["NPWR04298"]
@@ -2726,6 +2718,14 @@
     "Fist of the North Star: Ken's Rage 2 [JP]": {
         "title_ids": ["BLJM60553"],
         "comm_ids": ["NPWR03982"]
+    },
+    "Fist of the North Star: Ken's Rage [EU/US]": {
+        "title_ids": ["BLES01062", "BLUS30504"],
+        "comm_ids": ["NPWR01455"]
+    },
+    "Fist of the North Star: Ken's Rage [JP]": {
+        "title_ids": ["BLJM60196"],
+        "comm_ids": ["NPWR01024"]
     },
     "Fit in Six": {
         "title_ids": ["BLUS30667", "BLM60360"],
@@ -3199,6 +3199,10 @@
         "title_ids": ["NPJB00201"],
         "comm_ids": ["NPWR03492"]
     },
+    "Hatsune Miku: Project DIVA F 2nd [US]": {
+        "title_ids": ["BLUS31431"],
+        "comm_ids": ["NPWR05394"]
+    },
     "Hatsune Miku: Project DIVA F [JP]": {
         "title_ids": ["BLJM60527"],
         "comm_ids": ["NPWR03591"]
@@ -3206,10 +3210,6 @@
     "Hatsune Miku: Project DIVA F [US]": {
         "title_ids": ["BLUS31319"],
         "comm_ids": ["NPWR04679"]
-    },
-    "Hatsune Miku: Project DIVA F 2nd [US]": {
-        "title_ids": ["BLUS31431"],
-        "comm_ids": ["NPWR05394"]
     },
     "Heavy Fire Shattered Spear": {
         "title_ids": ["BLUS31000", "BLJM60570"],
@@ -3623,13 +3623,13 @@
         "title_ids": ["BLJM61317"],
         "comm_ids": ["NPWR09648"]
     },
-    "Jimmie Johnson's Anything With An Engine [NPUB31471]": {
-        "title_ids": ["NPUB31471"],
-        "comm_ids": ["NPWR06314"]
-    },
     "Jimmie Johnson's Anything With An Engine [BLUS30897]": {
         "title_ids": ["BLUS30897"],
         "comm_ids": ["NPWR01736"]
+    },
+    "Jimmie Johnson's Anything With An Engine [NPUB31471]": {
+        "title_ids": ["NPUB31471"],
+        "comm_ids": ["NPWR06314"]
     },
     "Joe Danger": {
         "title_ids": ["NPEB00205"],
@@ -3951,10 +3951,6 @@
         "title_ids": ["NPUB31185"],
         "comm_ids": ["NPWR04503"]
     },
-    "Legends of War: Patton's Campaign [NPEB01311]": {
-        "title_ids": ["NPEB01311"],
-        "comm_ids": ["NPWR04433"]
-    },
     "Legends of War: Patton's Campaign [BLES01744]": {
         "title_ids": ["BLES01744"],
         "comm_ids": ["NPWR03821"]
@@ -3962,6 +3958,10 @@
     "Legends of War: Patton's Campaign [BLUS31079]": {
         "title_ids": ["BLUS31079"],
         "comm_ids": ["NPWR04003"]
+    },
+    "Legends of War: Patton's Campaign [NPEB01311]": {
+        "title_ids": ["NPEB01311"],
+        "comm_ids": ["NPWR04433"]
     },
     "LEGO Batman 2: DC Super Heroes": {
         "title_ids": ["BLES01613", "BLUS30837"],
@@ -4194,6 +4194,10 @@
     "Madagascar Kartz": {
         "title_ids": ["BLES00735"],
         "comm_ids": ["NPWR00797"]
+    },
+    "Madden NFL 09": {
+        "title_ids": ["BLUS30146"],
+        "comm_ids": ["NPWR00353"]
     },
     "Madden NFL 10": {
         "title_ids": ["BLUS30375"],
@@ -5255,14 +5259,6 @@
         "title_ids": ["BLJS10272", "BLUS31427", "BLES02020", "BLAS50699"],
         "comm_ids": ["NPWR06110"]
     },
-    "One Piece: Pirate Warriors [EU]": {
-        "title_ids": ["BLES01672", "BLES02131"],
-        "comm_ids": ["NPWR03526"]
-    },
-    "One Piece: Pirate Warriors [JP]": {
-        "title_ids": ["BLJM60416"],
-        "comm_ids": ["NPWR02652"]
-    },
     "One Piece: Pirate Warriors 2": {
         "title_ids": ["BLES01913"],
         "comm_ids": ["NPWR04898"]
@@ -5274,6 +5270,14 @@
     "One Piece: Pirate Warriors 3": {
         "title_ids": ["NPUB31676", "BLES02140"],
         "comm_ids": ["NPWR08617"]
+    },
+    "One Piece: Pirate Warriors [EU]": {
+        "title_ids": ["BLES01672", "BLES02131"],
+        "comm_ids": ["NPWR03526"]
+    },
+    "One Piece: Pirate Warriors [JP]": {
+        "title_ids": ["BLJM60416"],
+        "comm_ids": ["NPWR02652"]
     },
     "Operation Flashpoint: Dragon Rising": {
         "title_ids": ["BLES00597", "BLUS30316"],
@@ -6587,6 +6591,10 @@
         "title_ids": ["NPEB01426"],
         "comm_ids": ["NPWR04780"]
     },
+    "Shank 2": {
+        "title_ids": ["NPEB00814"],
+        "comm_ids": ["NPWR02172"]
+    },
     "Shank [EU]": {
         "title_ids": ["NPEB00310"],
         "comm_ids": ["NPWR01313"]
@@ -6594,10 +6602,6 @@
     "Shank [US]": {
         "title_ids": ["NPUB30232"],
         "comm_ids": ["NPWR01266"]
-    },
-    "Shank 2": {
-        "title_ids": ["NPEB00814"],
-        "comm_ids": ["NPWR02172"]
     },
     "Shatter": {
         "title_ids": ["NPUB30091"],
@@ -7159,6 +7163,10 @@
         "title_ids": ["NPJB00657"],
         "comm_ids": ["NPWR07140"]
     },
+    "STEINS;GATE 0": {
+        "title_ids": ["BLJM61303"],
+        "comm_ids": ["NPWR09420"]
+    },
     "STEINS;GATE [ASIA]": {
         "title_ids": ["BLAS50532"],
         "comm_ids": ["NPWR03880"]
@@ -7178,10 +7186,6 @@
     "STEINS;GATE [US]": {
         "title_ids": ["BLUS31538"],
         "comm_ids": ["NPWR08418"]
-    },
-    "STEINS;GATE 0": {
-        "title_ids": ["BLJM61303"],
-        "comm_ids": ["NPWR09420"]
     },
     "STEINS;GATE 比翼恋理のだーりん": {
         "title_ids": ["BLJM60464"],
@@ -7407,14 +7411,6 @@
         "title_ids": [""],
         "comm_ids": ["NPWR05416"]
     },
-    "Tales of Xillia [EU]": {
-        "title_ids": ["BLES01815"],
-        "comm_ids": ["NPWR04382"]
-    },
-    "Tales of Xillia [US]": {
-        "title_ids": ["BLUS31006"],
-        "comm_ids": ["NPWR04338"]
-    },
     "Tales of Xillia 2 [EU]": {
         "title_ids": ["BLES01962"],
         "comm_ids": ["NPWR06172"]
@@ -7422,6 +7418,14 @@
     "Tales of Xillia 2 [US]": {
         "title_ids": ["BLUS31397"],
         "comm_ids": ["NPWR06032"]
+    },
+    "Tales of Xillia [EU]": {
+        "title_ids": ["BLES01815"],
+        "comm_ids": ["NPWR04382"]
+    },
+    "Tales of Xillia [US]": {
+        "title_ids": ["BLUS31006"],
+        "comm_ids": ["NPWR04338"]
     },
     "Tales of Zestiria [EU]": {
         "title_ids": ["NPEB02235"],
