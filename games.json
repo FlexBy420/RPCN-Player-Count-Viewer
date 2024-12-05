@@ -2987,6 +2987,10 @@
         "title_ids": ["BCAS25018", "BCES01893", "BCES01977", "BCJS37016", "BCUS98296", "NPEA00502", "NPUA81049", "NPHA80269", "NPJA00113", "BCUS99247"],
         "comm_ids": ["NPWR04712"]
     },
+    "GRAN TURISMO HD Concept": {
+        "title_ids": ["NPEA90002", "NPUA80019", "NPJA00010", "NPHA00001"],
+        "comm_ids": ["NPWR00064"]
+    },
     "Grand Theft Auto IV": {
         "title_ids": ["BLUS30127", "NPUB30702", "BLJM60346", "BLUS30524"],
         "comm_ids": ["NPWR00132"]
