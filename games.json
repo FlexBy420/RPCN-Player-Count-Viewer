@@ -411,6 +411,10 @@
         "title_ids": ["BLUS30027", "BLES00039", "BLJM60012", "BLJM60062"],
         "comm_ids": ["NPWR00004"]
     },
+    "Armored Core: For Answer": {
+        "title_ids": ["BLES00370", "BLUS30187", "BLJM60066", "NPHB00033", "NPJB90067"],
+        "comm_ids": ["NPWR00275"]
+    },
     "Armored Core V (ASIA)": {
         "title_ids": ["BLAS50448"],
         "comm_ids": ["NPWR03098"]
@@ -8377,7 +8381,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00275", "NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943"]
+        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
