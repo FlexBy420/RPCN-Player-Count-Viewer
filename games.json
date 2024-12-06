@@ -480,7 +480,7 @@
         "comm_ids": ["NPWR00894"]
     },
     "Assassin's Creed III": {
-        "title_ids": ["BLES01668"],
+        "title_ids": ["BLES01668", "BLES01667"],
         "comm_ids": ["NPWR03546"]
     },
     "Assassin's Creed IV Black Flag": {
@@ -492,7 +492,7 @@
         "comm_ids": ["NPWR04787"]
     },
     "Assassin's Creed Rogue": {
-        "title_ids": ["BLUS31465"],
+        "title_ids": ["BLUS31465", "BLJM61208"],
         "comm_ids": ["NPWR07220"]
     },
     "Assassin's Creed: Brotherhood": {
@@ -8360,7 +8360,7 @@
         "comm_ids": ["NPWR05906"]
     },
     "Uncharted 2: Among Thieves": {
-        "title_ids": ["BCUS98123", "NPEA00364", "BCAS20097", "BCES00509"],
+        "title_ids": ["BCUS98123", "NPEA00364", "BCAS20097", "BCES00509", "BCES00727"],
         "comm_ids": ["NPWR00462"]
     },
     "Uncharted 2: Among Thieves Beta [EU]": {
