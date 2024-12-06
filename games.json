@@ -203,7 +203,7 @@
         "title_ids": ["BLJS10241"],
         "comm_ids": ["NPWR04799"]
     },
-    "AKIBA'S TRIP 2 トロフィーセット": {
+    "AKIBA'S TRIP 2": {
         "title_ids": ["BLJM61105"],
         "comm_ids": ["NPWR04263"]
     },
@@ -3203,9 +3203,9 @@
         "title_ids": ["NPJB00201"],
         "comm_ids": ["NPWR03492"]
     },
-    "Hatsune Miku: Project DIVA F 2nd [US]": {
-        "title_ids": ["BLUS31431"],
-        "comm_ids": ["NPWR05394"]
+    "Hatsune Miku: -Project DIVA- F 2nd": {
+        "title_ids": ["BLUS31431", "NPUB31488", "NPJB00435"],
+        "comm_ids": ["NPWR05394", "NPWR07058"]
     },
     "Hatsune Miku: Project DIVA F [JP]": {
         "title_ids": ["BLJM60527"],
@@ -4158,6 +4158,14 @@
     "Lost Planet 2": {
         "title_ids": ["MRTC00002"],
         "comm_ids": ["NPWR00928"]
+    },
+    "Lost Planet 2 Co-op Demo": {
+        "title_ids": ["NPUB90300"],
+        "comm_ids": ["NPWR00799"]
+    },
+    "Lost Planet 2 Multiplayer Demo": {
+        "title_ids": ["NPEB90189"],
+        "comm_ids": ["NPWR00970"]
     },
     "Lost Planet 3": {
         "title_ids": ["BLUS31020", "BLES01685", "BLJM60490"],
@@ -8397,7 +8405,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR07058", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR00028"]
+        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR00028"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -9067,7 +9075,7 @@
         "title_ids": ["NPEB02010"],
         "comm_ids": ["NPWR05772"]
     },
-    "Z/X トロフィー": {
+    "Z/X 絶界の聖戦": {
         "title_ids": ["BLJS10195"],
         "comm_ids": ["NPWR03981"]
     },
@@ -9139,7 +9147,7 @@
         "title_ids": ["BLJM61131"],
         "comm_ids": ["NPWR05184"]
     },
-    "「太平洋の嵐~戦艦大和、暁に出撃す！~」トロフィーセット": {
+    "「太平洋の嵐~戦艦大和、暁に出撃す！~」": {
         "title_ids": ["BLJS10194"],
         "comm_ids": ["NPWR03436"]
     },
@@ -9623,7 +9631,7 @@
         "title_ids": ["BLJS10238"],
         "comm_ids": ["NPWR04693"]
     },
-    "出撃！！乙女たちの戦場２ トロフィー": {
+    "出撃！！乙女たちの戦場２": {
         "title_ids": ["BLJS10165"],
         "comm_ids": ["NPWR02726"]
     },
@@ -9639,7 +9647,7 @@
         "title_ids": ["BLJM61091"],
         "comm_ids": ["NPWR05014"]
     },
-    "大戦略　大東亜興亡史３トロフィーセット": {
+    "大戦略　大東亜興亡史３": {
         "title_ids": ["BLJM61265"],
         "comm_ids": ["NPWR08324"]
     },
@@ -9651,7 +9659,7 @@
         "title_ids": ["BLJS10122"],
         "comm_ids": ["NPWR01641"]
     },
-    "大戦略大東亜興亡史～トラ・トラ・トラワレ奇襲ニ成功セリ～ トロフィー": {
+    "大戦略大東亜興亡史～トラ・トラ・トラワレ奇襲ニ成功セリ～": {
         "title_ids": ["BLJS10211"],
         "comm_ids": ["NPWR04303"]
     },
@@ -9679,8 +9687,8 @@
         "title_ids": ["BLJM61157"],
         "comm_ids": ["NPWR05647"]
     },
-    "恋姫†演武 トロフィーセット": {
-        "title_ids": ["BLJM61274"],
+    "恋姫†演武": {
+        "title_ids": ["BLJM61274", "NPJB00729"],
         "comm_ids": ["NPWR08462"]
     },
     "憂世ノ志士": {
@@ -9798,6 +9806,10 @@
     "真 流行り神２": {
         "title_ids": ["BLJS10336"],
         "comm_ids": ["NPWR11083"]
+    },
+    "真・恋姫†夢想 ～乙女対戦★三国志演義～": {
+        "title_ids": ["NPJB00489"],
+        "comm_ids": ["NPWR04862"]
     },
     "真・三國無双 MULTI RAID Special": {
         "title_ids": ["BLJM60172"],
