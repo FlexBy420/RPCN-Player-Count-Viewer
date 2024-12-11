@@ -36,7 +36,7 @@
         "comm_ids": ["NPWR05920"]
     },
     "3 on 3 NHL Arcade": {
-        "title_ids": ["NPEB00080"],
+        "title_ids": ["NPEB00080", "NPUB30058"],
         "comm_ids": ["NPWR00549"]
     },
     "3D Dot Game Heroes [EU]": {
@@ -1603,8 +1603,8 @@
         "title_ids": ["BLES00705"],
         "comm_ids": ["NPWR00986"]
     },
-    "Darksiders II [EU]": {
-        "title_ids": ["BLES01597"],
+    "Darksiders II [EU/US]": {
+        "title_ids": ["BLES01597", "BLUS30829"],
         "comm_ids": ["NPWR03174"]
     },
     "Darksiders II [JP]": {
@@ -8429,7 +8429,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR00028", "NPWR06866", "NPWR00161", "NPWR00297", "NPWR03405", "NPWR00335", "NPWR04189"]
+        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR00191", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR00028", "NPWR06866", "NPWR00161", "NPWR00297", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8604,7 +8604,7 @@
         "comm_ids": ["NPWR00915"]
     },
     "WATCH_DOGS": {
-        "title_ids": ["BLES01854", "NPEB01433"],
+        "title_ids": ["BLES01854", "NPEB01433", "BLUS31176"],
         "comm_ids": ["NPWR04527"]
     },
     "Watchmen": {
@@ -8936,7 +8936,7 @@
         "comm_ids": ["NPWR01613"]
     },
     "WWE '12": {
-        "title_ids": ["BLES01439"],
+        "title_ids": ["BLES01439", "BLUS30841"],
         "comm_ids": ["NPWR01727"]
     },
     "WWE '13": {
