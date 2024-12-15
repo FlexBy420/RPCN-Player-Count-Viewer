@@ -484,7 +484,7 @@
         "comm_ids": ["NPWR00894"]
     },
     "Assassin's Creed III": {
-        "title_ids": ["BLES01668", "BLES01667"],
+        "title_ids": ["BLES01668", "BLES01667", "BLUS30991"],
         "comm_ids": ["NPWR03546"]
     },
     "Assassin's Creed IV Black Flag": {
@@ -882,6 +882,10 @@
     "Blacklight: Tango Down": {
         "title_ids": ["NPEB00365"],
         "comm_ids": ["NPWR01129"]
+    },
+    "BlackSite: Area 51": {
+        "title_ids": ["BLUS30101"],
+        "comm_ids": [""]
     },
     "Blade Kitten": {
         "title_ids": ["NPUB30253"],
@@ -2292,7 +2296,7 @@
         "comm_ids": ["NPWR01325"]
     },
     "EA SPORTS GRAND SLAM TENNIS 2": {
-        "title_ids": ["BLES00709"],
+        "title_ids": ["BLES00709", "BLUS30417"],
         "comm_ids": ["NPWR00842"]
     },
     "EA SPORTS MMA": {
@@ -2950,6 +2954,10 @@
     "God of War: Ascension": {
         "title_ids": ["BCES01741", "BCUS98232", "BCAS25016", "BCJS37008", "BCES01742"],
         "comm_ids": ["NPWR00802"]
+    },
+    "God of War: Ascension Multiplayer Beta": {
+        "title_ids": ["NPUA70216"],
+        "comm_ids": [""]
     },
     "God of War: Chains of Olympus": {
         "title_ids": [""],
@@ -4935,6 +4943,10 @@
         "title_ids": ["BLUS31560"],
         "comm_ids": ["NPWR09007"]
     },
+    "NASCAR 09": {
+        "title_ids": ["BLES00268"],
+        "comm_ids": [""]
+    },
     "NASCAR The Game 2011": {
         "title_ids": ["BLUS30604"],
         "comm_ids": ["NPWR00901"]
@@ -5152,15 +5164,15 @@
         "comm_ids": ["NPWR04578"]
     },
     "NHL 15": {
-        "title_ids": ["BLUS31436"],
+        "title_ids": ["BLUS31436", "NPEB02030"],
         "comm_ids": ["NPWR06281"]
     },
     "NHL 2K10": {
         "title_ids": ["BLUS30438"],
         "comm_ids": ["NPWR00581"]
     },
-    "NHL Legacy": {
-        "title_ids": ["BLUS31540"],
+    "NHL Legacy Edition": {
+        "title_ids": ["BLUS31540", "NPUB31691"],
         "comm_ids": ["NPWR08503"]
     },
     "Ni no Kuni: Wrath of the White Witch [EU]": {
@@ -5500,7 +5512,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPEQ00001", "NPEQ10001", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00013", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPJQ50100", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00008", "NPER00009", "NPER00024", "NPER00025", "NPER00027", "NPER00034", "NPER00035", "NPER00037", "NPER00040", "NPER00046", "NPER00048", "NPUR00052", "NPER00052", "NPER00053", "NPER00055", "NPER00056", "NPER00062", "NPER00063", "NPER00071", "NPER00072", "NPER00073", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00100", "NPUR00110", "NPUR00120", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10002", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030", "NPJR50120", "NPJR50310"],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPEQ00001", "NPEQ00004", "NPEQ10001", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00013", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPJQ50100", "NPJQ50140", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00008", "NPER00009", "NPER00024", "NPER00025", "NPER00027", "NPER00034", "NPER00035", "NPER00037", "NPER00040", "NPER00046", "NPER00048", "NPUR00052", "NPER00052", "NPER00053", "NPER00055", "NPER00056", "NPER00062", "NPER00063", "NPER00064", "NPER00066", "NPER00071", "NPER00072", "NPER00073", "NPER00078", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00091", "NPUR00100", "NPUR00110", "NPUR00120", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10002", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030", "NPJR50120", "NPJR50310"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -6636,7 +6648,7 @@
         "comm_ids": ["NPWR00727"]
     },
     "Shaun White Skateboarding": {
-        "title_ids": ["BLES01004"],
+        "title_ids": ["BLES01004", "BLUS30303"],
         "comm_ids": ["NPWR01363"]
     },
     "Shaun White Snowboarding": {
@@ -6800,7 +6812,7 @@
         "comm_ids": ["NPWR01635"]
     },
     "Skylanders Giants": {
-        "title_ids": ["BLES01689"],
+        "title_ids": ["BLES01689", "BLUS30968"],
         "comm_ids": ["NPWR03657"]
     },
     "Skylanders Imaginators": {
@@ -6812,7 +6824,7 @@
         "comm_ids": ["NPWR01756"]
     },
     "Skylanders SuperChargers": {
-        "title_ids": ["NPEB02274"],
+        "title_ids": ["NPEB02274", "BLUS31545"],
         "comm_ids": ["NPWR08539"]
     },
     "Skylanders SWAP Force": {
@@ -7036,7 +7048,7 @@
         "comm_ids": ["NPWR08836"]
     },
     "Spartacus Legends": {
-        "title_ids": ["NPEB00963"],
+        "title_ids": ["NPEB00963", "NPUB30746"],
         "comm_ids": ["NPWR04043"]
     },
     "Spec Ops: The Line": {
@@ -7595,6 +7607,10 @@
         "title_ids": ["BLUS30282", "BLES00532"],
         "comm_ids": ["NPWR00654"]
     },
+    "The Bigs": {
+        "title_ids": ["BLUS30033"],
+        "comm_ids": [""]
+    },
     "The BIGS 2": {
         "title_ids": ["BLUS30280"],
         "comm_ids": ["NPWR00700"]
@@ -7682,6 +7698,10 @@
     "The Godfather II": {
         "title_ids": ["BLUS30261", "BLES00501", "BLES00477"],
         "comm_ids": ["NPWR00518"]
+    },
+    "The Godfather: The Don's Edition": {
+        "title_ids": ["BLUS30023"],
+        "comm_ids": [""]
     },
     "The Guided Fate Paradox": {
         "title_ids": ["BLUS31312"],
@@ -7976,7 +7996,7 @@
         "comm_ids": ["NPWR00640"]
     },
     "Tiger Woods PGA TOUR 11": {
-        "title_ids": ["BLES00870"],
+        "title_ids": ["BLES00870", "BLUS30489"],
         "comm_ids": ["NPWR01174"]
     },
     "Tiger Woods PGA TOUR 12: The Masters": {
@@ -8146,6 +8166,10 @@
     "Tony Hawk's Pro Skater HD": {
         "title_ids": ["NPUB30732"],
         "comm_ids": ["NPWR03236"]
+    },
+    "Tony Hawk's Project 8": {
+        "title_ids": ["BLUS30011"],
+        "comm_ids": [""]
     },
     "Tony Hawk's Proving Ground": {
         "title_ids": ["BLUS30071", "BLES00130"],
@@ -8376,7 +8400,7 @@
         "comm_ids": ["NPWR05906"]
     },
     "Uncharted 2: Among Thieves": {
-        "title_ids": ["BCUS98123", "NPEA00364", "BCAS20097", "BCES00509", "BCES00727"],
+        "title_ids": ["BCUS98123", "NPEA00364", "BCAS20097", "BCES00509", "BCES00727", "BCES00757"],
         "comm_ids": ["NPWR00462"]
     },
     "Uncharted 2: Among Thieves Beta [EU]": {
@@ -8580,7 +8604,7 @@
         "comm_ids": ["NPWR00855"]
     },
     "Warhawk": {
-        "title_ids": ["BCUS98117", "BCES00008", "NPUA80093"],
+        "title_ids": ["BCUS98117", "BCES00008", "NPUA80093", "BCAS20015"],
         "comm_ids": ["NPWR00163"]
     },
     "Warlords": {
