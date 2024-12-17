@@ -508,7 +508,7 @@
         "comm_ids": ["NPWR01499"]
     },
     "Assassin's Creed: Revelations": {
-        "title_ids": ["NPUB30707"],
+        "title_ids": ["NPUB30707", "BLUS30808"],
         "comm_ids": ["NPWR02350"]
     },
     "Assassin's Creed: Revelations Beta": {
@@ -775,6 +775,10 @@
         "title_ids": ["NPUB31227"],
         "comm_ids": ["NPWR02955"]
     },
+    "Beijin 2008": {
+        "title_ids": ["BLES00286"],
+        "comm_ids": [""]
+    },
     "Bejeweled 2": {
         "title_ids": ["NPEA00124"],
         "comm_ids": ["NPWR00556"]
@@ -963,8 +967,8 @@
         "title_ids": ["BLES01988"],
         "comm_ids": ["NPWR05479"]
     },
-    "BloodRayne:Betrayal": {
-        "title_ids": ["NPUB30377"],
+    "BloodRayne: Betrayal": {
+        "title_ids": ["NPUB30377", "NPJB00609"],
         "comm_ids": ["NPWR01913"]
     },
     "Blue-Collar Astronaut": {
@@ -1168,7 +1172,7 @@
         "comm_ids": ["NPWR07096"]
     },
     "Call of Duty: Black Ops": {
-        "title_ids": ["BLES01031", "BLUS30591"],
+        "title_ids": ["BLES01031", "BLES01032", "BLUS30591"],
         "comm_ids": ["NPWR01247"]
     },
     "Call of Duty: Black Ops II": {
@@ -3231,6 +3235,10 @@
         "title_ids": ["BLUS31319"],
         "comm_ids": ["NPWR04679"]
     },
+    "Haze": {
+        "title_ids": ["BLUS30094"],
+        "comm_ids": ["NPWR00094"]
+    },
     "Heavy Fire Shattered Spear": {
         "title_ids": ["BLUS31000", "BLJM60570"],
         "comm_ids": ["NPWR03830"]
@@ -3376,7 +3384,7 @@
         "comm_ids": ["NPWR03558"]
     },
     "Hustle Kings": {
-        "title_ids": ["NPEA00123", "NPUA80291"],
+        "title_ids": ["NPEA00123", "NPUA80291", "NPEA00145"],
         "comm_ids": ["NPWR00649"]
     },
     "Hydrophobia": {
@@ -4072,7 +4080,7 @@
         "comm_ids": ["NPWR09360"]
     },
     "Life Is Strange": {
-        "title_ids": ["NPEB02197"],
+        "title_ids": ["NPEB02197", "NPUB31636"],
         "comm_ids": ["NPWR07927"]
     },
     "LIGHTNING RETURNS: FINAL FANTASY XIII": {
@@ -5059,11 +5067,15 @@
         "title_ids": ["NPEB00650", "NPUB30558"],
         "comm_ids": ["NPWR02355"]
     },
-    "NBA LIVE 09": {
+    "NBA Live 08": {
+        "title_ids": ["BLUS30060"],
+        "comm_ids": [""]
+    },
+    "NBA Live 09": {
         "title_ids": ["BLUS30173"],
         "comm_ids": ["NPWR00444"]
     },
-    "NBA LIVE 10": {
+    "NBA Live 10": {
         "title_ids": ["BLES00637", "BLUS30393", "BLJM60171"],
         "comm_ids": ["NPWR00776"]
     },
@@ -5142,6 +5154,10 @@
     "NFL Blitz": {
         "title_ids": ["NPUB30665"],
         "comm_ids": ["NPWR02004"]
+    },
+    "NHL 09": {
+        "title_ids": ["BLUS30168"],
+        "comm_ids": ["NPWR00301"]
     },
     "NHL 10": {
         "title_ids": ["BLUS30345"],
@@ -6700,7 +6716,7 @@
         "comm_ids": ["NPWR00913"]
     },
     "Sid Meier's Civilization: Revolution": {
-        "title_ids": ["BLUS30130"],
+        "title_ids": ["BLUS30130", "BLES00238"],
         "comm_ids": [""]
     },
     "Sid Meier's Civilization: Revolution Demo": {
@@ -7876,7 +7892,7 @@
         "comm_ids": ["NPWR01444"]
     },
     "The Sims 3": {
-        "title_ids": ["BLES01016"],
+        "title_ids": ["BLES01016", "BLUS30609"],
         "comm_ids": ["NPWR01305"]
     },
     "The Sims 3 Pets": {
@@ -8356,7 +8372,7 @@
         "comm_ids": ["NPWR02469"]
     },
     "Twisted Metal": {
-        "title_ids": ["BCUS98106", "NPEA00362", "BCES01010"],
+        "title_ids": ["BCUS98106", "NPEA00362", "BCES01010", "BCES01400"],
         "comm_ids": ["NPWR00295"]
     },
     "Two Worlds II": {
@@ -8964,7 +8980,7 @@
         "comm_ids": ["NPWR01727"]
     },
     "WWE '13": {
-        "title_ids": ["BLES01699"],
+        "title_ids": ["BLES01699", "BLUS31015"],
         "comm_ids": ["NPWR03495"]
     },
     "WWE 2K14": {
