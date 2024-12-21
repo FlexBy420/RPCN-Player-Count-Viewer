@@ -1160,7 +1160,7 @@
         "comm_ids": ["NPWR00580"]
     },
     "Call of Duty Ghosts": {
-        "title_ids": ["BLUS31270"],
+        "title_ids": ["BLUS31270", "BLES01945", "BLES01948", "BLJM61125", "BLJM61126"],
         "comm_ids": ["NPWR04874"]
     },
     "Call of Duty Ghosts Demo": {
@@ -1168,31 +1168,31 @@
         "comm_ids": [""]
     },
     "Call of Duty: Advanced Warfare": {
-        "title_ids": ["BLES02077", "BLUS31466", "BLES02079", "BLJM61228"],
+        "title_ids": ["BLES02077", "BLES02078", "BLES02079", "BLUS31466", "BLJM61227", "BLJM61228"],
         "comm_ids": ["NPWR07096"]
     },
     "Call of Duty: Black Ops": {
-        "title_ids": ["BLES01031", "BLES01032", "BLUS30591"],
+        "title_ids": ["BLES01031", "BLES01032", "BLES01033", "BLES01034", "BLES01035", "BLES01105", "BLJM60286", "BLJM60287", "BLUS30591"],
         "comm_ids": ["NPWR01247"]
     },
     "Call of Duty: Black Ops II": {
-        "title_ids": ["BLES01717", "BLUS31011"],
+        "title_ids": ["BLES01717", "BLES01718", "BLES01719", "BLES01720", "BLJM60548", "BLJM60549", "BLUS31011", "BLUS31140", "BLUS31141"],
         "comm_ids": ["NPWR02059"]
     },
     "Call of Duty: Black Ops III": {
-        "title_ids": ["BLES02166", "BLUS31527", "BLES02168"],
+        "title_ids": ["BLES02166", "BLES02168", "BLUS31527", "BCJS35003"],
         "comm_ids": ["NPWR08251"]
     },
     "Call of Duty: Modern Warfare 2": {
-        "title_ids": ["BLES00683", "BLUS30377", "BLES00690", "BLUS30429"],
+        "title_ids": ["BLES00683", "BLES00684", "BLES00685", "BLES00686", "BLES00687", "BLES00690", "BLES00691", "BLJM60191", "BLUS30377", "BLUS30429"],
         "comm_ids": ["NPWR00791"]
     },
     "Call of Duty: Modern Warfare 3": {
-        "title_ids": ["BLES01428", "BLES01430", "BLES01434", "BLUS30838", "BLUS30887", "NPUB30787", "BLJM60422"],
+        "title_ids": ["BLES01428", "BLES01429", "BLES01430", "BLES01431", "BLES01432", "BLES01433", "BLES01434", "BLJM60404", "BLJM60422", "BLUS30838", "BLUS30887", "NPUB30787"],
         "comm_ids": ["NPWR02322"]
     },
     "Call of Duty: World at War": {
-        "title_ids": ["BLUS30192", "BLES00457", "BLES00355"],
+        "title_ids": ["BLES00355", "BLES00357", "BLES00404", "BLES00457", "BLUS30192"],
         "comm_ids": ["NPWR00467"]
     },
     "Call of Juarez Gunslinger": {
@@ -1200,7 +1200,7 @@
         "comm_ids": ["NPWR04091"]
     },
     "Call of Juarez: Bound in Blood": {
-        "title_ids": ["BLUS30347", "BLJM60153"],
+        "title_ids": ["BLES00556", "BLUS30347", "BLJM60153"],
         "comm_ids": ["NPWR00510"]
     },
     "Call of Juarez: The Cartel": {
@@ -4651,13 +4651,17 @@
         "title_ids": ["BCUS00236"],
         "comm_ids": ["NPWR07306"]
     },
+    "MLB BOBBLEHEAD!": {
+        "title_ids": ["BLJM60998"],
+        "comm_ids": ["NPWR01914"]
+    },
+    "MLB Front Office Manager": {
+        "title_ids": ["BLUS30266"],
+        "comm_ids": [""]
+    },
     "MLB The Show 16": {
         "title_ids": ["BCUS01089"],
         "comm_ids": ["NPWR09772"]
-    },
-    "MLB ボブルヘッド！": {
-        "title_ids": ["BLJM60998"],
-        "comm_ids": ["NPWR01914"]
     },
     "Mobile Suit Gundam Battle Operation": {
         "title_ids": ["NPHB00542"],
@@ -4920,7 +4924,7 @@
         "comm_ids": ["NPWR01473"]
     },
     "MySims SkyHeroes": {
-        "title_ids": ["BLES01088"],
+        "title_ids": ["BLES00936", "BLES01088", "BLUS30520"],
         "comm_ids": ["NPWR01099"]
     },
     "nail'd": {
@@ -5192,7 +5196,7 @@
         "comm_ids": ["NPWR04578"]
     },
     "NHL 15": {
-        "title_ids": ["BLUS31436", "NPEB02030"],
+        "title_ids": ["BLUS31436", "NPEB02030", "BLES02037"],
         "comm_ids": ["NPWR06281"]
     },
     "NHL 2K10": {
@@ -5212,7 +5216,7 @@
         "comm_ids": ["NPWR02389"]
     },
     "NIER": {
-        "title_ids": ["BLES00826"],
+        "title_ids": ["BLES00826", "BLUS30481"],
         "comm_ids": ["NPWR01125"]
     },
     "NieR Replicant": {
