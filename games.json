@@ -4000,7 +4000,7 @@
         "comm_ids": ["NPWR02997"]
     },
     "LEGO Batman 3": {
-        "title_ids": ["BLUS31434", "BLES02033"],
+        "title_ids": ["BLUS31434", "BLES02033", "BLJM61243"],
         "comm_ids": ["NPWR06512"]
     },
     "LEGO Dimensions": {
@@ -4024,11 +4024,11 @@
         "comm_ids": ["NPWR00808"]
     },
     "LEGO Jurassic World": {
-        "title_ids": ["BLES02132", "BLUS31518"],
+        "title_ids": ["BLES02132", "BLUS31518", "BLJM61298"],
         "comm_ids": ["NPWR08141"]
     },
     "LEGO Marvel Super Heroes": {
-        "title_ids": ["BLUS31161", "BLES01831"],
+        "title_ids": ["BLUS31161", "BLES01831", "BLJM61242"],
         "comm_ids": ["NPWR04400"]
     },
     "LEGO MARVEL's Avengers": {
@@ -7852,7 +7852,7 @@
         "comm_ids": ["NPWR06778"]
     },
     "The LEGO Movie - Videogame": {
-        "title_ids": ["BLES01964"],
+        "title_ids": ["BLES01964", "BLJM61234", "BLUS31373"],
         "comm_ids": ["NPWR05167"]
     },
     "The Lord of the Rings: Aragorn's Quest": {
@@ -8489,7 +8489,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR06866", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071", "NPWR02707", "NPWR02227"]
+        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR06866", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071", "NPWR02707", "NPWR02227", "NPWR06976"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
