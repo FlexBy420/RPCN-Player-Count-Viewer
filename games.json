@@ -1048,7 +1048,7 @@
         "comm_ids": ["NPWR00494"]
     },
     "Bulletstorm": {
-        "title_ids": ["BLES01134", "BLES01212"],
+        "title_ids": ["BLES01134", "BLES01212", "BLUS30651"],
         "comm_ids": ["NPWR01203"]
     },
     "BurgerTime World Tour": {
@@ -2920,7 +2920,7 @@
         "comm_ids": ["NPWR01561"]
     },
     "GHOSTBUSTERS: The Video Game": {
-        "title_ids": ["BCES00642"],
+        "title_ids": ["BCES00642", "BLUS30307"],
         "comm_ids": ["NPWR00345"]
     },
     "Giana Sisters: Twisted Dreams": {
@@ -3592,7 +3592,7 @@
         "comm_ids": ["NPWR00661"]
     },
     "James Cameron's AVATAR: THE GAME": {
-        "title_ids": ["BLES00667", "BLJM60186"],
+        "title_ids": ["BLES00667", "BLJM60186", "BLUS30374"],
         "comm_ids": ["NPWR00946"]
     },
     "Jane's Advanced Strike Fighters": {
@@ -4968,7 +4968,7 @@
         "comm_ids": ["NPWR09007"]
     },
     "NASCAR 09": {
-        "title_ids": ["BLES00268"],
+        "title_ids": ["BLES00268", "BLUS30139"],
         "comm_ids": [""]
     },
     "NASCAR The Game 2011": {
@@ -5127,31 +5127,35 @@
         "title_ids": ["BLUS30840"],
         "comm_ids": ["NPWR02359"]
     },
-    "Need for Speed Hot Pursuit": {
+    "Need for Speed: Hot Pursuit": {
         "title_ids": ["NPUB30521", "BLES00949", "BLJM60297"],
         "comm_ids": ["NPWR01269"]
     },
-    "Need for Speed Hot Pursuit Demo": {
+    "Need for Speed: Hot Pursuit Demo": {
         "title_ids": ["NPEB90293"],
         "comm_ids": ["NPWR01583"]
     },
-    "Need for Speed Most Wanted": {
+    "Need for Speed: Most Wanted": {
         "title_ids": ["NPUB30789", "BLES01659", "BLJM60519"],
         "comm_ids": ["NPWR01813"]
     },
-    "Need for Speed Rivals": {
+    "Need for Speed: ProStreet": {
+        "title_ids": ["BLUS30066"],
+        "comm_ids": [""]
+    },
+    "Need for Speed: Rivals": {
         "title_ids": ["BLUS31201"],
         "comm_ids": ["NPWR04720"]
     },
-    "Need for Speed SHIFT": {
-        "title_ids": ["BLES00681", "BLES00682"],
+    "Need for Speed: Shift": {
+        "title_ids": ["BLES00681", "BLES00682", "BLUS30391"],
         "comm_ids": ["NPWR00599"]
     },
-    "Need for Speed The Run": {
+    "Need for Speed: The Run": {
         "title_ids": ["NPUB30664"],
         "comm_ids": ["NPWR01835"]
     },
-    "Need for Speed Undercover": {
+    "Need for Speed: Undercover": {
         "title_ids": ["BLES00449", "BLUS30248", "BLES00450"],
         "comm_ids": ["NPWR00546"]
     },
@@ -5188,7 +5192,7 @@
         "comm_ids": ["NPWR01535"]
     },
     "NHL 13": {
-        "title_ids": ["BLES01691"],
+        "title_ids": ["BLES01691", "BLUS31003"],
         "comm_ids": ["NPWR03044"]
     },
     "NHL 14": {
@@ -5544,7 +5548,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPEQ00001", "NPEQ00004", "NPEQ10001", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00013", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPJQ50100", "NPJQ50140", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00008", "NPER00009", "NPER00011", "NPER00024", "NPER00025", "NPER00027", "NPER00034", "NPER00035", "NPER00037", "NPER00040", "NPER00046", "NPER00048", "NPUR00052", "NPER00052", "NPER00053", "NPER00055", "NPER00056", "NPER00062", "NPER00063", "NPER00064", "NPER00066", "NPER00071", "NPER00072", "NPER00073", "NPER00078", "NPER10001", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00091", "NPUR00100", "NPUR00110", "NPUR00120", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10002", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030", "NPJR50120", "NPJR50310"],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPEQ00001", "NPEQ00004", "NPEQ00005", "NPEQ00021", "NPEQ10001", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00013", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPJQ50100", "NPJQ50140", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00003", "NPER00008", "NPER00009", "NPER00011", "NPER00014", "NPER00024", "NPER00025", "NPER00027", "NPER00034", "NPER00035", "NPER00037", "NPER00040", "NPER00046", "NPER00048", "NPUR00052", "NPER00050", "NPER00052", "NPER00053", "NPER00055", "NPER00056", "NPER00061", "NPER00062", "NPER00063", "NPER00064", "NPER00066", "NPER00071", "NPER00072", "NPER00073", "NPER00078", "NPER10001", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00091", "NPUR00100", "NPUR00110", "NPUR00120", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10002", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030", "NPJR50120", "NPJR50190", "NPJR50310"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -7207,6 +7211,10 @@
         "title_ids": ["BCUS98181", "BCES01234"],
         "comm_ids": ["NPWR02261"]
     },
+    "Starhawk Beta": {
+        "title_ids": ["NPUA70136"],
+        "comm_ids": [""]
+    },
     "Starlight Inception": {
         "title_ids": ["NPUB31435"],
         "comm_ids": ["NPWR04223"]
@@ -7604,7 +7612,7 @@
         "comm_ids": ["NPWR01228"]
     },
     "Tetris": {
-        "title_ids": ["NPUB30226", "NPEB00219"],
+        "title_ids": ["NPUB30226", "NPEB00219", "NPUB30417"],
         "comm_ids": ["NPWR01307"]
     },
     "Texas Cheat 'em": {
@@ -8416,7 +8424,7 @@
         "comm_ids": ["NPWR00788"]
     },
     "UFC Undisputed 3": {
-        "title_ids": ["BLES01231", "BLUS30738"],
+        "title_ids": ["BLES01231", "BLUS30738", "BLJM60450"],
         "comm_ids": ["NPWR01372"]
     },
     "UFC Undisputed 3 Alpha": {
@@ -8493,7 +8501,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR06866", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071", "NPWR02707", "NPWR02227", "NPWR06976"]
+        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR06866", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071", "NPWR02707", "NPWR02227", "NPWR06976", "NPWR00091", "NPWR01232", "NPWR02570", "NPWR02297"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
