@@ -508,7 +508,7 @@
         "comm_ids": ["NPWR01499"]
     },
     "Assassin's Creed: Revelations": {
-        "title_ids": ["NPUB30707", "BLUS30808"],
+        "title_ids": ["NPUB30707", "BLUS30808", "BLES01384"],
         "comm_ids": ["NPWR02350"]
     },
     "Assassin's Creed: Revelations Beta": {
@@ -1060,7 +1060,7 @@
         "comm_ids": ["NPWR00382"]
     },
     "Burnout CRASH!": {
-        "title_ids": ["NPUB30464"],
+        "title_ids": ["NPUB30464", "NPEB00529"],
         "comm_ids": ["NPWR01825"]
     },
     "Burnout Paradise": {
@@ -1084,7 +1084,7 @@
         "comm_ids": ["NPWR00485"]
     },
     "Buzz!: Quiz Party": {
-        "title_ids": ["NPEA00204"],
+        "title_ids": ["NPEA00204", "NPEA00187"],
         "comm_ids": ["NPWR01273"]
     },
     "Buzz!: Quiz TV": {
@@ -1754,6 +1754,10 @@
     "Death Track: Resurrection": {
         "title_ids": ["NPEB00161"],
         "comm_ids": ["NPWR00731"]
+    },
+    "Deathmatch Village": {
+        "title_ids": ["NPEB01323", "NPUB31197"],
+        "comm_ids": [""]
     },
     "DeathSpank": {
         "title_ids": ["NPEB00225"],
@@ -2560,7 +2564,7 @@
         "comm_ids": ["NPWR03468"]
     },
     "Far Cry 3 Blood Dragon": {
-        "title_ids": ["NPUB31142"],
+        "title_ids": ["NPUB31142", "NPEB01322"],
         "comm_ids": ["NPWR04319"]
     },
     "Far Cry 4": {
@@ -2656,7 +2660,7 @@
         "comm_ids": ["NPWR06683"]
     },
     "FIFA 16": {
-        "title_ids": ["BLUS31543", "BLUS31553", "BLJM61281"],
+        "title_ids": ["BLUS31543", "BLUS31553", "BLJM61281", "NPUB31694"],
         "comm_ids": ["NPWR08725"]
     },
     "FIFA 16 Demo": {
@@ -2689,6 +2693,10 @@
     },
     "Fight Night Champion Demo": {
         "title_ids": ["NPUB90513"],
+        "comm_ids": [""]
+    },
+    "Fight Night Round 3": {
+        "title_ids": ["BLUS30019"],
         "comm_ids": [""]
     },
     "Fight Night Round 4": {
@@ -3135,6 +3143,10 @@
         "title_ids": ["BLES00299", "BLUS30164"],
         "comm_ids": ["NPWR00349"]
     },
+    "Gundam Breaker": {
+        "title_ids": ["BLJS10197", "NPJB00357"],
+        "comm_ids": ["NPWR03754"]
+    },
     "Gundam Breaker 2": {
         "title_ids": ["BLAS50770", "BLJS10286", "NPHB00710", "PCSH00132", "PCSG00412"],
         "comm_ids": ["NPWR06959"]
@@ -3480,8 +3492,12 @@
         "comm_ids": ["NPWR00660"]
     },
     "inFamous 2": {
-        "title_ids": ["BCUS98125", "BCES01143", "BCES01229"],
+        "title_ids": ["BCUS98125", "BCES01143", "BCES01144", "BCES01229"],
         "comm_ids": ["NPWR01730"]
+    },
+    "inFamous 2 Demo": {
+        "title_ids": ["NPEA90095"],
+        "comm_ids": [""]
     },
     "inFAMOUS: Festival of Blood": {
         "title_ids": ["NPEA00322", "NPUA80657"],
@@ -3760,7 +3776,7 @@
         "comm_ids": ["NPWR02803"]
     },
     "Just Dance 4": {
-        "title_ids": ["BLES01722"],
+        "title_ids": ["BLES01722", "BLUS31033"],
         "comm_ids": ["NPWR03661"]
     },
     "Just Dance Kids": {
@@ -3834,6 +3850,10 @@
     "Killzone 3": {
         "title_ids": ["BCES01007", "BCAS25008", "BCUS98234"],
         "comm_ids": ["NPWR01569"]
+    },
+    "Killzone 3 Beta": {
+        "title_ids": ["BCET70024"],
+        "comm_ids": [""]
     },
     "Killzone 3 Multiplayer": {
         "title_ids": ["NPUA70167"],
@@ -4747,6 +4767,10 @@
         "title_ids": ["BLUS30561"],
         "comm_ids": ["NPWR01484"]
     },
+    "Monster Madness Grave Danger": {
+        "title_ids": ["BLUS30140"],
+        "comm_ids": [""]
+    },
     "Monster World IV": {
         "title_ids": ["NPUB30324"],
         "comm_ids": ["NPWR01547"]
@@ -4827,6 +4851,10 @@
         "title_ids": ["BCES00484", "BCES01104", "BCUS98242"],
         "comm_ids": ["NPWR00899"]
     },
+    "MotorStorm: Apocalypse Multiplayer Demo": {
+        "title_ids": ["NPEA90091"],
+        "comm_ids": [""]
+    },
     "MotorStorm: Pacific Rift": {
         "title_ids": ["BCES00129", "BCUS98155"],
         "comm_ids": ["NPWR00214"]
@@ -4896,7 +4924,7 @@
         "comm_ids": ["NPWR05257"]
     },
     "MX vs ATV Reflex": {
-        "title_ids": ["BLES00662"],
+        "title_ids": ["BLES00662", "BLUS30321"],
         "comm_ids": ["NPWR00675"]
     },
     "MX vs ATV Supercross": {
@@ -4969,6 +4997,10 @@
     },
     "NASCAR 09": {
         "title_ids": ["BLES00268", "BLUS30139"],
+        "comm_ids": [""]
+    },
+    "NASCAR 09 Demo": {
+        "title_ids": ["NPUB90120"],
         "comm_ids": [""]
     },
     "NASCAR The Game 2011": {
@@ -5140,7 +5172,7 @@
         "comm_ids": ["NPWR01813"]
     },
     "Need for Speed: ProStreet": {
-        "title_ids": ["BLUS30066"],
+        "title_ids": ["BLUS30066", "BLES00176"],
         "comm_ids": [""]
     },
     "Need for Speed: Rivals": {
@@ -5412,7 +5444,7 @@
         "comm_ids": ["NPWR03419"]
     },
     "PAIN": {
-        "title_ids": ["BCES00548", "NPUA80073"],
+        "title_ids": ["BCES00548", "NPUA80073", "NPEA00054"],
         "comm_ids": ["NPWR00196"]
     },
     "Painkiller Hell & Damnation": {
@@ -5548,7 +5580,7 @@
         "comm_ids": ["NPWR02621"]
     },
     "PlayStation Home": {
-        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPEQ00001", "NPEQ00004", "NPEQ00005", "NPEQ00021", "NPEQ10001", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00013", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPJQ50100", "NPJQ50140", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00003", "NPER00008", "NPER00009", "NPER00011", "NPER00014", "NPER00024", "NPER00025", "NPER00027", "NPER00034", "NPER00035", "NPER00037", "NPER00040", "NPER00046", "NPER00048", "NPUR00052", "NPER00050", "NPER00052", "NPER00053", "NPER00055", "NPER00056", "NPER00061", "NPER00062", "NPER00063", "NPER00064", "NPER00066", "NPER00071", "NPER00072", "NPER00073", "NPER00078", "NPER10001", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00091", "NPUR00100", "NPUR00110", "NPUR00120", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10002", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030", "NPJR50120", "NPJR50190", "NPJR50310"],
+        "title_ids": ["NPEA00013", "NPIA00005", "NPIA00010", "NPEQ00001", "NPEQ00004", "NPEQ00005", "NPEQ00021", "NPEQ00023", "NPEQ10001", "NPUQ00001", "NPUQ00002", "NPUQ00003", "NPUQ00004", "NPUQ00005", "NPUQ00006", "NPUQ00007", "NPUQ00008", "NPUQ00010", "NPUQ00011", "NPUQ00012", "NPUQ00013", "NPUQ00015", "NPUQ00016", "NPUQ00020", "NPUQ00030", "NPUQ10001", "NPUQ10012", "NPJQ50100", "NPJQ50140", "NPUR00001", "NPUR00002", "NPUR00003", "NPUR00010", "NPUR00011", "NPUR00012", "NPUR00020", "NPUR00021", "NPUR00022", "NPUR00030", "NPUR00031", "NPUR00032", "NPUR00040", "NPER00003", "NPER00008", "NPER00009", "NPER00011", "NPER00014", "NPER00017", "NPER00024", "NPER00025", "NPER00027", "NPER00034", "NPER00035", "NPER00037", "NPER00040", "NPER00042", "NPER00046", "NPER00048", "NPUR00052", "NPER00050", "NPER00052", "NPER00053", "NPER00055", "NPER00056", "NPER00057", "NPER00061", "NPER00062", "NPER00063", "NPER00064", "NPER00066", "NPER00071", "NPER00072", "NPER00073", "NPER00078", "NPER10001", "NPUR00050", "NPUR00051", "NPUR00060", "NPUR00061", "NPUR00070", "NPUR00071", "NPUR00072", "NPUR00080", "NPUR00081", "NPUR00090", "NPUR00091", "NPUR00100", "NPUR00110", "NPUR00120", "NPUR00121", "NPUR00130", "NPUR00140", "NPUR00141", "NPUR00150", "NPUR00160", "NPUR00170", "NPUR00180", "NPUR00190", "NPUR00191", "NPUR00200", "NPUR00320", "NPUR10001", "NPUR10002", "NPUR10010", "NPUR10011", "NPUR10012", "NPUR10013", "NPUR10014", "NPUR10015", "NPUR10016", "NPUR30001", "NPUR30020", "NPUR30030", "NPUR30040", "NPUR30050", "NPUR30051", "NPUR30060", "NPUR30070", "NPUR30090", "NPUR30092", "NPUR30100", "NPUR30110", "NPUR30111", "NPUR30120", "NPUR30130", "NPUR30151", "NPUR30160", "NPUR30170", "NPUR30180", "NPUR30181", "NPUR30190", "NPUR30200", "NPUR30210", "NPUR30220", "NPUR30230", "NPUR30231", "NPUR30250", "NPUR30260", "NPUR30261", "NPUR30262", "NPUR30270", "NPUR30290", "NPUR30300", "NPJR50030", "NPJR50120", "NPJR50190", "NPJR50260", "NPJR50310"],
         "comm_ids": ["NPWR00050", "NPWR00432"]
     },
     "PlayStation Move Fitness": {
@@ -7620,7 +7652,7 @@
         "comm_ids": ["NPWR00541"]
     },
     "The Adventures of Tintin": {
-        "title_ids": ["NPUB30805"],
+        "title_ids": ["NPUB30805", "BLUS30747"],
         "comm_ids": ["NPWR02029"]
     },
     "The Adventures of Tintin: The Secret of the Unicorn [BLES01306]": {
@@ -7883,6 +7915,10 @@
         "title_ids": ["NPUB30159"],
         "comm_ids": ["NPWR00929"]
     },
+    "The Orange Box": {
+        "title_ids": ["BLES00153"],
+        "comm_ids": [""]
+    },
     "The Penguins of Madagascar": {
         "title_ids": ["BLUS30616"],
         "comm_ids": ["NPWR01764"]
@@ -8107,6 +8143,10 @@
         "title_ids": ["NPUB31217"],
         "comm_ids": ["NPWR04562"]
     },
+    "TNA Impact!": {
+        "title_ids": ["BLES00300", "BLUS30174"],
+        "comm_ids": [""]
+    },
     "TNT Racers": {
         "title_ids": ["NPUB30278"],
         "comm_ids": ["NPWR01065"]
@@ -8154,6 +8194,10 @@
     "Tom Clancy's Ghost Recon Future Soldier": {
         "title_ids": ["BLES00924", "BLUS30521", "BLES00922"],
         "comm_ids": ["NPWR00848"]
+    },
+    "Tom Clancy's Ghost Recon: Advanced Warfighter 2": {
+        "title_ids": ["BLUS30034"],
+        "comm_ids": [""]
     },
     "Tom Clancy's H.A.W.X": {
         "title_ids": ["BLES00330"],
@@ -8287,6 +8331,10 @@
         "title_ids": ["BLES02202"],
         "comm_ids": ["NPWR09649"]
     },
+    "Toy Home": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00150"]
+    },
     "Toy Story 3": {
         "title_ids": ["NPUB30555", "BLUS30556"],
         "comm_ids": ["NPWR00746"]
@@ -8411,8 +8459,12 @@
         "title_ids": ["BLES00845"],
         "comm_ids": ["NPWR01120"]
     },
+    "UEFA Euro 2008": {
+        "title_ids": ["BLUS30114"],
+        "comm_ids": [""]
+    },
     "UFC 2009 Undisputed": {
-        "title_ids": ["BLUS30299", "BLJM60164"],
+        "title_ids": ["BLUS30299", "BLJM60164", "BLES00539"],
         "comm_ids": ["NPWR00439"]
     },
     "UFC Personal Trainer": {
@@ -8420,7 +8472,7 @@
         "comm_ids": ["NPWR01264"]
     },
     "UFC Undisputed 2010": {
-        "title_ids": ["BLES00842"],
+        "title_ids": ["BLES00842", "BLUS30483"],
         "comm_ids": ["NPWR00788"]
     },
     "UFC Undisputed 3": {
@@ -8501,7 +8553,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR06866", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071", "NPWR02707", "NPWR02227", "NPWR06976", "NPWR00091", "NPWR01232", "NPWR02570", "NPWR02297"]
+        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR06866", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071", "NPWR02707", "NPWR02227", "NPWR06976", "NPWR00091", "NPWR01232", "NPWR02570", "NPWR02297", "NPWR00930", "NPWR00197", "NPWR13864", "NPWR00337"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8864,7 +8916,7 @@
         "comm_ids": [""]
     },
     "Wolfenstein": {
-        "title_ids": ["BLES00564"],
+        "title_ids": ["BLES00564", "BLUS30298"],
         "comm_ids": ["NPWR00455"]
     },
     "Wolfenstein 3D": {
@@ -9048,7 +9100,7 @@
         "comm_ids": ["NPWR00608"]
     },
     "WWE SmackDown vs. RAW 2011": {
-        "title_ids": ["BLES01045", "BLJM60288"],
+        "title_ids": ["BLES01045", "BLJM60288", "BLUS30621"],
         "comm_ids": ["NPWR00967"]
     },
     "X-Blades": {
@@ -9366,10 +9418,6 @@
     "ガンダムバトルオペレーションＮＥＸＴ": {
         "title_ids": ["NPJB00749"],
         "comm_ids": ["NPWR09105"]
-    },
-    "ガンダムブレイカー": {
-        "title_ids": ["BLJS10197"],
-        "comm_ids": ["NPWR03754"]
     },
     "ケツイ ～絆地獄たち～ EXTRA": {
         "title_ids": ["BLJM61060"],
