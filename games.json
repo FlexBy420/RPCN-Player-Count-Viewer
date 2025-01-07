@@ -16,7 +16,7 @@
         "comm_ids": ["NPWR03297"]
     },
     "007: Quantum of Solace": {
-        "title_ids": ["BLUS30198", "BLJM60137", "BLES00406", "BLUS30199", "BLES00411"],
+        "title_ids": ["BLUS30198", "BLUS30199", "BLJM60137", "BLES00406", "BLES00411", "BLKS20088"],
         "comm_ids": ["NPWR00359"]
     },
     "100 Yen Trash Panic": {
@@ -727,6 +727,10 @@
         "title_ids": ["BLUS31162", "BLAS50588", "BLES01832", "BLJM61039"],
         "comm_ids": ["NPWR04412"]
     },
+    "Battlefield 4 Beta": {
+        "title_ids": ["BLET70034", "NPJB90637", "NPUB90959"],
+        "comm_ids": [""]
+    },
     "Battlefield: Bad Company": {
         "title_ids": ["BLES00259", "BLES00261"],
         "comm_ids": ["NPWR00323"]
@@ -754,6 +758,10 @@
     "Battlefield: Hardline": {
         "title_ids": ["BLUS31440", "BLES02039", "BLJM61203"],
         "comm_ids": ["NPWR06855"]
+    },
+    "Battlefield: Hardline Beta": {
+        "title_ids": ["BLET70061", "NPJB90712", "NPUB91010"],
+        "comm_ids": [""]
     },
     "Battleship": {
         "title_ids": ["BLES01520"],
@@ -1496,12 +1504,20 @@
         "comm_ids": ["NPWR01993"]
     },
     "Crysis 2": {
-        "title_ids": ["NPUB30662"],
+        "title_ids": ["NPUB30662", "BLES01060", "BLJM60311", "BLUS30631"],
         "comm_ids": ["NPWR01795"]
     },
+    "Crysis 2 Multiplayer Demo": {
+        "title_ids": ["NPUB90559"],
+        "comm_ids": ["NPWR01774"]
+    },
     "Crysis 3": {
-        "title_ids": ["BLUS30976"],
+        "title_ids": ["BLUS30976", "BLAS50497", "BLES01649", "BLJM60530"],
         "comm_ids": ["NPWR03522"]
+    },
+    "Crysis 3 Beta": {
+        "title_ids": ["NPEB90465", "NPUB90826"],
+        "comm_ids": [""]
     },
     "CRYSTAL DEFENDERS": {
         "title_ids": ["NPUB30092"],
@@ -1596,7 +1612,7 @@
         "comm_ids": ["NPWR00121"]
     },
     "Dark Souls": {
-        "title_ids": ["BLJM60517"],
+        "title_ids": ["BLJM60517", "BLAS50397", "BLES01396", "BLES01402", "BLUS30782", "BLJM60993", "BLES01765"],
         "comm_ids": ["NPWR00817"]
     },
     "Dark Souls II": {
@@ -1608,11 +1624,11 @@
         "comm_ids": ["NPWR05186"]
     },
     "Dark Void": {
-        "title_ids": ["BLUS30323"],
+        "title_ids": ["BLUS30323", "BLES00723"],
         "comm_ids": ["NPWR00698"]
     },
     "Darksiders": {
-        "title_ids": ["BLES00705"],
+        "title_ids": ["BLES00705", "BLJM60204", "BLUS30320"],
         "comm_ids": ["NPWR00986"]
     },
     "Darksiders II [EU/US]": {
@@ -1668,7 +1684,7 @@
         "comm_ids": ["NPWR04746"]
     },
     "Dead Nation": {
-        "title_ids": ["NPUA80358"],
+        "title_ids": ["NPUA80358", "BCET70025"],
         "comm_ids": ["NPWR01007"]
     },
     "Dead or Alive 5": {
@@ -1684,11 +1700,11 @@
         "comm_ids": ["NPWR04575"]
     },
     "Dead Rising 2": {
-        "title_ids": ["BLES00948"],
+        "title_ids": ["BLES00948", "BLJM60221", "BLUS30439"],
         "comm_ids": ["NPWR00699"]
     },
     "Dead Rising 2: Off The Record": {
-        "title_ids": ["BLES01302"],
+        "title_ids": ["BLES01302", "BLUS30763", "BLJM60341"],
         "comm_ids": ["NPWR01828"]
     },
     "Dead Space": {
@@ -1800,7 +1816,7 @@
         "comm_ids": ["NPWR03496"]
     },
     "Defiance": {
-        "title_ids": ["BLES01787"],
+        "title_ids": ["BLES01787", "BLUS30936"],
         "comm_ids": ["NPWR04175"]
     },
     "Demolition Inc.": {
@@ -2182,6 +2198,10 @@
     "Driver San Francisco": {
         "title_ids": ["BLES00891", "BLES00892", "BLUS30536", "BLJM60231", "BLES00951"],
         "comm_ids": ["NPWR00331"]
+    },
+    "Driver San Francisco Demo": {
+        "title_ids": ["NPEB90356", "NPUB90663"],
+        "comm_ids": [""]
     },
     "Droplitz": {
         "title_ids": ["NPUB30057"],
@@ -2856,7 +2876,7 @@
         "comm_ids": ["NPWR01527"]
     },
     "Fuse": {
-        "title_ids": ["BLES01724"],
+        "title_ids": ["BLES01724", "BLUS31040"],
         "comm_ids": ["NPWR03772"]
     },
     "G-Force": {
@@ -5143,6 +5163,10 @@
         "title_ids": ["BLUS30444"],
         "comm_ids": ["NPWR00908"]
     },
+    "NCAA Football 09": {
+        "title_ids": ["BLUS30155"],
+        "comm_ids": [""]
+    },
     "NCAA Football 10": {
         "title_ids": ["BLUS30355"],
         "comm_ids": ["NPWR00516"]
@@ -5984,7 +6008,7 @@
         "comm_ids": ["NPWR00941"]
     },
     "Ratchet & Clank: All 4 One": {
-        "title_ids": ["BCES01142", "BCUS98175"],
+        "title_ids": ["BCES01142", "BCUS98175", "NPUA80695"],
         "comm_ids": ["NPWR01008"]
     },
     "Ratchet & Clank: Into the Nexus": {
@@ -5992,7 +6016,7 @@
         "comm_ids": ["NPWR04695"]
     },
     "Ratchet & Clank: QForce": {
-        "title_ids": ["BCES01594", "NPEA00378"],
+        "title_ids": ["BCES01594", "NPEA00378", "NPUA80642"],
         "comm_ids": ["NPWR03529"]
     },
     "Ratchet: Deadlocked": {
@@ -7355,6 +7379,10 @@
         "title_ids": ["BLUS30328"],
         "comm_ids": ["NPWR00375"]
     },
+    "Stranglehold": {
+        "title_ids": ["BLUS30080", "BLES00144"],
+        "comm_ids": [""]
+    },
     "Street Fighter III: Third Strike Online Edition": {
         "title_ids": ["NPUB30301", "NPEB00554"],
         "comm_ids": ["NPWR01456"]
@@ -8565,7 +8593,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR06866", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071", "NPWR02707", "NPWR02227", "NPWR06976", "NPWR00091", "NPWR01232", "NPWR02570", "NPWR02297", "NPWR00930", "NPWR00197", "NPWR13864", "NPWR00337", "NPWR03344"]
+        "comm_ids": ["NPWR00119", "NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03900", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR08977", "NPWR01138", "NPWR00250", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR06866", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071", "NPWR02707", "NPWR02227", "NPWR06976", "NPWR00091", "NPWR01232", "NPWR02570", "NPWR02297", "NPWR00930", "NPWR00197", "NPWR13864", "NPWR00337", "NPWR03344", "NPWR00470"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
@@ -8926,6 +8954,10 @@
     "Wizardry: Labyrinth of Lost Souls": {
         "title_ids": ["NPJB00039"],
         "comm_ids": [""]
+    },
+    "Wolf of the Battlefield: Commando 3": {
+        "title_ids": [""],
+        "comm_ids": ["NPWR00149"]
     },
     "Wolfenstein": {
         "title_ids": ["BLES00564", "BLUS30298"],
