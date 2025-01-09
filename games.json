@@ -1308,7 +1308,7 @@
         "comm_ids": ["NPWR04216"]
     },
     "Cars 2": {
-        "title_ids": ["BLES01328"],
+        "title_ids": ["BLES01328", "BLES01244"],
         "comm_ids": ["NPWR01571"]
     },
     "Cars 3: Driven to Win": {
@@ -4223,8 +4223,8 @@
         "title_ids": [""],
         "comm_ids": ["NPWR06246"]
     },
-    "Kingdoms of Amalur: Reckoning [EU]": {
-        "title_ids": ["BLES01251"],
+    "Kingdoms of Amalur: Reckoning [EU/US]": {
+        "title_ids": ["BLES01251", "BLUS30710"],
         "comm_ids": ["NPWR02553"]
     },
     "Kingdoms of Amalur: Reckoning [JP]": {
@@ -5112,8 +5112,12 @@
         "comm_ids": ["NPWR01355"]
     },
     "ModNation Racers": {
-        "title_ids": ["BCES00764", "BCUS98167", "BCES00701", "BCAS20105", "BCET70020"],
+        "title_ids": ["BCES00764", "BCUS98167", "BCES00701", "BCAS20105"],
         "comm_ids": ["NPWR00300"]
+    },
+    "ModNation Racers Beta": {
+        "title_ids": ["BCET70020", "NPUA70074"],
+        "comm_ids": [""]
     },
     "Moe Moe Daisensou Gendaiban Plus Plus": {
         "title_ids": ["BLJS10163"],
@@ -5595,6 +5599,10 @@
         "title_ids": ["BLUS30840"],
         "comm_ids": ["NPWR02359"]
     },
+    "Need for Speed: Carbon": {
+        "title_ids": ["BLUS30016"],
+        "comm_ids": [""]
+    },
     "Need for Speed: Hot Pursuit": {
         "title_ids": ["NPUB30521", "BLES00949", "BLJM60297"],
         "comm_ids": ["NPWR01269"]
@@ -5620,7 +5628,7 @@
         "comm_ids": ["NPWR00599"]
     },
     "Need for Speed: The Run": {
-        "title_ids": ["NPUB30664"],
+        "title_ids": ["NPUB30664", "BLES01298"],
         "comm_ids": ["NPWR01835"]
     },
     "Need for Speed: Undercover": {
@@ -6148,7 +6156,7 @@
         "comm_ids": ["NPWR01112"]
     },
     "Prince of Persia: The Sands of Time": {
-        "title_ids": ["NPUB30303"],
+        "title_ids": ["NPUB30303", "NPEB00341"],
         "comm_ids": ["NPWR01506"]
     },
     "Prince of Persia: The Two Thrones": {
@@ -8848,7 +8856,7 @@
         "comm_ids": ["NPWR02636"]
     },
     "Tiger Woods PGA TOUR 14": {
-        "title_ids": ["BLUS31063"],
+        "title_ids": ["BLUS31063", "BLES01754"],
         "comm_ids": ["NPWR03990"]
     },
     "Time and Eternity [EU]": {
