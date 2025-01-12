@@ -3291,9 +3291,21 @@
         "title_ids": ["NPUA70196"],
         "comm_ids": [""]
     },
-    "GRAN TURISMO HD Concept": {
-        "title_ids": ["NPEA90002", "NPUA80019", "NPJA00010", "NPHA00001"],
+    "GRAN TURISMO HD Concept [JP]": {
+        "title_ids": ["NPJA00010"],
+        "comm_ids": ["NPWR00010"]
+    },
+    "GRAN TURISMO HD Concept [US]": {
+        "title_ids": ["NPUA80019"],
         "comm_ids": ["NPWR00064"]
+    },
+    "GRAN TURISMO HD Concept [Asia]": {
+        "title_ids": ["NPHA00001"],
+        "comm_ids": ["NPWR00065"]
+    },
+    "GRAN TURISMO HD Concept [EU]": {
+        "title_ids": ["NPEA90002"],
+        "comm_ids": ["NPWR00091"]
     },
     "Grand Theft Auto IV": {
         "title_ids": ["BLUS30127", "NPUB30702", "BLJM60346", "BLUS30524"],
@@ -5630,6 +5642,54 @@
     "Nelson Tethers: Puzzle Agent": {
         "title_ids": ["NPEB00489"],
         "comm_ids": ["NPWR01799"]
+    },
+    "NEOGEO STATION ALPHA MISSION II": {
+        "title_ids": ["NPUB30263"],
+        "comm_ids": ["NPWR01155"]
+    },
+    "NEOGEO STATION Art Of Fighting": {
+        "title_ids": ["NPUB30261"],
+        "comm_ids": ["NPWR01163"]
+    },
+    "NEOGEO STATION Baseballstars 2": {
+        "title_ids": ["NPJB70011"],
+        "comm_ids": ["NPWR02033"]
+    },
+    "NEOGEO STATION Baseballstars Professional": {
+        "title_ids": ["NPUB30262"],
+        "comm_ids": ["NPWR01158"]
+    },
+    "NEOGEO STATION Fatal Fury King Of Fighters": {
+        "title_ids": ["NPUB30260"],
+        "comm_ids": ["NPWR01093"]
+    },
+    "NEOGEO STATION League Bowling": {
+        "title_ids": ["NPUB30257"],
+        "comm_ids": ["NPWR01161"]
+    },
+    "NEOGEO STATION Magician Lord": {
+        "title_ids": ["NPUB30264"],
+        "comm_ids": ["NPWR01159"]
+    },
+    "NEOGEO STATION Metal Slug": {
+        "title_ids": ["NPUB30258"],
+        "comm_ids": ["NPWR01160"]
+    },
+    "NEOGEO STATION Metal Slug 2": {
+        "title_ids": ["NPJB70016"],
+        "comm_ids": ["NPWR02570"]
+    },
+    "NEOGEO STATION Samurai Shodown": {
+        "title_ids": ["NPUB30265"],
+        "comm_ids": ["NPWR01157"]
+    },
+    "NEOGEO STATION Super Sidekicks": {
+        "title_ids": ["NPUB30259"],
+        "comm_ids": ["NPWR01162"]
+    },
+    "NEOGEO STATION The King Of Fighters'94": {
+        "title_ids": ["NPUB30266"],
+        "comm_ids": ["NPWR01156"]
     },
     "Never Alone": {
         "title_ids": ["NPEB02346"],
@@ -9389,7 +9449,7 @@
     },
     "Unknown Game": {
         "title_ids": [""],
-        "comm_ids": ["NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR01138", "NPWR00250", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR06866", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071", "NPWR02707", "NPWR02227", "NPWR06976", "NPWR00091", "NPWR01232", "NPWR02570", "NPWR02297", "NPWR00930", "NPWR00197", "NPWR13864", "NPWR00337", "NPWR03344", "NPWR00470"]
+        "comm_ids": ["NPWR06053", "NPWR10955", "NPWR02966", "NPWR00059", "NPWR03536", "NPWR01918", "NPWR00075", "NPWR09695", "NPWR01637", "NPWR01138", "NPWR00250", "NPWR01787", "NPWR03377", "NPWR00006", "NPWR04446", "NPWR00137", "NPWR03015", "NPWR04378", "NPWR03383", "NPWR03943", "NPWR03082", "NPWR02479", "NPWR06866", "NPWR03405", "NPWR00335", "NPWR04189", "NPWR07087", "NPWR00326", "NPWR05071", "NPWR02707", "NPWR02227", "NPWR06976", "NPWR01232", "NPWR02297", "NPWR00930", "NPWR00197", "NPWR13864", "NPWR00337", "NPWR03344", "NPWR00470"]
     },
     "Unmechanical": {
         "title_ids": ["NPUB31605"],
