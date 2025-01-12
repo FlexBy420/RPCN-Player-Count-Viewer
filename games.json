@@ -6220,11 +6220,11 @@
         "comm_ids": ["NPWR01506"]
     },
     "Prince of Persia: The Two Thrones": {
-        "title_ids": [""],
+        "title_ids": ["NPEB00390"],
         "comm_ids": ["NPWR01551"]
     },
     "Prince of Persia: Warrior Within": {
-        "title_ids": [""],
+        "title_ids": ["NPEB00389"],
         "comm_ids": ["NPWR01526"]
     },
     "Prison Break": {
@@ -9731,7 +9731,7 @@
         "title_ids": ["BLJM60571"],
         "comm_ids": ["NPWR03729"]
     },
-    "White Knight Chronicles": {
+    "White Knight Chronicles [JP]": {
         "title_ids": ["BCJS30030"],
         "comm_ids": ["NPWR00314"]
     },
@@ -9739,8 +9739,8 @@
         "title_ids": ["BCES01085", "BLUS30784", "BCES01156"],
         "comm_ids": ["NPWR01681"]
     },
-    "White Knight Chronicles: International Edition": {
-        "title_ids": ["BCUS98146"],
+    "White Knight Chronicles [EU/US]": {
+        "title_ids": ["BCUS98146", "BCES00225"],
         "comm_ids": ["NPWR00940"]
     },
     "Whitetail Challenge": {
